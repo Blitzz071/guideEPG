@@ -1,10 +1,511 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
+  <channel id="Gol Perú">
+    <display-name lang="es">Gol Perú.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553955_D7D9A30FB187AF45.png" />
+    <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20221010000000 +0100" stop="20221010235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  <programme start="20221011160000 +0000" stop="20221011170000 +0000" channel="Gol Perú">
+    <title lang="es">Lo mejor de Leyendas F7</title>
+    <sub-title lang="es">Universitario vs. Íntimos</sub-title>
+    <desc lang="es">Fecha 5 de la Copa Leyendas Fútbol 7. Partido disputado el 31 de mayo de 2022 en el Complejo Deportivo Ollantaytambo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089296_8748F11C86EAE86E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011170000 +0000" stop="20221011190000 +0000" channel="Gol Perú">
+    <title lang="es">Gol Perú noticias</title>
+    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011190000 +0000" stop="20221011210000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Alianza Lima vs. Deportivo Municipal</sub-title>
+    <desc lang="es">Jornada 15 del Torneo Clausura. Alianza Lima recibe a Deportivo Municipal en el estadio Alejandro Villanueva.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13144444_6C0BED21F1CB0268.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011210000 +0000" stop="20221011213000 +0000" channel="Gol Perú">
+    <title lang="es">La entrevista</title>
+    <sub-title lang="es">Wilmer Cabrera</sub-title>
+    <desc lang="es">Entrevista al exjugador y entrenador colombo-estadounidense nacido en Cartagena, Wilmer Cabrera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075176_6AB5934D19E24B0D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011213000 +0000" stop="20221011220000 +0000" channel="Gol Perú">
+    <title lang="es">¡Viva fútbol!</title>
+    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011220000 +0000" stop="20221011223000 +0000" channel="Gol Perú">
+    <title lang="es">Gol replay</title>
+    <desc lang="es">Un repaso por los mejores goles alrededor del mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089291_7F954DCD67BC9F45.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011223000 +0000" stop="20221011230000 +0000" channel="Gol Perú">
+    <title lang="es">Charlas en cuarentena</title>
+    <sub-title lang="es">Rinaldo Cruzado</sub-title>
+    <desc lang="es">Programa especial.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0000" stop="20221012000000 +0000" channel="Gol Perú">
+    <title lang="es">Gol Perú noticias</title>
+    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012000000 +0000" stop="20221012010000 +0000" channel="Gol Perú">
+    <title lang="es">Código fútbol</title>
+    <desc lang="es">Un panel de expertos analiza en profundidad los partidos del campeonato peruano de fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088700_BD55DAF04AFC062C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012010000 +0000" stop="20221012020000 +0000" channel="Gol Perú">
+    <title lang="es">Lo mejor de Leyendas F7</title>
+    <sub-title lang="es">Los Íntimos vs. Santos</sub-title>
+    <desc lang="es">Fecha 1 del Torneo Clausura 2022 de la Copa Leyendas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089296_8748F11C86EAE86E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012020000 +0000" stop="20221012030000 +0000" channel="Gol Perú">
+    <title lang="es">Lo mejor de Leyendas F7</title>
+    <sub-title lang="es">Universitario vs. El Papá</sub-title>
+    <desc lang="es">Fecha 1 del Torneo Clausura 2022 de la Copa Leyendas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089296_8748F11C86EAE86E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012030000 +0000" stop="20221012040000 +0000" channel="Gol Perú">
+    <title lang="es">Diez por diez</title>
+    <desc lang="es">Los expertos en la materia debaten sobre las últimas noticias y novedades del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089292_FDC18A8C60DDB15F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012040000 +0000" stop="20221012043000 +0000" channel="Gol Perú">
+    <title lang="es">Once ideal</title>
+    <desc lang="es">Un repaso por las novedades y noticias que dejó la acción del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112038_F30FAB235AA02866.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012043000 +0000" stop="20221012050000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2022: Alianza Lima vs. Deportivo Municipal</sub-title>
+    <desc lang="es">Disputado el 10 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012050000 +0000" stop="20221012053000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2022: Melgar vs Ayacucho</sub-title>
+    <desc lang="es">Disputado el 8 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012053000 +0000" stop="20221012060000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2022: Alianza Atlético vs. Atlético Grau</sub-title>
+    <desc lang="es">Disputado el 9 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012060000 +0000" stop="20221012080000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2021: Universitario vs. Alianza Atlético</sub-title>
+    <desc lang="es">Disputado el 19 de julio de 2021.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012080000 +0000" stop="20221012100000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2021: Cienciano vs. Cantolao</sub-title>
+    <desc lang="es">Disputado el 23 de julio de 2021.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012100000 +0000" stop="20221012120000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2021: Cantolao vs. Ayacucho</sub-title>
+    <desc lang="es">Disputado el 30 de julio de 2021.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012120000 +0000" stop="20221012123000 +0000" channel="Gol Perú">
+    <title lang="es">Charlas en cuarentena</title>
+    <sub-title lang="es">Paul Cominges</sub-title>
+    <desc lang="es">Un ciclo de charlas y entrevistas desde casa durante la cuarentena.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012123000 +0000" stop="20221012130000 +0000" channel="Gol Perú">
+    <title lang="es">Once ideal</title>
+    <desc lang="es">Un repaso por las novedades y noticias que dejó la acción del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112038_F30FAB235AA02866.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012130000 +0000" stop="20221012133000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2022: Melgar vs Ayacucho</sub-title>
+    <desc lang="es">Disputado el 8 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012133000 +0000" stop="20221012140000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2022: Alianza Lima vs. Deportivo Municipal</sub-title>
+    <desc lang="es">Disputado el 10 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Gol Perú">
+    <title lang="es">Código fútbol</title>
+    <desc lang="es">Un panel de expertos analiza en profundidad los partidos del campeonato peruano de fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088700_BD55DAF04AFC062C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Gol Perú">
+    <title lang="es">Diez por diez</title>
+    <desc lang="es">Los expertos en la materia debaten sobre las últimas noticias y novedades del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089292_FDC18A8C60DDB15F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012160000 +0000" stop="20221012170000 +0000" channel="Gol Perú">
+    <title lang="es">Lo mejor de Leyendas F7</title>
+    <sub-title lang="es">Los Íntimos vs. Santos</sub-title>
+    <desc lang="es">Fecha 1 del Torneo Clausura 2022 de la Copa Leyendas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089296_8748F11C86EAE86E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012170000 +0000" stop="20221012190000 +0000" channel="Gol Perú">
+    <title lang="es">Gol Perú noticias</title>
+    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012190000 +0000" stop="20221012210000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Universitario vs. Carlos A. Mannucci</sub-title>
+    <desc lang="es">Jornada 14 del Torneo Clausura. Universitario enfrenta a Carlos A. Mannucci en el Estadio Monumental de Lima.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089465_F1D8C34F7FC66298.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012210000 +0000" stop="20221012213000 +0000" channel="Gol Perú">
+    <title lang="es">La entrevista</title>
+    <sub-title lang="es">Martín Liguera</sub-title>
+    <desc lang="es">Entrevistas a destacadas figuras del deporte nacional e internacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075176_6AB5934D19E24B0D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012213000 +0000" stop="20221012220000 +0000" channel="Gol Perú">
+    <title lang="es">Once ideal</title>
+    <desc lang="es">Un repaso por las novedades y noticias que dejó la acción del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112038_F30FAB235AA02866.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012220000 +0000" stop="20221012223000 +0000" channel="Gol Perú">
+    <title lang="es">Gol replay</title>
+    <desc lang="es">Un repaso por los mejores goles alrededor del mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089291_7F954DCD67BC9F45.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012223000 +0000" stop="20221012230000 +0000" channel="Gol Perú">
+    <title lang="es">Charlas en cuarentena</title>
+    <desc lang="es">Un ciclo de charlas y entrevistas desde casa durante la cuarentena.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221013000000 +0000" channel="Gol Perú">
+    <title lang="es">Gol Perú noticias</title>
+    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013000000 +0000" stop="20221013010000 +0000" channel="Gol Perú">
+    <title lang="es">Lo mejor de Leyendas F7</title>
+    <sub-title lang="es">Sporting Cristal vs. La Academia</sub-title>
+    <desc lang="es">Fecha 1 del Clausura 2022 de la Copa Leyendas. Sporting Cristal enfrenta a La Academia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089296_8748F11C86EAE86E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013010000 +0000" stop="20221013013000 +0000" channel="Gol Perú">
+    <title lang="es">¡Viva fútbol!</title>
+    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013013000 +0000" stop="20221013020000 +0000" channel="Gol Perú">
+    <title lang="es">Futbología</title>
+    <desc lang="es">Las novedades y los momentos insólitos del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060715_DBE4FD8C253B2B7C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013020000 +0000" stop="20221013030000 +0000" channel="Gol Perú">
+    <title lang="es">Código fútbol</title>
+    <desc lang="es">Un panel de expertos analiza en profundidad los partidos del campeonato peruano de fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088700_BD55DAF04AFC062C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013030000 +0000" stop="20221013040000 +0000" channel="Gol Perú">
+    <title lang="es">Diez por diez</title>
+    <desc lang="es">Los expertos en la materia debaten sobre las últimas noticias y novedades del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089292_FDC18A8C60DDB15F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013040000 +0000" stop="20221013043000 +0000" channel="Gol Perú">
+    <title lang="es">¡Viva fútbol!</title>
+    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013043000 +0000" stop="20221013050000 +0000" channel="Gol Perú">
+    <title lang="es">Futbología</title>
+    <desc lang="es">Las novedades y los momentos insólitos del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060715_DBE4FD8C253B2B7C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013050000 +0000" stop="20221013053000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2022: Alianza Lima vs. Deportivo Municipal</sub-title>
+    <desc lang="es">Disputado el 10 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013053000 +0000" stop="20221013060000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2022: Carlos Mannucci vs. Sport Boys</sub-title>
+    <desc lang="es">Disputado el 9 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013080000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Clausura 2021: Alianza Atlético vs. Sport Huancayo</sub-title>
+    <desc lang="es">Disputado el 24 de julio de 2021.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013100000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Clausura 2021: Ayacucho vs. Sport Boys</sub-title>
+    <desc lang="es">Disputado el 24 de julio de 2021.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013100000 +0000" stop="20221013120000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Clausura 2021: Melgar vs. Universidad César Vallejo</sub-title>
+    <desc lang="es">Disputado el 25 de julio de 2021.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013120000 +0000" stop="20221013123000 +0000" channel="Gol Perú">
+    <title lang="es">Charlas en cuarentena</title>
+    <sub-title lang="es">Gustavo Grondona</sub-title>
+    <desc lang="es">Charla sobre el exfutbolista Gustavo Grondona.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013123000 +0000" stop="20221013130000 +0000" channel="Gol Perú">
+    <title lang="es">Futbología</title>
+    <desc lang="es">Las novedades y los momentos insólitos del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060715_DBE4FD8C253B2B7C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013130000 +0000" stop="20221013133000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Compacto 2022: Sporting Cristal vs. Universitario</sub-title>
+    <desc lang="es">Lo mejor del partido correspondiente a la Fecha 15 del Torneo Clausura. Disputado el 9 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013133000 +0000" stop="20221013140000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">2022: Carlos Mannucci vs. Sport Boys</sub-title>
+    <desc lang="es">Disputado el 9 de octubre de 2022.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013140000 +0000" stop="20221013150000 +0000" channel="Gol Perú">
+    <title lang="es">Código fútbol</title>
+    <desc lang="es">Un panel de expertos analiza en profundidad los partidos del campeonato peruano de fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088700_BD55DAF04AFC062C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013160000 +0000" channel="Gol Perú">
+    <title lang="es">Diez por diez</title>
+    <desc lang="es">Los expertos en la materia debaten sobre las últimas noticias y novedades del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089292_FDC18A8C60DDB15F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013160000 +0000" stop="20221013170000 +0000" channel="Gol Perú">
+    <title lang="es">Lo mejor de Leyendas F7</title>
+    <sub-title lang="es">Universitario vs. El Papá</sub-title>
+    <desc lang="es">Fecha 1 del Clausura 2022 de la Copa Leyendas. Universitario enfrenta a El Papá.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089296_8748F11C86EAE86E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013170000 +0000" stop="20221013190000 +0000" channel="Gol Perú">
+    <title lang="es">Gol Perú noticias</title>
+    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013190000 +0000" stop="20221013210000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">César Vallejo vs. Alianza Lima</sub-title>
+    <desc lang="es">Jornada 14 del Torneo Clausura. Universidad César Vallejo enfrenta a Alianza Lima en el Estadio Mansiche.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089158_E9B4D8EB5C313F41.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013210000 +0000" stop="20221013213000 +0000" channel="Gol Perú">
+    <title lang="es">La entrevista</title>
+    <sub-title lang="es">Wilmer Cabrera</sub-title>
+    <desc lang="es">Entrevista al exjugador y entrenador colombo-estadounidense nacido en Cartagena, Wilmer Cabrera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075176_6AB5934D19E24B0D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013213000 +0000" stop="20221013220000 +0000" channel="Gol Perú">
+    <title lang="es">¡Viva fútbol!</title>
+    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013220000 +0000" stop="20221013223000 +0000" channel="Gol Perú">
+    <title lang="es">Gol replay</title>
+    <desc lang="es">Un repaso por los mejores goles alrededor del mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089291_7F954DCD67BC9F45.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013223000 +0000" stop="20221013230000 +0000" channel="Gol Perú">
+    <title lang="es">Charlas en cuarentena</title>
+    <sub-title lang="es">Gustavo Grondona</sub-title>
+    <desc lang="es">Charla sobre el exfutbolista Gustavo Grondona.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221014000000 +0000" channel="Gol Perú">
+    <title lang="es">Gol Perú noticias</title>
+    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
   </programme>
 </tv>
