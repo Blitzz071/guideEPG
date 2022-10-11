@@ -45,6 +45,11 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718167_EF5EE18D14637ABA.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
+  <channel id="Movistar LaLiga TV">
+    <display-name lang="es">Movistar LaLiga TV.</display-name>
+    <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/MLIGA.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
   <programme start="20221011170000 +0000" stop="20221011190000 +0000" channel="Gol Perú">
     <title lang="es">Gol Perú noticias</title>
     <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
@@ -1221,22 +1226,6 @@
   <programme start="20221013230000 +0000" stop="20221014030000 +0000" channel="Movistar Eventos 2">
     <title lang="es">Movistar eventos 2</title>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221011172000 +0000" stop="20221011175000 +0000" channel="USMP TV">
-    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
-    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221011175000 +0000" stop="20221011182000 +0000" channel="USMP TV">
-    <title lang="es">Leer para contarla</title>
-    <desc lang="es">Las mejores historias de la literatura en un concepto fresco, juvenil y divertido.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005305_B748AFCE85B8D029.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
@@ -2646,22 +2635,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221011170000 +0000" stop="20221011174500 +0000" channel="Canal N">
-    <title lang="es">N Noticias</title>
-    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221011174500 +0000" stop="20221011180000 +0000" channel="Canal N">
-    <title lang="es">N Deportes</title>
-    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20221011180000 +0000" stop="20221011190000 +0000" channel="Canal N">
     <title lang="es">N Noticias</title>
     <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
@@ -3144,25 +3117,6 @@
     <title lang="es">N Noticias</title>
     <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221011173000 +0000" stop="20221011180000 +0000" channel="Movistar Plus">
-    <title lang="es">Desde el jardín</title>
-    <sub-title lang="es">La chacra feliz</sub-title>
-    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221011180000 +0000" stop="20221011183000 +0000" channel="Movistar Plus">
-    <title lang="es">Más rico</title>
-    <sub-title lang="es">Turrón</sub-title>
-    <desc lang="es">El turrón de doña Pepa es pura tradición peruana, un postre que se remonta a la época virreinal y uno de los favoritos de la gente.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
@@ -4168,5 +4122,779 @@
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
+  </programme>
+  <programme start="20221011060000 +0200" stop="20221011074000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Real Sociedad-Villarreal</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">Real Sociedad y Villarreal auguran un choque atractivo. Separados por un solo punto en la tabla, los donostiarras quieren poner tierra de por medio. Los de Imanol Alguacil buscan el tercer triunfo consecutivo; los de Emery, en cambio, encadenan tres jornadas sin vencer.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035072" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011074000 +0200" stop="20221011094000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Elche - Mallorca</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El 22 de agosto logró el Elche el único punto que suma en su casillero. Desde entonces, cinco derrotas consecutivas, una situación que ha llevado al relevo en el banquillo. El Mallorca es un duro visitante: la mitad de sus puntos los ha logrado a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035064" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011094000 +0200" stop="20221011113000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: At. Madrid-Girona</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Atlético ha mostrado sus dos caras esta semana: victoria de prestigio en el Sánchez Pizjuán y derrota comprometedora en Brujas. Los de Simeone vuelven al Metropolitano, donde confían en lograr el triunfo frente a un Girona que solo ha sumado un punto a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035060" />
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011121500 +0200" stop="20221011122500 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga SmartBank: Huesca-Lugo</title>
+    <title lang="en">Resúmenes LaLiga SmartBank/23</title>
+    <desc lang="es">Huesca y Lugo se reparten puntos con el empate a uno en El Alcoraz. El cuadro lucense pudo llevarse la victoria en los minutos finales de partido. Valentín y Cuéllar anotaron los goles. El Huesca jugó con uno menos desde el 60' del encuentro.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035197" />
+  </programme>
+  <programme start="20221011122500 +0200" stop="20221011141500 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Real Sociedad-Villarreal</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">Real Sociedad y Villarreal auguran un choque atractivo. Separados por un solo punto en la tabla, los donostiarras quieren poner tierra de por medio. Los de Imanol Alguacil buscan el tercer triunfo consecutivo; los de Emery, en cambio, encadenan tres jornadas sin vencer.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035072" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011141500 +0200" stop="20221011142700 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Getafe - Real Madrid</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">El Real Madrid gana por la mínima en el Coliseum y suma tres puntos que le mantienen en la lucha por el liderato a una semana de El Clásico. El solitario y tempranero gol de Militao valió a los de Ancelotti para llevarse la victoria.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036709" />
+  </programme>
+  <programme start="20221011142700 +0200" stop="20221011144000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Barcelona - Celta</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">El Barcelona sufre en casa ante el Celta pero acaba sumando los tres puntos que le mantienen líder antes de la cita del Clásico la próxima jornada. El solitario gol de Pedri y la gran actuación del guardameta Ter Stegen le sirvió a los de Xavi para ganar.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036705" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011144000 +0200" stop="20221011145300 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: At. Madrid - Girona</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">Los del Cholo se imponen por la mínima al Girona en un sufrido partido. Un doblete de Correa le dio finalmente los tres puntos al Atlético de Madrid. Riquelme marcó para el conjunto catalán, que acumula tres derrotas consecutivas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036703" />
+  </programme>
+  <programme start="20221011145300 +0200" stop="20221011150600 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Real Sociedad - Villarreal</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">La Real Sociedad se impone por la mínima en casa al Villarreal y suma tres puntos que le colocan en la sexta posición de la tabla. El solitario gol de Brais sentenció al Villarreal, que ya acumula cuatro partidos sin conocer la victoria.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036715" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011150600 +0200" stop="20221011151800 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Sevilla - Athletic</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">Sampaoli se estrena con empate en el banquillo del Sevilla. Oliver Torres anotó en el 3' del partido para adelantar a los locales en el marcador. No supieron mantener la ventaja y Vesga puso el 1-1 definitivo que repartía puntos.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036719" />
+  </programme>
+  <programme start="20221011151800 +0200" stop="20221011153100 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Valladolid - Betis</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">Con el empate a nada en Pucela, el Betis empata a puntos con el Atlético de Madrid y pierde la cuarta plaza. El conjunto bético jugó con uno menos desde el 34' de partido tras la expulsión de Pezzella.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036721" />
+  </programme>
+  <programme start="20221011153100 +0200" stop="20221011154400 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Osasuna - Valencia</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">El Valencia se impone por la mínima en El Sadar y suma sus primeros tres puntos a domicilio en lo que va de temporada. Kluivert y Diakhabi anotaron los goles de la victoria valencianista. Brasanac puso el definitivo 1-2 en un final de partido tenso con tres expulsiones.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036713" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011154400 +0200" stop="20221011155700 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Cádiz - Espanyol</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">El partidazo en el Nuevo Mirandilla se resolvió con reparto de puntos. Joselu marcó un doblete para los periquitos, Victori Chust y Lucas Pérez pusieron el 2-2 definitivo en el marcador. El Espanyol se queda a un punto del descenso.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036711" />
+  </programme>
+  <programme start="20221011155700 +0200" stop="20221011161000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Almería - Rayo</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">Tras cuatro derrotas consecutivas, el Almería rompe su mala racha y sale del descenso con una goleada en casa ante el Rayo. Robertone, Babic y El Bilal Touré dejaron los tres puntos en el Juegos Mediterráneos. Catena marcó para el cuadro rayista, que suma tres derrotas a domicilio seguidas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036717" />
+  </programme>
+  <programme start="20221011161000 +0200" stop="20221011162600 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga Santander: Elche - Mallorca</title>
+    <title lang="en">Resúmenes LaLiga Santander/23</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036707" />
+  </programme>
+  <programme start="20221011162600 +0200" stop="20221011182000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Elche - Mallorca</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El 22 de agosto logró el Elche el único punto que suma en su casillero. Desde entonces, cinco derrotas consecutivas, una situación que ha llevado al relevo en el banquillo. El Mallorca es un duro visitante: la mitad de sus puntos los ha logrado a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035064" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011190100 +0200" stop="20221011191000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga SmartBank: Zaragoza-Real Oviedo</title>
+    <title lang="en">Resúmenes LaLiga SmartBank/23</title>
+    <desc lang="es">Nuevo tropiezo del Zaragoza que, después de tres jornadas sin ganar, se queda a dos puntos del descenso. Iván Azón marcó para los locales pero no aprovecharon la ventaja. Montor puso el 1-1 para el Oviedo que repartió puntos.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035213" />
+  </programme>
+  <programme start="20221011191000 +0200" stop="20221011210000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Getafe-Real Madrid</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Real Madrid se dejó los dos primeros puntos de la temporada al empatar con Osasuna en el Bernabéu. Los blancos pretenden reencontrarse con la victoria en su visita a Getafe. Allí le espera un conjunto que se está mostrando muy irregular en el inicio de curso.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035066" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221011210000 +0200" stop="20221011220000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resumen LaLiga Santander: Jornada 8</title>
+    <title lang="en">Resumen LaLiga Santander/23</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4032981" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221011220000 +0200" stop="20221011230000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Especial El Clásico: La película de El Clásico</title>
+    <title lang="en">Especial El Clásico/23</title>
+    <desc lang="es">Toda la información relacionada con el partido de la novena jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1596731V2129590" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0200" stop="20221012005000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: At. Madrid-Girona</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Atlético ha mostrado sus dos caras esta semana: victoria de prestigio en el Sánchez Pizjuán y derrota comprometedora en Brujas. Los de Simeone vuelven al Metropolitano, donde confían en lograr el triunfo frente a un Girona que solo ha sumado un punto a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035060" />
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221012005000 +0200" stop="20221012015000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resumen LaLiga Smartbank: Jornada 9</title>
+    <title lang="en">Resumen LaLiga Smartbank/23</title>
+    <desc lang="es">Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada en LaLiga Smartbank.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4028680" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012015000 +0200" stop="20221012034000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Real Sociedad-Villarreal</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">Real Sociedad y Villarreal auguran un choque atractivo. Separados por un solo punto en la tabla, los donostiarras quieren poner tierra de por medio. Los de Imanol Alguacil buscan el tercer triunfo consecutivo; los de Emery, en cambio, encadenan tres jornadas sin vencer.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035072" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221012034000 +0200" stop="20221012044000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resumen LaLiga Santander: Jornada 8</title>
+    <title lang="en">Resumen LaLiga Santander/23</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4032981" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012044000 +0200" stop="20221012063000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Valladolid-Betis</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Valladolid rompió la semana pasada una mala racha de tres derrotas consecutivas al imponerse en Getafe. El Betis, por su parte, perdió en el campo del Celta y cayó de la tercera posición. Ambos conjuntos se miden en la octava jornada de campeonato.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036330" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221012063000 +0200" stop="20221012072500 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resumen LaLiga Smartbank: Jornada 9</title>
+    <title lang="en">Resumen LaLiga Smartbank/23</title>
+    <desc lang="es">Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada en LaLiga Smartbank.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4028680" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012072500 +0200" stop="20221012075000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga ZAP</title>
+    <title lang="en">LaLiga ZAP/23</title>
+    <desc lang="es">Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993015" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012075000 +0200" stop="20221012082000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga World</title>
+    <title lang="en">LaLiga World/23</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012082000 +0200" stop="20221012101000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Real Sociedad-Villarreal</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">Real Sociedad y Villarreal auguran un choque atractivo. Separados por un solo punto en la tabla, los donostiarras quieren poner tierra de por medio. Los de Imanol Alguacil buscan el tercer triunfo consecutivo; los de Emery, en cambio, encadenan tres jornadas sin vencer.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035072" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221012101000 +0200" stop="20221012111000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resumen LaLiga Santander: Jornada 8</title>
+    <title lang="en">Resumen LaLiga Santander/23</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4032981" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012111000 +0200" stop="20221012130000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Valladolid-Betis</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Valladolid rompió la semana pasada una mala racha de tres derrotas consecutivas al imponerse en Getafe. El Betis, por su parte, perdió en el campo del Celta y cayó de la tercera posición. Ambos conjuntos se miden en la octava jornada de campeonato.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036330" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221012130000 +0200" stop="20221012140000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Especial El Clásico: La película de El Clásico</title>
+    <title lang="en">Especial El Clásico/23</title>
+    <desc lang="es">Toda la información relacionada con el partido de la novena jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1596731V2129590" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012140000 +0200" stop="20221012155000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Elche - Mallorca</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El 22 de agosto logró el Elche el único punto que suma en su casillero. Desde entonces, cinco derrotas consecutivas, una situación que ha llevado al relevo en el banquillo. El Mallorca es un duro visitante: la mitad de sus puntos los ha logrado a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035064" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221012155000 +0200" stop="20221012162000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Especial El Clásico: El análisis de El Clásico</title>
+    <title lang="en">Especial El Clásico/23</title>
+    <desc lang="es">Toda la información relacionada con el partido de la novena jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1596733V2129589" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012162000 +0200" stop="20221012181000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Getafe-Real Madrid</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Real Madrid se dejó los dos primeros puntos de la temporada al empatar con Osasuna en el Bernabéu. Los blancos pretenden reencontrarse con la victoria en su visita a Getafe. Allí le espera un conjunto que se está mostrando muy irregular en el inicio de curso.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035066" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221012181000 +0200" stop="20221012191000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resumen LaLiga Santander: Jornada 8</title>
+    <title lang="en">Resumen LaLiga Santander/23</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4032981" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012191000 +0200" stop="20221012210000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: At. Madrid-Girona</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Atlético ha mostrado sus dos caras esta semana: victoria de prestigio en el Sánchez Pizjuán y derrota comprometedora en Brujas. Los de Simeone vuelven al Metropolitano, donde confían en lograr el triunfo frente a un Girona que solo ha sumado un punto a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035060" />
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221012210000 +0200" stop="20221012213000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga World</title>
+    <title lang="en">LaLiga World/23</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012213000 +0200" stop="20221012220000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Especial El Clásico: El análisis de El Clásico</title>
+    <title lang="en">Especial El Clásico/23</title>
+    <desc lang="es">Toda la información relacionada con el partido de la novena jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1596733V2129589" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012220000 +0200" stop="20221012230000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Especial El Clásico: El camino a El Clásico</title>
+    <title lang="en">Especial El Clásico/23</title>
+    <desc lang="es">Toda la información relacionada con el partido de la novena jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1596735V2129782" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0200" stop="20221013005000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Real Sociedad-Villarreal</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">Real Sociedad y Villarreal auguran un choque atractivo. Separados por un solo punto en la tabla, los donostiarras quieren poner tierra de por medio. Los de Imanol Alguacil buscan el tercer triunfo consecutivo; los de Emery, en cambio, encadenan tres jornadas sin vencer.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035072" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013012100 +0200" stop="20221013013000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga SmartBank: Lugo-Las Palmas</title>
+    <title lang="en">Resúmenes LaLiga SmartBank/23</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4038096" />
+  </programme>
+  <programme start="20221013013000 +0200" stop="20221013032000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Valladolid-Betis</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Valladolid rompió la semana pasada una mala racha de tres derrotas consecutivas al imponerse en Getafe. El Betis, por su parte, perdió en el campo del Celta y cayó de la tercera posición. Ambos conjuntos se miden en la octava jornada de campeonato.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036330" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013032000 +0200" stop="20221013042000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resumen LaLiga Santander: Jornada 8</title>
+    <title lang="en">Resumen LaLiga Santander/23</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4032981" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013042000 +0200" stop="20221013061000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Elche - Mallorca</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El 22 de agosto logró el Elche el único punto que suma en su casillero. Desde entonces, cinco derrotas consecutivas, una situación que ha llevado al relevo en el banquillo. El Mallorca es un duro visitante: la mitad de sus puntos los ha logrado a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035064" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013061000 +0200" stop="20221013080000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Getafe-Real Madrid</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Real Madrid se dejó los dos primeros puntos de la temporada al empatar con Osasuna en el Bernabéu. Los blancos pretenden reencontrarse con la victoria en su visita a Getafe. Allí le espera un conjunto que se está mostrando muy irregular en el inicio de curso.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035066" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013080000 +0200" stop="20221013083000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga World</title>
+    <title lang="en">LaLiga World/23</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013083000 +0200" stop="20221013102000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Valladolid-Betis</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Valladolid rompió la semana pasada una mala racha de tres derrotas consecutivas al imponerse en Getafe. El Betis, por su parte, perdió en el campo del Celta y cayó de la tercera posición. Ambos conjuntos se miden en la octava jornada de campeonato.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036330" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013105100 +0200" stop="20221013110000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga SmartBank: Lugo-Las Palmas</title>
+    <title lang="en">Resúmenes LaLiga SmartBank/23</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4038096" />
+  </programme>
+  <programme start="20221013110000 +0200" stop="20221013125000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Elche - Mallorca</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El 22 de agosto logró el Elche el único punto que suma en su casillero. Desde entonces, cinco derrotas consecutivas, una situación que ha llevado al relevo en el banquillo. El Mallorca es un duro visitante: la mitad de sus puntos los ha logrado a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035064" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013125000 +0200" stop="20221013132000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Especial El Clásico: El análisis de El Clásico</title>
+    <title lang="en">Especial El Clásico/23</title>
+    <desc lang="es">Toda la información relacionada con el partido de la novena jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1596733V2129589" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013132000 +0200" stop="20221013151000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Getafe-Real Madrid</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Real Madrid se dejó los dos primeros puntos de la temporada al empatar con Osasuna en el Bernabéu. Los blancos pretenden reencontrarse con la victoria en su visita a Getafe. Allí le espera un conjunto que se está mostrando muy irregular en el inicio de curso.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035066" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013151000 +0200" stop="20221013161000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Especial El Clásico: El camino a El Clásico</title>
+    <title lang="en">Especial El Clásico/23</title>
+    <desc lang="es">Toda la información relacionada con el partido de la novena jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1596735V2129782" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013161000 +0200" stop="20221013180000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: At. Madrid-Girona</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Atlético ha mostrado sus dos caras esta semana: victoria de prestigio en el Sánchez Pizjuán y derrota comprometedora en Brujas. Los de Simeone vuelven al Metropolitano, donde confían en lograr el triunfo frente a un Girona que solo ha sumado un punto a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035060" />
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013183100 +0200" stop="20221013184000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga SmartBank: Lugo-Las Palmas</title>
+    <title lang="en">Resúmenes LaLiga SmartBank/23</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4038096" />
+  </programme>
+  <programme start="20221013184000 +0200" stop="20221013191000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Especial El Clásico: El análisis de El Clásico</title>
+    <title lang="en">Especial El Clásico/23</title>
+    <desc lang="es">Toda la información relacionada con el partido de la novena jornada de LaLiga que enfrenta a Real Madrid y Barcelona. El Clásico del Santiago Bernabéu atraerá las miradas de todo el mundo del fútbol.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1596733V2129589" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013191000 +0200" stop="20221013210000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Real Sociedad-Villarreal</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">Real Sociedad y Villarreal auguran un choque atractivo. Separados por un solo punto en la tabla, los donostiarras quieren poner tierra de por medio. Los de Imanol Alguacil buscan el tercer triunfo consecutivo; los de Emery, en cambio, encadenan tres jornadas sin vencer.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035072" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221013210000 +0200" stop="20221013213000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Crónicas de LaLiga: Jornada 8</title>
+    <title lang="en">Crónicas de LaLiga/23</title>
+    <desc lang="es">En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4029739" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013213000 +0200" stop="20221013220000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Nations: Sudáfrica</title>
+    <title lang="en">LaLiga Nations</title>
+    <desc lang="es">Desde hace años, la globalización en el fútbol es un fenómeno natural y aceptado, algo que no ocurría pocas décadas atrás. LaLiga es un buen ejemplo: entre las plantillas de los clubes de Primera militan jugadores de más de 40 nacionalidades diferentes.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3825330" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013220000 +0200" stop="20221013223000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga World</title>
+    <title lang="en">LaLiga World/23</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013223000 +0200" stop="20221013230000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Show: Jornada 9</title>
+    <title lang="en">LaLiga Show/23</title>
+    <desc lang="es">La previa de cada jornada de LaLiga Santander y de la LaLiga SmartBank. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756804" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0200" stop="20221014005000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Valladolid-Betis</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Valladolid rompió la semana pasada una mala racha de tres derrotas consecutivas al imponerse en Getafe. El Betis, por su parte, perdió en el campo del Celta y cayó de la tercera posición. Ambos conjuntos se miden en la octava jornada de campeonato.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4036330" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221014005000 +0200" stop="20221014012000 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga World</title>
+    <title lang="en">LaLiga World/23</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3756780" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221014020500 +0200" stop="20221014021500 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Resúmenes LaLiga SmartBank: Lugo-Las Palmas</title>
+    <title lang="en">Resúmenes LaLiga SmartBank/23</title>
+    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4038096" />
+  </programme>
+  <programme start="20221014021500 +0200" stop="20221014040500 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Elche - Mallorca</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El 22 de agosto logró el Elche el único punto que suma en su casillero. Desde entonces, cinco derrotas consecutivas, una situación que ha llevado al relevo en el banquillo. El Mallorca es un duro visitante: la mitad de sus puntos los ha logrado a domicilio.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035064" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221014040500 +0200" stop="20221014043500 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">Crónicas de LaLiga: Jornada 8</title>
+    <title lang="en">Crónicas de LaLiga/23</title>
+    <desc lang="es">En los 90 minutos que dura un partido de LaLiga ocurren muchas cosas, muchas historias paralelas que pueden inclinar el resultado final del encuentro. Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios de Primera División.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4029739" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221014043500 +0200" stop="20221014062500 +0200" channel="Movistar LaLiga TV">
+    <title lang="es">LaLiga Santander: Getafe-Real Madrid</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Real Madrid se dejó los dos primeros puntos de la temporada al empatar con Osasuna en el Bernabéu. Los blancos pretenden reencontrarse con la victoria en su visita a Getafe. Allí le espera un conjunto que se está mostrando muy irregular en el inicio de curso.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4035066" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
   </programme>
 </tv>
