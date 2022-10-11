@@ -10,6 +10,41 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718159_BE424D8C4C1AA0DF.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
+  <channel id="Movistar Eventos 1">
+    <display-name lang="es">Movistar Eventos 1.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/00/8005555_950265F10D883D1D.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="Movistar Eventos 2">
+    <display-name lang="es">Movistar Eventos 2.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/49/8497308_4421741CE2838F7D.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="USMP TV">
+    <display-name lang="es">USMP TV.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/26/7269601_72EE309DF28FB4D3.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="Canal J">
+    <display-name lang="es">Canal J.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/60/10602423_4E24A865E6B88040.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="RPP TV">
+    <display-name lang="es">RPP TV.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847942_805AC3336E6752E2.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="Canal N">
+    <display-name lang="es">Canal N.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718161_ED12803FCF6BD159.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="Movistar Plus">
+    <display-name lang="es">Movistar Plus.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718167_EF5EE18D14637ABA.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
   <programme start="20221011170000 +0000" stop="20221011190000 +0000" channel="Gol Perú">
     <title lang="es">Gol Perú noticias</title>
     <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
@@ -504,14 +539,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221011170000 +0000" stop="20221011173000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">La carne del domingo</title>
-    <desc lang="es">Resumen de la jornada deportiva. Las mejores jugadas y goles de los partidos de fútbol transmitidos en el país.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112881_A4385993304102DF.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221011173000 +0000" stop="20221011190000 +0000" channel="Movistar Deportes Perú">
     <title lang="es">Después de todo</title>
     <desc lang="es">Programa de análisis de lo acontecido en la semana de la Liga 1 de Perú.(n)</desc>
@@ -984,6 +1011,3160 @@
     <title lang="es">Súper Liga Fútbol 7 Perú</title>
     <desc lang="es">Los mejores partidos y toda la emoción de la liga de fútbol siete contra siete peruana.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038695_2C5EFB9613B87F55.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011150000 +0000" stop="20221011190000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011190000 +0000" stop="20221011230000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0000" stop="20221012030000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012030000 +0000" stop="20221012070000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012070000 +0000" stop="20221012110000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012110000 +0000" stop="20221012150000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012190000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012190000 +0000" stop="20221012230000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221013030000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013030000 +0000" stop="20221013070000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013070000 +0000" stop="20221013110000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013110000 +0000" stop="20221013150000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013190000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013190000 +0000" stop="20221013230000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221014030000 +0000" channel="Movistar Eventos 1">
+    <title lang="es">Movistar eventos</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011150000 +0000" stop="20221011190000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011190000 +0000" stop="20221011230000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0000" stop="20221012030000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012030000 +0000" stop="20221012070000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012070000 +0000" stop="20221012110000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012110000 +0000" stop="20221012150000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012190000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012190000 +0000" stop="20221012230000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221013030000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013030000 +0000" stop="20221013070000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013070000 +0000" stop="20221013110000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013110000 +0000" stop="20221013150000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013190000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013190000 +0000" stop="20221013230000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221014030000 +0000" channel="Movistar Eventos 2">
+    <title lang="es">Movistar eventos 2</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011172000 +0000" stop="20221011175000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011175000 +0000" stop="20221011182000 +0000" channel="USMP TV">
+    <title lang="es">Leer para contarla</title>
+    <desc lang="es">Las mejores historias de la literatura en un concepto fresco, juvenil y divertido.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005305_B748AFCE85B8D029.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011182000 +0000" stop="20221011185000 +0000" channel="USMP TV">
+    <title lang="es">Desde el zoológico</title>
+    <desc lang="es">Una visita al Zoológico Guadalajara, donde se presentan las labores diarias, los feroces animales, las temidas criaturas y las adorables especies del mundo animal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010636_1C066A3EFBDFC4AD.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011185000 +0000" stop="20221011192000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 3.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005011_69CAFF4F582A3958.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011192000 +0000" stop="20221011195000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 3.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998614_D48B5D88E8883FF2.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011195000 +0000" stop="20221011202000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 4.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013697_BC4FB20A1EEC539E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011202000 +0000" stop="20221011205000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 4.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998606_270D0505996D07DB.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011205000 +0000" stop="20221011212000 +0000" channel="USMP TV">
+    <title lang="es">Buenas noticias</title>
+    <desc lang="es">La información más importante para el ámbito educacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998594_6DE89485EF654129.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011212000 +0000" stop="20221011215000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 5.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013699_C77022EA5C1100B7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011215000 +0000" stop="20221011220000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 5.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998608_9F0173937D3C0EC1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011220000 +0000" stop="20221011223000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 5.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005308_8C524666BC0D3112.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011223000 +0000" stop="20221011230000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0000" stop="20221011231000 +0000" channel="USMP TV">
+    <title lang="es">Historias para armar</title>
+    <desc lang="es">Un espacio para descubrir toda la magia detrás de las historias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001308_DA3FACC9797043B9.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011231000 +0000" stop="20221011234000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011234000 +0000" stop="20221012001000 +0000" channel="USMP TV">
+    <title lang="es">Desde el zoológico</title>
+    <desc lang="es">Una visita al Zoológico Guadalajara, donde se presentan las labores diarias, los feroces animales, las temidas criaturas y las adorables especies del mundo animal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010636_1C066A3EFBDFC4AD.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012001000 +0000" stop="20221012004000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 3.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005011_69CAFF4F582A3958.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012004000 +0000" stop="20221012011000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 3.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998614_D48B5D88E8883FF2.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012011000 +0000" stop="20221012014000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 4.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013697_BC4FB20A1EEC539E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012014000 +0000" stop="20221012021000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 4.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998606_270D0505996D07DB.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012021000 +0000" stop="20221012024000 +0000" channel="USMP TV">
+    <title lang="es">Buenas noticias</title>
+    <desc lang="es">La información más importante para el ámbito educacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998594_6DE89485EF654129.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012024000 +0000" stop="20221012031000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 5.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013699_C77022EA5C1100B7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012031000 +0000" stop="20221012032000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 5.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998608_9F0173937D3C0EC1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012032000 +0000" stop="20221012035000 +0000" channel="USMP TV">
+    <title lang="es">Historias para armar</title>
+    <desc lang="es">Un espacio para descubrir toda la magia detrás de las historias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001308_DA3FACC9797043B9.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012035000 +0000" stop="20221012040000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012040000 +0000" stop="20221012043000 +0000" channel="USMP TV">
+    <title lang="es">Mi ciudad en bicicleta</title>
+    <desc lang="es">Se recorren distintas ciudades de México en bicicleta, uno de los medios de transporte más elegidos en la actualidad.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995728_A8B75312DF9E37DD.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012043000 +0000" stop="20221012060000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012060000 +0000" stop="20221012062000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 3.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998614_D48B5D88E8883FF2.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012062000 +0000" stop="20221012063000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 4.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013697_BC4FB20A1EEC539E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012063000 +0000" stop="20221012070000 +0000" channel="USMP TV">
+    <title lang="es">Buenas noticias</title>
+    <desc lang="es">La información más importante para el ámbito educacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998594_6DE89485EF654129.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012070000 +0000" stop="20221012073000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 5.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013699_C77022EA5C1100B7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012073000 +0000" stop="20221012080000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 5.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998608_9F0173937D3C0EC1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012080000 +0000" stop="20221012083000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 5.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005308_8C524666BC0D3112.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012083000 +0000" stop="20221012084000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012084000 +0000" stop="20221012091000 +0000" channel="USMP TV">
+    <title lang="es">Historias para armar</title>
+    <desc lang="es">Un espacio para descubrir toda la magia detrás de las historias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001308_DA3FACC9797043B9.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012091000 +0000" stop="20221012094000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 5.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998608_9F0173937D3C0EC1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012094000 +0000" stop="20221012101000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 5.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005308_8C524666BC0D3112.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012101000 +0000" stop="20221012104000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012104000 +0000" stop="20221012105000 +0000" channel="USMP TV">
+    <title lang="es">Historias para armar</title>
+    <desc lang="es">Un espacio para descubrir toda la magia detrás de las historias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001308_DA3FACC9797043B9.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012105000 +0000" stop="20221012110000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012110000 +0000" stop="20221012113000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012113000 +0000" stop="20221012120000 +0000" channel="USMP TV">
+    <title lang="es">Desde el zoológico</title>
+    <desc lang="es">Una visita al Zoológico Guadalajara, donde se presentan las labores diarias, los feroces animales, las temidas criaturas y las adorables especies del mundo animal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010636_1C066A3EFBDFC4AD.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012120000 +0000" stop="20221012123000 +0000" channel="USMP TV">
+    <title lang="es">Leer para contarla</title>
+    <desc lang="es">Las mejores historias de la literatura en un concepto fresco, juvenil y divertido.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005305_B748AFCE85B8D029.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012123000 +0000" stop="20221012125000 +0000" channel="USMP TV">
+    <title lang="es">Mentes curiosas</title>
+    <desc lang="es">Un espacio destinado a las disciplinas científicas y con el objetivo de motivar su estudio.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999887_F9A745D8B23FA311.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012125000 +0000" stop="20221012130000 +0000" channel="USMP TV">
+    <title lang="es">El mundo de Fredo Fox</title>
+    <desc lang="es">Fredo recorre el mundo en busca de personas que ayudan a mejorar la vida de los demás.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006088_B894C11E95B1A266.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012130000 +0000" stop="20221012132500 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 1.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005013_B40C1BDB73306BF7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012133000 +0000" stop="20221012140000 +0000" channel="USMP TV">
+    <title lang="es">Los chicos opinan</title>
+    <desc lang="es">Se visitan distintos colegios para conocer la opinión de los alumnos con respecto a diferentes temáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004142_225E3B16DBB7453C.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012140000 +0000" stop="20221012143000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 3.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005015_DB1F3ADD3DAD7823.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012143000 +0000" stop="20221012150000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 3.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998610_64CD17656446ACE0.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012153000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 4.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013701_F2EBF15571ABFEC5.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012153000 +0000" stop="20221012160000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 4.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005017_597377AD34E64C16.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012160000 +0000" stop="20221012161000 +0000" channel="USMP TV">
+    <title lang="es">La ciencia nos cambió</title>
+    <desc lang="es">Un espacio donde una experta habla de los descubrimientos científicos más importantes en la historia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997412_EB02607F26106688.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012161000 +0000" stop="20221012164000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 5.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013695_C6A193387464D1A7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012164000 +0000" stop="20221012171000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012171000 +0000" stop="20221012172000 +0000" channel="USMP TV">
+    <title lang="es">A la salida</title>
+    <desc lang="es">Un espacio con los mejores consejos para mejorar la experiencia en la escuela.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998592_6BA0578BBEF9AFD1.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012172000 +0000" stop="20221012175000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012175000 +0000" stop="20221012182000 +0000" channel="USMP TV">
+    <title lang="es">Leer para contarla</title>
+    <desc lang="es">Las mejores historias de la literatura en un concepto fresco, juvenil y divertido.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005305_B748AFCE85B8D029.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012182000 +0000" stop="20221012184000 +0000" channel="USMP TV">
+    <title lang="es">Mentes curiosas</title>
+    <desc lang="es">Un espacio destinado a las disciplinas científicas y con el objetivo de motivar su estudio.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999887_F9A745D8B23FA311.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012184000 +0000" stop="20221012185000 +0000" channel="USMP TV">
+    <title lang="es">El mundo de Fredo Fox</title>
+    <desc lang="es">Fredo recorre el mundo en busca de personas que ayudan a mejorar la vida de los demás.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006088_B894C11E95B1A266.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012185000 +0000" stop="20221012191500 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 1.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005013_B40C1BDB73306BF7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012192000 +0000" stop="20221012195000 +0000" channel="USMP TV">
+    <title lang="es">Los chicos opinan</title>
+    <desc lang="es">Se visitan distintos colegios para conocer la opinión de los alumnos con respecto a diferentes temáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004142_225E3B16DBB7453C.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012195000 +0000" stop="20221012202000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 3.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005015_DB1F3ADD3DAD7823.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012202000 +0000" stop="20221012205000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 3.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998610_64CD17656446ACE0.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012205000 +0000" stop="20221012212000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 4.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013701_F2EBF15571ABFEC5.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012212000 +0000" stop="20221012215000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 4.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005017_597377AD34E64C16.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012215000 +0000" stop="20221012220000 +0000" channel="USMP TV">
+    <title lang="es">La ciencia nos cambió</title>
+    <desc lang="es">Un espacio donde una experta habla de los descubrimientos científicos más importantes en la historia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997412_EB02607F26106688.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012220000 +0000" stop="20221012223000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 5.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013695_C6A193387464D1A7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012223000 +0000" stop="20221012230000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221012231000 +0000" channel="USMP TV">
+    <title lang="es">A la salida</title>
+    <desc lang="es">Un espacio con los mejores consejos para mejorar la experiencia en la escuela.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998592_6BA0578BBEF9AFD1.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012231000 +0000" stop="20221012234000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012234000 +0000" stop="20221013000000 +0000" channel="USMP TV">
+    <title lang="es">Mentes curiosas</title>
+    <desc lang="es">Un espacio destinado a las disciplinas científicas y con el objetivo de motivar su estudio.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999887_F9A745D8B23FA311.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013000000 +0000" stop="20221013001000 +0000" channel="USMP TV">
+    <title lang="es">Las fantásticas aventuras de Teo y Milu</title>
+    <desc lang="es">Teo y Milú son dos hermanos que aman las historias y los cuentos antes de dormir. Cada noche viven en un mundo mágico lleno de grandes aventuras.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993241_2F99D33773DF57B5.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013001000 +0000" stop="20221013003500 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 1.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005013_B40C1BDB73306BF7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013004000 +0000" stop="20221013011000 +0000" channel="USMP TV">
+    <title lang="es">Los chicos opinan</title>
+    <desc lang="es">Se visitan distintos colegios para conocer la opinión de los alumnos con respecto a diferentes temáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004142_225E3B16DBB7453C.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013011000 +0000" stop="20221013014000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 3.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005015_DB1F3ADD3DAD7823.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013014000 +0000" stop="20221013021000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 3.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998610_64CD17656446ACE0.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013021000 +0000" stop="20221013024000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 4.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013701_F2EBF15571ABFEC5.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013024000 +0000" stop="20221013031000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 4.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005017_597377AD34E64C16.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013031000 +0000" stop="20221013032000 +0000" channel="USMP TV">
+    <title lang="es">La ciencia nos cambió</title>
+    <desc lang="es">Un espacio donde una experta habla de los descubrimientos científicos más importantes en la historia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997412_EB02607F26106688.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013032000 +0000" stop="20221013040000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 5.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013695_C6A193387464D1A7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013040000 +0000" stop="20221013043000 +0000" channel="USMP TV">
+    <title lang="es">Mi ciudad en bicicleta</title>
+    <desc lang="es">Se recorren distintas ciudades de México en bicicleta, uno de los medios de transporte más elegidos en la actualidad.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995728_A8B75312DF9E37DD.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013043000 +0000" stop="20221013053000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013053000 +0000" stop="20221013060000 +0000" channel="USMP TV">
+    <title lang="es">Creando con Bach</title>
+    <desc lang="es">Los niños aprenderán y practicarán la técnica del moldeado con plastilina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999787_84B2400482374634.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013062000 +0000" channel="USMP TV">
+    <title lang="es">Los chicos opinan</title>
+    <desc lang="es">Se visitan distintos colegios para conocer la opinión de los alumnos con respecto a diferentes temáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004142_225E3B16DBB7453C.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013062000 +0000" stop="20221013063000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 3.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005015_DB1F3ADD3DAD7823.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013063000 +0000" stop="20221013070000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 4.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013701_F2EBF15571ABFEC5.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013070000 +0000" stop="20221013073000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 4.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005017_597377AD34E64C16.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013073000 +0000" stop="20221013080000 +0000" channel="USMP TV">
+    <title lang="es">La ciencia nos cambió</title>
+    <desc lang="es">Un espacio donde una experta habla de los descubrimientos científicos más importantes en la historia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997412_EB02607F26106688.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013083000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 5.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013695_C6A193387464D1A7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013083000 +0000" stop="20221013084000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013084000 +0000" stop="20221013091000 +0000" channel="USMP TV">
+    <title lang="es">A la salida</title>
+    <desc lang="es">Un espacio con los mejores consejos para mejorar la experiencia en la escuela.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998592_6BA0578BBEF9AFD1.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013091000 +0000" stop="20221013094000 +0000" channel="USMP TV">
+    <title lang="es">La ciencia nos cambió</title>
+    <desc lang="es">Un espacio donde una experta habla de los descubrimientos científicos más importantes en la historia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997412_EB02607F26106688.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013094000 +0000" stop="20221013101000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 5.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013695_C6A193387464D1A7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013101000 +0000" stop="20221013104000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013104000 +0000" stop="20221013105000 +0000" channel="USMP TV">
+    <title lang="es">A la salida</title>
+    <desc lang="es">Un espacio con los mejores consejos para mejorar la experiencia en la escuela.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998592_6BA0578BBEF9AFD1.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013105000 +0000" stop="20221013110000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013110000 +0000" stop="20221013113000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013113000 +0000" stop="20221013120000 +0000" channel="USMP TV">
+    <title lang="es">Prefijo</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998604_DEF5D61957CB81E9.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013120000 +0000" stop="20221013123000 +0000" channel="USMP TV">
+    <title lang="es">Leer para contarla</title>
+    <desc lang="es">Las mejores historias de la literatura en un concepto fresco, juvenil y divertido.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005305_B748AFCE85B8D029.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013123000 +0000" stop="20221013130000 +0000" channel="USMP TV">
+    <title lang="es">Desde el zoológico</title>
+    <desc lang="es">Una visita al Zoológico Guadalajara, donde se presentan las labores diarias, los feroces animales, las temidas criaturas y las adorables especies del mundo animal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010636_1C066A3EFBDFC4AD.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013130000 +0000" stop="20221013133000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 3.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005011_69CAFF4F582A3958.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013133000 +0000" stop="20221013140000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 3.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998614_D48B5D88E8883FF2.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013140000 +0000" stop="20221013143000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 4.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013697_BC4FB20A1EEC539E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013143000 +0000" stop="20221013150000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 4.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998606_270D0505996D07DB.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013153000 +0000" channel="USMP TV">
+    <title lang="es">Buenas noticias</title>
+    <desc lang="es">La información más importante para el ámbito educacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998594_6DE89485EF654129.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013153000 +0000" stop="20221013160000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 5.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013699_C77022EA5C1100B7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013160000 +0000" stop="20221013161000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 5.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998608_9F0173937D3C0EC1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013161000 +0000" stop="20221013164000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 5.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005308_8C524666BC0D3112.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013164000 +0000" stop="20221013171000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013171000 +0000" stop="20221013172000 +0000" channel="USMP TV">
+    <title lang="es">Historias para armar</title>
+    <desc lang="es">Un espacio para descubrir toda la magia detrás de las historias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001308_DA3FACC9797043B9.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013172000 +0000" stop="20221013175000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013175000 +0000" stop="20221013182000 +0000" channel="USMP TV">
+    <title lang="es">Leer para contarla</title>
+    <desc lang="es">Las mejores historias de la literatura en un concepto fresco, juvenil y divertido.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005305_B748AFCE85B8D029.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013182000 +0000" stop="20221013185000 +0000" channel="USMP TV">
+    <title lang="es">Desde el zoológico</title>
+    <desc lang="es">Una visita al Zoológico Guadalajara, donde se presentan las labores diarias, los feroces animales, las temidas criaturas y las adorables especies del mundo animal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010636_1C066A3EFBDFC4AD.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013185000 +0000" stop="20221013192000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 3.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005011_69CAFF4F582A3958.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013192000 +0000" stop="20221013195000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 3.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998614_D48B5D88E8883FF2.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013195000 +0000" stop="20221013202000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 4.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013697_BC4FB20A1EEC539E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013202000 +0000" stop="20221013205000 +0000" channel="USMP TV">
+    <title lang="es">Ciencia y tecnología 4.°</title>
+    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998606_270D0505996D07DB.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013205000 +0000" stop="20221013212000 +0000" channel="USMP TV">
+    <title lang="es">Buenas noticias</title>
+    <desc lang="es">La información más importante para el ámbito educacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998594_6DE89485EF654129.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013212000 +0000" stop="20221013215000 +0000" channel="USMP TV">
+    <title lang="es">Historia, geografía y economía 5.°</title>
+    <desc lang="es">Un espacio para sorprenderse, divertirse y reforzar sobre la historia, geografía y economía.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013699_C77022EA5C1100B7.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013215000 +0000" stop="20221013220000 +0000" channel="USMP TV">
+    <title lang="es">Comunicación 5.°</title>
+    <desc lang="es">Un espacio para reforzar cursos de lenguaje, literatura y razonamiento verbal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998608_9F0173937D3C0EC1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013220000 +0000" stop="20221013223000 +0000" channel="USMP TV">
+    <title lang="es">Matemáticas 5.°</title>
+    <desc lang="es">Un espacio para restar aburrimiento, sumar aprendizaje y diversión mientras se aprende y refuerzan conocimientos sobre las matemáticas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005308_8C524666BC0D3112.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013223000 +0000" stop="20221013230000 +0000" channel="USMP TV">
+    <title lang="es">Desde el Cielo</title>
+    <desc lang="es">Un viaje inolvidable para descubrir el maravilloso planeta Tierra y a la vez preguntarse sobre su futuro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015805_F468AB338A391F1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221013231000 +0000" channel="USMP TV">
+    <title lang="es">Historias para armar</title>
+    <desc lang="es">Un espacio para descubrir toda la magia detrás de las historias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001308_DA3FACC9797043B9.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013231000 +0000" stop="20221013234000 +0000" channel="USMP TV">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <desc lang="es">Noticiero que divulga, fomenta e interpreta las actividades científicas y culturales en el mundo, y fortalece la cooperación y comunicación entre los distintos pueblos de Iberoamérica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994689_5C2B6F994356D163.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013234000 +0000" stop="20221014001000 +0000" channel="USMP TV">
+    <title lang="es">Desde el zoológico</title>
+    <desc lang="es">Una visita al Zoológico Guadalajara, donde se presentan las labores diarias, los feroces animales, las temidas criaturas y las adorables especies del mundo animal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010636_1C066A3EFBDFC4AD.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011150000 +0000" stop="20221011190000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011190000 +0000" stop="20221011230000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0000" stop="20221012030000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012030000 +0000" stop="20221012070000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012070000 +0000" stop="20221012110000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012110000 +0000" stop="20221012150000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012190000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012190000 +0000" stop="20221012230000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221013030000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013030000 +0000" stop="20221013070000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013070000 +0000" stop="20221013110000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013110000 +0000" stop="20221013150000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013190000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013190000 +0000" stop="20221013230000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221014030000 +0000" channel="Canal J">
+    <title lang="es">Canal J</title>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011170000 +0000" stop="20221011190000 +0000" channel="RPP TV">
+    <title lang="es">La rotativa del aire</title>
+    <desc lang="es">Las noticias más relevantes del Perú y el mundo para estar bien informado.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/16/13160423_1089B9958A38D463.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011190000 +0000" stop="20221011210000 +0000" channel="RPP TV">
+    <title lang="es">Central de noticias</title>
+    <desc lang="es">Las noticias más destacadas junto a la última información de Perú y el mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13114464_E154A5C3F4D04CD8.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011210000 +0000" stop="20221011220000 +0000" channel="RPP TV">
+    <title lang="es">Economía para todos</title>
+    <desc lang="es">Un espacio destinado a las últimas noticias económicas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058770_EAFBF230B2BE6816.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011220000 +0000" stop="20221011230000 +0000" channel="RPP TV">
+    <title lang="es">Central de noticias</title>
+    <desc lang="es">Las noticias más destacadas junto a la última información de Perú y el mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075170_DFFFD10B1B14D2FB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0000" stop="20221012003000 +0000" channel="RPP TV">
+    <title lang="es">Las cosas como son</title>
+    <desc lang="es">Un profundo análisis de los hechos que son noticia a nivel nacional e internacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/15/13152347_5613FEAC3CD2CB92.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012003000 +0000" stop="20221012013000 +0000" channel="RPP TV">
+    <title lang="es">Las claves del día</title>
+    <desc lang="es">Un espacio para conocer los hechos clave de la jornada.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058740_160515994EF39249.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012013000 +0000" stop="20221012030000 +0000" channel="RPP TV">
+    <title lang="es">Todo se sabe</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/16/13167920_B452D4379FEFFECF.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012030000 +0000" stop="20221012043000 +0000" channel="RPP TV">
+    <title lang="es">Las cosas como son</title>
+    <desc lang="es">Un profundo análisis de los hechos que son noticia a nivel nacional e internacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/15/13152347_5613FEAC3CD2CB92.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012043000 +0000" stop="20221012050000 +0000" channel="RPP TV">
+    <title lang="es">Las claves del día</title>
+    <desc lang="es">Un espacio para conocer los hechos clave de la jornada.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058740_160515994EF39249.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012050000 +0000" stop="20221012053000 +0000" channel="RPP TV">
+    <title lang="es">Las claves del día</title>
+    <desc lang="es">Un espacio para conocer los hechos clave de la jornada.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058740_160515994EF39249.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012053000 +0000" stop="20221012073000 +0000" channel="RPP TV">
+    <title lang="es">Ampliación de noticias</title>
+    <desc lang="es">El análisis de los hechos que hacen noticia y las entrevistas a los protagonistas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060277_3ED0A8A4C8A51BA7.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012073000 +0000" stop="20221012080000 +0000" channel="RPP TV">
+    <title lang="es">Reporteros en el mundo</title>
+    <desc lang="es">Fascinantes reportajes e informes de las destacadas emisoras con las que DW coopera internacionalmente. Periodistas de todo el globo comparten su visión del propio país, de su gente y sus asuntos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002919_984FF7FA0C66049F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012080000 +0000" stop="20221012083000 +0000" channel="RPP TV">
+    <title lang="es">Global 3000 DW</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13039411_ED18C11D626E9D19.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012083000 +0000" stop="20221012090000 +0000" channel="RPP TV">
+    <title lang="es">¡Escápate!</title>
+    <desc lang="es">Se muestra una ciudad o una región de Alemania que merece ser visitada y lo más emocionante fuera de Alemania.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13111349_63FA15A311ACF4B0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012090000 +0000" stop="20221012093000 +0000" channel="RPP TV">
+    <title lang="es">En forma</title>
+    <desc lang="es">Un programa dedicado a la vida sana y la prevención tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005153_8258FF06B21A5863.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012093000 +0000" stop="20221012110000 +0000" channel="RPP TV">
+    <title lang="es">Todo se sabe</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/16/13167920_B452D4379FEFFECF.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012110000 +0000" stop="20221012130000 +0000" channel="RPP TV">
+    <title lang="es">La rotativa del aire</title>
+    <desc lang="es">Un noticiero ágil y lleno de información, enlaces en vivo y entrevistas en directo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13147981_A5263D3031A343F1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012130000 +0000" stop="20221012150000 +0000" channel="RPP TV">
+    <title lang="es">Ampliación de noticias</title>
+    <desc lang="es">Un análisis de los hechos que hacen noticias, con la voz de sus protagonistas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/16/13160385_928A735F95BCD659.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012170000 +0000" channel="RPP TV">
+    <title lang="es">Encendidos</title>
+    <desc lang="es">Un programa donde un panel de especialistas presentan las noticias de actualidad, salud, deportes y entretenimiento.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058772_502319EEB4095A96.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012170000 +0000" stop="20221012190000 +0000" channel="RPP TV">
+    <title lang="es">La rotativa del aire</title>
+    <desc lang="es">Las noticias más relevantes del Perú y el mundo para estar bien informado.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/16/13160423_1089B9958A38D463.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012190000 +0000" stop="20221012210000 +0000" channel="RPP TV">
+    <title lang="es">Central de noticias</title>
+    <desc lang="es">Las noticias más destacadas junto a la última información de Perú y el mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13114464_E154A5C3F4D04CD8.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012210000 +0000" stop="20221012220000 +0000" channel="RPP TV">
+    <title lang="es">Economía para todos</title>
+    <desc lang="es">Un espacio destinado a las últimas noticias económicas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058770_EAFBF230B2BE6816.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012220000 +0000" stop="20221012230000 +0000" channel="RPP TV">
+    <title lang="es">Central de noticias</title>
+    <desc lang="es">Las noticias más destacadas junto a la última información de Perú y el mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075170_DFFFD10B1B14D2FB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221013003000 +0000" channel="RPP TV">
+    <title lang="es">Las cosas como son</title>
+    <desc lang="es">Un profundo análisis de los hechos que son noticia a nivel nacional e internacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/15/13152347_5613FEAC3CD2CB92.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013003000 +0000" stop="20221013013000 +0000" channel="RPP TV">
+    <title lang="es">Las claves del día</title>
+    <desc lang="es">Un espacio para conocer los hechos clave de la jornada.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058740_160515994EF39249.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013013000 +0000" stop="20221013030000 +0000" channel="RPP TV">
+    <title lang="es">Todo se sabe</title>
+    <desc lang="es">Un ciclo de entrevistas a diversos personajes que forman parte de la noticia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13059095_D5DEF803FC03F050.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013030000 +0000" stop="20221013043000 +0000" channel="RPP TV">
+    <title lang="es">Las cosas como son</title>
+    <desc lang="es">Un profundo análisis de los hechos que son noticia a nivel nacional e internacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/15/13152347_5613FEAC3CD2CB92.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013043000 +0000" stop="20221013050000 +0000" channel="RPP TV">
+    <title lang="es">Las claves del día</title>
+    <desc lang="es">Un espacio para conocer los hechos clave de la jornada.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058740_160515994EF39249.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013050000 +0000" stop="20221013053000 +0000" channel="RPP TV">
+    <title lang="es">Las claves del día</title>
+    <desc lang="es">Un espacio para conocer los hechos clave de la jornada.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058740_160515994EF39249.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013053000 +0000" stop="20221013073000 +0000" channel="RPP TV">
+    <title lang="es">Ampliación de noticias</title>
+    <desc lang="es">El análisis de los hechos que hacen noticia y las entrevistas a los protagonistas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060277_3ED0A8A4C8A51BA7.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013073000 +0000" stop="20221013080000 +0000" channel="RPP TV">
+    <title lang="es">Reporteros en el mundo</title>
+    <desc lang="es">Fascinantes reportajes e informes de las destacadas emisoras con las que DW coopera internacionalmente. Periodistas de todo el globo comparten su visión del propio país, de su gente y sus asuntos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002919_984FF7FA0C66049F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013083000 +0000" channel="RPP TV">
+    <title lang="es">Global 3000 DW</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13039411_ED18C11D626E9D19.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013083000 +0000" stop="20221013090000 +0000" channel="RPP TV">
+    <title lang="es">¡Escápate!</title>
+    <desc lang="es">Se muestra una ciudad o una región de Alemania que merece ser visitada y lo más emocionante fuera de Alemania.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13111349_63FA15A311ACF4B0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013090000 +0000" stop="20221013093000 +0000" channel="RPP TV">
+    <title lang="es">En forma</title>
+    <desc lang="es">Un programa dedicado a la vida sana y la prevención tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005153_8258FF06B21A5863.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013093000 +0000" stop="20221013110000 +0000" channel="RPP TV">
+    <title lang="es">Todo se sabe</title>
+    <desc lang="es">Un ciclo de entrevistas a diversos personajes que forman parte de la noticia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13059095_D5DEF803FC03F050.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013110000 +0000" stop="20221013130000 +0000" channel="RPP TV">
+    <title lang="es">La rotativa del aire</title>
+    <desc lang="es">Un noticiero ágil y lleno de información, enlaces en vivo y entrevistas en directo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13147981_A5263D3031A343F1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013130000 +0000" stop="20221013150000 +0000" channel="RPP TV">
+    <title lang="es">Ampliación de noticias</title>
+    <desc lang="es">Un análisis de los hechos que hacen noticias, con la voz de sus protagonistas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/16/13160385_928A735F95BCD659.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013170000 +0000" channel="RPP TV">
+    <title lang="es">Encendidos</title>
+    <desc lang="es">Un programa donde un panel de especialistas presentan las noticias de actualidad, salud, deportes y entretenimiento.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058772_502319EEB4095A96.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013170000 +0000" stop="20221013190000 +0000" channel="RPP TV">
+    <title lang="es">La rotativa del aire</title>
+    <desc lang="es">Las noticias más relevantes del Perú y el mundo para estar bien informado.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/16/13160423_1089B9958A38D463.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013190000 +0000" stop="20221013210000 +0000" channel="RPP TV">
+    <title lang="es">Central de noticias</title>
+    <desc lang="es">Las noticias más destacadas junto a la última información de Perú y el mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13114464_E154A5C3F4D04CD8.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013210000 +0000" stop="20221013220000 +0000" channel="RPP TV">
+    <title lang="es">Economía para todos</title>
+    <desc lang="es">Un espacio destinado a las últimas noticias económicas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058770_EAFBF230B2BE6816.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013220000 +0000" stop="20221013230000 +0000" channel="RPP TV">
+    <title lang="es">Central de noticias</title>
+    <desc lang="es">Las noticias más destacadas junto a la última información de Perú y el mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075170_DFFFD10B1B14D2FB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221014003000 +0000" channel="RPP TV">
+    <title lang="es">Las cosas como son</title>
+    <desc lang="es">Un profundo análisis de los hechos que son noticia a nivel nacional e internacional.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/15/13152347_5613FEAC3CD2CB92.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011170000 +0000" stop="20221011174500 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011174500 +0000" stop="20221011180000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011180000 +0000" stop="20221011190000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011190000 +0000" stop="20221011200000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011200000 +0000" stop="20221011204500 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011204500 +0000" stop="20221011210000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011210000 +0000" stop="20221011220000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011220000 +0000" stop="20221011230000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0000" stop="20221012000000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012000000 +0000" stop="20221012011500 +0000" channel="Canal N">
+    <title lang="es">Hora y treinta</title>
+    <desc lang="es">Un espacio en el que se comparten noticias, entrevistas, opinión y análisis desde el Congreso de la República.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060699_F008D17D3755FEE4.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012011500 +0000" stop="20221012013000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012013000 +0000" stop="20221012030000 +0000" channel="Canal N">
+    <title lang="es">Octavo mandamiento</title>
+    <desc lang="es">Programa de análisis de noticias de Perú y el mundo, con profundas investigaciones y entrevistas relevantes.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13147996_54A8681056C66CD5.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012030000 +0000" stop="20221012040000 +0000" channel="Canal N">
+    <title lang="es">Enfoques cruxados</title>
+    <desc lang="es">Un espacio en el que se abordan temas de interés sobre política, economía y más de la mano de expertos invitados.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060697_500EA2EA913166DD.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012040000 +0000" stop="20221012050000 +0000" channel="Canal N">
+    <title lang="es">La Hora 11</title>
+    <desc lang="es">El hombre ignora que el desequilibrio de la naturaleza repercute irremediablemente en sí mismo. Especialistas del medio ambiente, científicos y ecólogos, explican el declive que hubo después de la Revolución Industrial y la explotación del petróleo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058273_BFB657120B6AD3E0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012050000 +0000" stop="20221012053000 +0000" channel="Canal N">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Las últimas noticias nacionales e internacionales sobre deportes, economía y finanzas, espectáculos, cultura y arte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010210_415BD68C7DCAB55D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012053000 +0000" stop="20221012063000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012063000 +0000" stop="20221012073000 +0000" channel="Canal N">
+    <title lang="es">Enfoques cruxados</title>
+    <desc lang="es">Un espacio en el que se abordan temas de interés sobre política, economía y más de la mano de expertos invitados.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060697_500EA2EA913166DD.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012073000 +0000" stop="20221012090000 +0000" channel="Canal N">
+    <title lang="es">Octavo mandamiento</title>
+    <desc lang="es">Programa de análisis de noticias de Perú y el mundo, con profundas investigaciones y entrevistas relevantes.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13147996_54A8681056C66CD5.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012090000 +0000" stop="20221012103000 +0000" channel="Canal N">
+    <title lang="es">Hora y treinta</title>
+    <desc lang="es">Un espacio en el que se comparten noticias, entrevistas, opinión y análisis desde el Congreso de la República.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060699_F008D17D3755FEE4.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012103000 +0000" stop="20221012110000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012110000 +0000" stop="20221012120000 +0000" channel="Canal N">
+    <title lang="es">Las noticias de las seis</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060009_BB6DF9A4256B8E4D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012120000 +0000" stop="20221012130000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012130000 +0000" stop="20221012133000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012133000 +0000" stop="20221012140000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012160000 +0000" stop="20221012170000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012170000 +0000" stop="20221012174500 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012174500 +0000" stop="20221012180000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012180000 +0000" stop="20221012190000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012190000 +0000" stop="20221012200000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012200000 +0000" stop="20221012204500 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012204500 +0000" stop="20221012210000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012210000 +0000" stop="20221012220000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012220000 +0000" stop="20221012230000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221013000000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013000000 +0000" stop="20221013011500 +0000" channel="Canal N">
+    <title lang="es">Hora y treinta</title>
+    <desc lang="es">Un espacio en el que se comparten noticias, entrevistas, opinión y análisis desde el Congreso de la República.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060699_F008D17D3755FEE4.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013011500 +0000" stop="20221013013000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013013000 +0000" stop="20221013030000 +0000" channel="Canal N">
+    <title lang="es">Octavo mandamiento</title>
+    <desc lang="es">Programa de análisis de noticias de Perú y el mundo, con profundas investigaciones y entrevistas relevantes.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13147996_54A8681056C66CD5.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013030000 +0000" stop="20221013040000 +0000" channel="Canal N">
+    <title lang="es">Enfoques cruxados</title>
+    <desc lang="es">Un espacio en el que se abordan temas de interés sobre política, economía y más de la mano de expertos invitados.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060697_500EA2EA913166DD.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013040000 +0000" stop="20221013050000 +0000" channel="Canal N">
+    <title lang="es">La Hora 11</title>
+    <desc lang="es">El hombre ignora que el desequilibrio de la naturaleza repercute irremediablemente en sí mismo. Especialistas del medio ambiente, científicos y ecólogos, explican el declive que hubo después de la Revolución Industrial y la explotación del petróleo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058273_BFB657120B6AD3E0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013050000 +0000" stop="20221013053000 +0000" channel="Canal N">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Las últimas noticias nacionales e internacionales sobre deportes, economía y finanzas, espectáculos, cultura y arte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010210_415BD68C7DCAB55D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013053000 +0000" stop="20221013063000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013063000 +0000" stop="20221013073000 +0000" channel="Canal N">
+    <title lang="es">Enfoques cruxados</title>
+    <desc lang="es">Un espacio en el que se abordan temas de interés sobre política, economía y más de la mano de expertos invitados.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060697_500EA2EA913166DD.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013073000 +0000" stop="20221013090000 +0000" channel="Canal N">
+    <title lang="es">Octavo mandamiento</title>
+    <desc lang="es">Programa de análisis de noticias de Perú y el mundo, con profundas investigaciones y entrevistas relevantes.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13147996_54A8681056C66CD5.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013090000 +0000" stop="20221013103000 +0000" channel="Canal N">
+    <title lang="es">Hora y treinta</title>
+    <desc lang="es">Un espacio en el que se comparten noticias, entrevistas, opinión y análisis desde el Congreso de la República.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060699_F008D17D3755FEE4.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013103000 +0000" stop="20221013110000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013110000 +0000" stop="20221013120000 +0000" channel="Canal N">
+    <title lang="es">Las noticias de las seis</title>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060009_BB6DF9A4256B8E4D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013120000 +0000" stop="20221013130000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013130000 +0000" stop="20221013133000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013133000 +0000" stop="20221013140000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013140000 +0000" stop="20221013150000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013160000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013160000 +0000" stop="20221013170000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013170000 +0000" stop="20221013174500 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013174500 +0000" stop="20221013180000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013180000 +0000" stop="20221013190000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013190000 +0000" stop="20221013200000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013200000 +0000" stop="20221013204500 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013204500 +0000" stop="20221013210000 +0000" channel="Canal N">
+    <title lang="es">N Deportes</title>
+    <desc lang="es">Todo el acontecer deportivo nacional y mundial y un balance de las distintas disciplinas deportivas para los aficionados al deporte.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148020_5246767F6D043DF1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013210000 +0000" stop="20221013220000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013220000 +0000" stop="20221013230000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221014000000 +0000" channel="Canal N">
+    <title lang="es">N Noticias</title>
+    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011173000 +0000" stop="20221011180000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">La chacra feliz</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011180000 +0000" stop="20221011183000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Turrón</sub-title>
+    <desc lang="es">El turrón de doña Pepa es pura tradición peruana, un postre que se remonta a la época virreinal y uno de los favoritos de la gente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011183000 +0000" stop="20221011190000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Loncheras para llevar al trabajo</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011190000 +0000" stop="20221011193000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Verano del 89</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011193000 +0000" stop="20221011200000 +0000" channel="Movistar Plus">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <sub-title lang="es">Caja china</sub-title>
+    <desc lang="es">Un reconocido carnicero decide recorrer el mundo en busca de los maestros que lo llevaron a convertirse en el gran chef que es. Toda la información sobre la carne, comida congelada y los embutidos, para preparar deliciosos platos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13003809_EBDE9B821FAF614C.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221011200000 +0000" stop="20221011203000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Tarta de chocolate bitter y frambuesas</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011203000 +0000" stop="20221011210000 +0000" channel="Movistar Plus">
+    <title lang="es">Mejor cocina</title>
+    <sub-title lang="es">Carla Cobain</sub-title>
+    <desc lang="es">Un experto visita las casas de sus seguidores para enseñarles a cocinar.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075155_D347E974F5752999.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011210000 +0000" stop="20221011213000 +0000" channel="Movistar Plus">
+    <title lang="es">Diario de carretera</title>
+    <sub-title lang="es">Pampa Hermosa - La Merced</sub-title>
+    <desc lang="es">A bordo de un auto, la conductora del programa emprende diversas rutas que la llevarán a descubrir los atractivos turísticos que se pueden conocer en pocos días.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994331_C03436FC976F3305.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011213000 +0000" stop="20221011220000 +0000" channel="Movistar Plus">
+    <title lang="es">5 destinos</title>
+    <sub-title lang="es">Hoteles de Cuzco</sub-title>
+    <desc lang="es">Excursiones donde se muestran diferentes retos y oportunidades, y cinco alternativas distintas para un mismo tipo de viaje y así conocer las mejores sugerencias de destinos y actividades que ofrece el Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997405_B4E0B61251D38779.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011220000 +0000" stop="20221011223000 +0000" channel="Movistar Plus">
+    <title lang="es">+ 20 mil kilómetros: Historias del camino</title>
+    <sub-title lang="es">Chincha; Choclococha</sub-title>
+    <desc lang="es">Un espacio en el que se recorren y descubren diferentes tramos del Qhapaq Ñan, el sistema de caminos que unificó y construyó la civilización incaica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060272_FE8BA51EE0DA89D6.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011223000 +0000" stop="20221011230000 +0000" channel="Movistar Plus">
+    <title lang="es">Celebra Perú</title>
+    <sub-title lang="es">Mamá Pillicha</sub-title>
+    <desc lang="es">Un espacio de festividades y tradiciones nacionales de Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005935_089AF7923148007F.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011230000 +0000" stop="20221011233000 +0000" channel="Movistar Plus">
+    <title lang="es">A la vuelta de la esquina</title>
+    <sub-title lang="es">Bibliotecas</sub-title>
+    <desc lang="es">Con un recorrido por las calles, plazas, iglesias y diversos monumentos de Perú, se develan diversos datos históricos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005093_3AF9F8E2A0980F05.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221011233000 +0000" stop="20221012000000 +0000" channel="Movistar Plus">
+    <title lang="es">Aventura Culinaria</title>
+    <sub-title lang="es">Los Platos Chinos</sub-title>
+    <desc lang="es">La prestigiosa comida peruana y su extraordinaria historia de emprendimiento. Un recorrido por fondas populares, restaurantes de lujo y lugares secretos en busca de ingredientes y platillos, para luego ofrecer una versión propia y original del chef.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060397_247195CF2FE724A2.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012000000 +0000" stop="20221012003000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Tarta de Chocolate</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012003000 +0000" stop="20221012010000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">Chazuta</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012010000 +0000" stop="20221012013000 +0000" channel="Movistar Plus">
+    <title lang="es">Cocina en un toque</title>
+    <sub-title lang="es">Costilla con brócoli y piña</sub-title>
+    <desc lang="es">El chef acerca una propuesta culinaria rápida y sencilla, en la que prepara entradas, platos de fondos, postres y hasta refrescos que se pueden hacer muy rápidamente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994400_2CB5898B33EB6D6D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012013000 +0000" stop="20221012020000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Lengua de Suegra</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012020000 +0000" stop="20221012023000 +0000" channel="Movistar Plus">
+    <title lang="es">Celebra Perú</title>
+    <sub-title lang="es">La Fiesta de los Solteros</sub-title>
+    <desc lang="es">Un espacio de festividades y tradiciones nacionales de Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005935_089AF7923148007F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012023000 +0000" stop="20221012030000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Piqueos para dos</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012030000 +0000" stop="20221012033000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Chupe</sub-title>
+    <desc lang="es">El chupe es una tradición y orgullo de la cocina arequipeña, se comparte los secretos de este plato emblemático peruano.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012033000 +0000" stop="20221012040000 +0000" channel="Movistar Plus">
+    <title lang="es">Cocina en un toque</title>
+    <sub-title lang="es">Costilla con brócoli y piña</sub-title>
+    <desc lang="es">El chef acerca una propuesta culinaria rápida y sencilla, en la que prepara entradas, platos de fondos, postres y hasta refrescos que se pueden hacer muy rápidamente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994400_2CB5898B33EB6D6D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012040000 +0000" stop="20221012043000 +0000" channel="Movistar Plus">
+    <title lang="es">5 destinos</title>
+    <sub-title lang="es">Viaje en pareja</sub-title>
+    <desc lang="es">Excursiones donde se muestran diferentes retos y oportunidades, y cinco alternativas distintas para un mismo tipo de viaje y así conocer las mejores sugerencias de destinos y actividades que ofrece el Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997405_B4E0B61251D38779.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012043000 +0000" stop="20221012050000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Lengua de Suegra</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012050000 +0000" stop="20221012053000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Piqueos para dos</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012053000 +0000" stop="20221012060000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Ocopa</sub-title>
+    <desc lang="es">Programa donde un reconocido chef y promotor gastronómico toma el reto de encontrar los 100 platos que mejor definen a los peruanos y, además, encontrar la forma de que estos sean sostenibles en el tiempo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012060000 +0000" stop="20221012063000 +0000" channel="Movistar Plus">
+    <title lang="es">Cocina en un toque</title>
+    <sub-title lang="es">Pilaf vegetariano</sub-title>
+    <desc lang="es">El chef acerca una propuesta culinaria rápida y sencilla, en la que prepara entradas, platos de fondos, postres y hasta refrescos que se pueden hacer muy rápidamente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994400_2CB5898B33EB6D6D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012063000 +0000" stop="20221012070000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">Plátano del mercado</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012070000 +0000" stop="20221012073000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Papa a la huancaína</sub-title>
+    <desc lang="es">La papa a la huancaína es una entrada típica de la gastronomía peruana, un plato a base de ají amarillo y queso fresco.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012073000 +0000" stop="20221012080000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Pizza para amigos</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012080000 +0000" stop="20221012083000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Delicias Especiales</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012083000 +0000" stop="20221012090000 +0000" channel="Movistar Plus">
+    <title lang="es">La gran despensa</title>
+    <sub-title lang="es">La casa Zuñiga</sub-title>
+    <desc lang="es">Programa que tiene como objetivo encontrar las historias de los productores y cocineros que, con sus insumos, intentan salir adelante en la crisis. La estrella de una gran canasta sorpresa que llega a mano de dos chefs.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011863_F013361E456E385D.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012090000 +0000" stop="20221012093000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Cheesecake de Vainilla</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012093000 +0000" stop="20221012100000 +0000" channel="Movistar Plus">
+    <title lang="es">Mejor cocina</title>
+    <sub-title lang="es">Kiara Prevost</sub-title>
+    <desc lang="es">Un experto visita las casas de sus seguidores para enseñarles a cocinar.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075155_D347E974F5752999.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012100000 +0000" stop="20221012103000 +0000" channel="Movistar Plus">
+    <title lang="es">Diario de carretera</title>
+    <sub-title lang="es">Tarma - Pampa hermosa</sub-title>
+    <desc lang="es">A bordo de un auto, la conductora del programa emprende diversas rutas que la llevarán a descubrir los atractivos turísticos que se pueden conocer en pocos días.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994331_C03436FC976F3305.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012103000 +0000" stop="20221012110000 +0000" channel="Movistar Plus">
+    <title lang="es">5 destinos</title>
+    <sub-title lang="es">5 destinos para ir de compras</sub-title>
+    <desc lang="es">Excursiones donde se muestran diferentes retos y oportunidades, y cinco alternativas distintas para un mismo tipo de viaje y así conocer las mejores sugerencias de destinos y actividades que ofrece el Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997405_B4E0B61251D38779.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012110000 +0000" stop="20221012113000 +0000" channel="Movistar Plus">
+    <title lang="es">La gran despensa</title>
+    <sub-title lang="es">La casa Zuñiga</sub-title>
+    <desc lang="es">Programa que tiene como objetivo encontrar las historias de los productores y cocineros que, con sus insumos, intentan salir adelante en la crisis. La estrella de una gran canasta sorpresa que llega a mano de dos chefs.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011863_F013361E456E385D.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012113000 +0000" stop="20221012120000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">Plátano del mercado</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012120000 +0000" stop="20221012123000 +0000" channel="Movistar Plus">
+    <title lang="es">Sabe a Perú</title>
+    <sub-title lang="es">Los Ángeles</sub-title>
+    <desc lang="es">El chef Luciano Mazzetti busca llevar la gastronomía peruana a otros países y preparar un plato adaptado a los insumos, estaciones y gustos de su país destino para que sea escogido como parte del menú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060256_A1FF66631FE5509B.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012123000 +0000" stop="20221012130000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Papa a la huancaína</sub-title>
+    <desc lang="es">La papa a la huancaína es una entrada típica de la gastronomía peruana, un plato a base de ají amarillo y queso fresco.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012130000 +0000" stop="20221012133000 +0000" channel="Movistar Plus">
+    <title lang="es">Sabe a Perú</title>
+    <desc lang="es">El chef Luciano Mazzetti busca llevar la gastronomía peruana a otros países y preparar un plato adaptado a los insumos, estaciones y gustos de su país destino para que sea escogido como parte del menú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060256_A1FF66631FE5509B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012133000 +0000" stop="20221012140000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Pizza para amigos</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012140000 +0000" stop="20221012143000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Delicias Especiales</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012143000 +0000" stop="20221012150000 +0000" channel="Movistar Plus">
+    <title lang="es">Diario de carretera</title>
+    <sub-title lang="es">Tarma - Pampa hermosa</sub-title>
+    <desc lang="es">A bordo de un auto, la conductora del programa emprende diversas rutas que la llevarán a descubrir los atractivos turísticos que se pueden conocer en pocos días.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994331_C03436FC976F3305.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012153000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Kunufé</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012153000 +0000" stop="20221012160000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">San Martín: Sacha Inchi</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012160000 +0000" stop="20221012163000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Piqueos para dos</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012163000 +0000" stop="20221012170000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Cocinando con los Niños</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012170000 +0000" stop="20221012173000 +0000" channel="Movistar Plus">
+    <title lang="es">Cocina en un toque</title>
+    <sub-title lang="es">Langostinos salteados</sub-title>
+    <desc lang="es">El chef acerca una propuesta culinaria rápida y sencilla, en la que prepara entradas, platos de fondos, postres y hasta refrescos que se pueden hacer muy rápidamente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994400_2CB5898B33EB6D6D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012173000 +0000" stop="20221012180000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">Chazuta</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012180000 +0000" stop="20221012183000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Tamales</sub-title>
+    <desc lang="es">El tamal, hecho a base de maíz, tiene diversos ingredientes, formas, tamaños, envoltorios y rellenos, según cada región del Perú. Lo que sí está garantizado es su delicioso sabor y textura.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012183000 +0000" stop="20221012190000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Lonche de domingo</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012190000 +0000" stop="20221012193000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Mi Primer Hijo</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012193000 +0000" stop="20221012200000 +0000" channel="Movistar Plus">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <sub-title lang="es">Brasa directo</sub-title>
+    <desc lang="es">Un reconocido carnicero decide recorrer el mundo en busca de los maestros que lo llevaron a convertirse en el gran chef que es. Toda la información sobre la carne, comida congelada y los embutidos, para preparar deliciosos platos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13003809_EBDE9B821FAF614C.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012200000 +0000" stop="20221012203000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Galletas de corazón</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012203000 +0000" stop="20221012210000 +0000" channel="Movistar Plus">
+    <title lang="es">Mejor cocina</title>
+    <sub-title lang="es">Johanna Cáseres</sub-title>
+    <desc lang="es">Un experto visita las casas de sus seguidores para enseñarles a cocinar.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075155_D347E974F5752999.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012210000 +0000" stop="20221012213000 +0000" channel="Movistar Plus">
+    <title lang="es">Diario de carretera</title>
+    <sub-title lang="es">La Merced - Oxapampa</sub-title>
+    <desc lang="es">A bordo de un auto, la conductora del programa emprende diversas rutas que la llevarán a descubrir los atractivos turísticos que se pueden conocer en pocos días.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994331_C03436FC976F3305.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012213000 +0000" stop="20221012220000 +0000" channel="Movistar Plus">
+    <title lang="es">5 destinos</title>
+    <sub-title lang="es">Rutas cortas de Lima</sub-title>
+    <desc lang="es">Excursiones donde se muestran diferentes retos y oportunidades, y cinco alternativas distintas para un mismo tipo de viaje y así conocer las mejores sugerencias de destinos y actividades que ofrece el Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997405_B4E0B61251D38779.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012220000 +0000" stop="20221012223000 +0000" channel="Movistar Plus">
+    <title lang="es">+ 20 mil kilómetros: Historias del camino</title>
+    <sub-title lang="es">Vilcashuaman; Sarhua</sub-title>
+    <desc lang="es">Un espacio en el que se recorren y descubren diferentes tramos del Qhapaq Ñan, el sistema de caminos que unificó y construyó la civilización incaica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060272_FE8BA51EE0DA89D6.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012223000 +0000" stop="20221012230000 +0000" channel="Movistar Plus">
+    <title lang="es">Celebra Perú</title>
+    <sub-title lang="es">La tunantada</sub-title>
+    <desc lang="es">La tunantada es un baile peruano declarado Patrimonio Cultural de la Nación.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005935_089AF7923148007F.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221012233000 +0000" channel="Movistar Plus">
+    <title lang="es">A la vuelta de la esquina</title>
+    <sub-title lang="es">Restaurantes del 50 y 60 en Lima</sub-title>
+    <desc lang="es">Con un recorrido por las calles, plazas, iglesias y diversos monumentos de Perú, se develan diversos datos históricos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005093_3AF9F8E2A0980F05.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221012233000 +0000" stop="20221013000000 +0000" channel="Movistar Plus">
+    <title lang="es">Aventura Culinaria</title>
+    <sub-title lang="es">Tallarines Chinos</sub-title>
+    <desc lang="es">La prestigiosa comida peruana y su extraordinaria historia de emprendimiento. Un recorrido por fondas populares, restaurantes de lujo y lugares secretos en busca de ingredientes y platillos, para luego ofrecer una versión propia y original del chef.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060397_247195CF2FE724A2.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013000000 +0000" stop="20221013003000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Alfajores Rellenos de Manjar Blanco de Papa Amarilla</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013003000 +0000" stop="20221013010000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Verano del 89</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013010000 +0000" stop="20221013013000 +0000" channel="Movistar Plus">
+    <title lang="es">Cocina en un toque</title>
+    <sub-title lang="es">Costilla con brócoli y piña</sub-title>
+    <desc lang="es">El chef acerca una propuesta culinaria rápida y sencilla, en la que prepara entradas, platos de fondos, postres y hasta refrescos que se pueden hacer muy rápidamente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994400_2CB5898B33EB6D6D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013013000 +0000" stop="20221013020000 +0000" channel="Movistar Plus">
+    <title lang="es">Celebra Perú</title>
+    <sub-title lang="es">La viejita de La Tinguiña</sub-title>
+    <desc lang="es">Un espacio de festividades y tradiciones nacionales de Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005935_089AF7923148007F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013020000 +0000" stop="20221013023000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Lengua de Suegra</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013023000 +0000" stop="20221013030000 +0000" channel="Movistar Plus">
+    <title lang="es">5 destinos</title>
+    <sub-title lang="es">Viaje en pareja</sub-title>
+    <desc lang="es">Excursiones donde se muestran diferentes retos y oportunidades, y cinco alternativas distintas para un mismo tipo de viaje y así conocer las mejores sugerencias de destinos y actividades que ofrece el Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997405_B4E0B61251D38779.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013030000 +0000" stop="20221013033000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Piqueos para dos</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013033000 +0000" stop="20221013040000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Chupe</sub-title>
+    <desc lang="es">El chupe es una tradición y orgullo de la cocina arequipeña, se comparte los secretos de este plato emblemático peruano.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013040000 +0000" stop="20221013043000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Lengua de Suegra</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013043000 +0000" stop="20221013050000 +0000" channel="Movistar Plus">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <sub-title lang="es">Caja china</sub-title>
+    <desc lang="es">Un reconocido carnicero decide recorrer el mundo en busca de los maestros que lo llevaron a convertirse en el gran chef que es. Toda la información sobre la carne, comida congelada y los embutidos, para preparar deliciosos platos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13003809_EBDE9B821FAF614C.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013050000 +0000" stop="20221013053000 +0000" channel="Movistar Plus">
+    <title lang="es">Celebra Perú</title>
+    <sub-title lang="es">La viejita de La Tinguiña</sub-title>
+    <desc lang="es">Un espacio de festividades y tradiciones nacionales de Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005935_089AF7923148007F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013053000 +0000" stop="20221013060000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Lengua de Suegra</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013063000 +0000" channel="Movistar Plus">
+    <title lang="es">Cocina en un toque</title>
+    <sub-title lang="es">Comidas con quinua</sub-title>
+    <desc lang="es">El chef acerca una propuesta culinaria rápida y sencilla, en la que prepara entradas, platos de fondos, postres y hasta refrescos que se pueden hacer muy rápidamente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994400_2CB5898B33EB6D6D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013063000 +0000" stop="20221013070000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">San Martín: Sacha Inchi</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013070000 +0000" stop="20221013073000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Parihuela</sub-title>
+    <desc lang="es">La parihuela de pescado y mariscos es una de esas sopas concentradas y llenas de sabor, uno de los platos más emblemáticos de la gastronomía peruana. Se demuestra por qué esta sopa marina es tan fabulosa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013073000 +0000" stop="20221013080000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Almuerzo en familia</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013083000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Cocinando con los Niños</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013083000 +0000" stop="20221013090000 +0000" channel="Movistar Plus">
+    <title lang="es">La gran despensa</title>
+    <sub-title lang="es">Chifa Chung Tong</sub-title>
+    <desc lang="es">Programa que tiene como objetivo encontrar las historias de los productores y cocineros que, con sus insumos, intentan salir adelante en la crisis. La estrella de una gran canasta sorpresa que llega a mano de dos chefs.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011863_F013361E456E385D.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013090000 +0000" stop="20221013093000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Pan de trenza</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013093000 +0000" stop="20221013100000 +0000" channel="Movistar Plus">
+    <title lang="es">Mejor cocina</title>
+    <sub-title lang="es">María y Bruno</sub-title>
+    <desc lang="es">Un experto visita las casas de sus seguidores para enseñarles a cocinar.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075155_D347E974F5752999.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013100000 +0000" stop="20221013103000 +0000" channel="Movistar Plus">
+    <title lang="es">Diario de carretera</title>
+    <sub-title lang="es">Lima: Cordillera de la Viuda</sub-title>
+    <desc lang="es">A bordo de un auto, la conductora del programa emprende diversas rutas que la llevarán a descubrir los atractivos turísticos que se pueden conocer en pocos días.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994331_C03436FC976F3305.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013103000 +0000" stop="20221013110000 +0000" channel="Movistar Plus">
+    <title lang="es">5 destinos</title>
+    <sub-title lang="es">5 destinos para disfrutar el agua</sub-title>
+    <desc lang="es">Excursiones donde se muestran diferentes retos y oportunidades, y cinco alternativas distintas para un mismo tipo de viaje y así conocer las mejores sugerencias de destinos y actividades que ofrece el Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997405_B4E0B61251D38779.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013110000 +0000" stop="20221013113000 +0000" channel="Movistar Plus">
+    <title lang="es">La gran despensa</title>
+    <sub-title lang="es">Chifa Chung Tong</sub-title>
+    <desc lang="es">Programa que tiene como objetivo encontrar las historias de los productores y cocineros que, con sus insumos, intentan salir adelante en la crisis. La estrella de una gran canasta sorpresa que llega a mano de dos chefs.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011863_F013361E456E385D.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013113000 +0000" stop="20221013120000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">San Martín: Sacha Inchi</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013120000 +0000" stop="20221013123000 +0000" channel="Movistar Plus">
+    <title lang="es">Sabe a Perú</title>
+    <sub-title lang="es">Chiloé</sub-title>
+    <desc lang="es">El chef Luciano Mazzetti busca llevar la gastronomía peruana a otros países y preparar un plato adaptado a los insumos, estaciones y gustos de su país destino para que sea escogido como parte del menú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060256_A1FF66631FE5509B.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013123000 +0000" stop="20221013130000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Parihuela</sub-title>
+    <desc lang="es">La parihuela de pescado y mariscos es una de esas sopas concentradas y llenas de sabor, uno de los platos más emblemáticos de la gastronomía peruana. Se demuestra por qué esta sopa marina es tan fabulosa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013130000 +0000" stop="20221013133000 +0000" channel="Movistar Plus">
+    <title lang="es">Sabe a Perú</title>
+    <sub-title lang="es">Lisboa</sub-title>
+    <desc lang="es">El chef Luciano Mazzetti busca llevar la gastronomía peruana a otros países y preparar un plato adaptado a los insumos, estaciones y gustos de su país destino para que sea escogido como parte del menú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060256_A1FF66631FE5509B.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013133000 +0000" stop="20221013140000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Almuerzo en familia</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013140000 +0000" stop="20221013143000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Cocinando con los Niños</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013143000 +0000" stop="20221013150000 +0000" channel="Movistar Plus">
+    <title lang="es">Diario de carretera</title>
+    <sub-title lang="es">Lima: Cordillera de la Viuda</sub-title>
+    <desc lang="es">A bordo de un auto, la conductora del programa emprende diversas rutas que la llevarán a descubrir los atractivos turísticos que se pueden conocer en pocos días.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994331_C03436FC976F3305.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013153000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Parihuela</sub-title>
+    <desc lang="es">La parihuela de pescado y mariscos es una de esas sopas concentradas y llenas de sabor, uno de los platos más emblemáticos de la gastronomía peruana. Se demuestra por qué esta sopa marina es tan fabulosa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013153000 +0000" stop="20221013160000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Piqueos para dos</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013160000 +0000" stop="20221013163000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Kunufé</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013163000 +0000" stop="20221013170000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Cocinando con los Niños</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013170000 +0000" stop="20221013173000 +0000" channel="Movistar Plus">
+    <title lang="es">Cocina en un toque</title>
+    <desc lang="es">El chef acerca una propuesta culinaria rápida y sencilla, en la que prepara entradas, platos de fondos, postres y hasta refrescos que se pueden hacer muy rápidamente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994400_2CB5898B33EB6D6D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013173000 +0000" stop="20221013180000 +0000" channel="Movistar Plus">
+    <title lang="es">Desde el jardín</title>
+    <sub-title lang="es">La chacra feliz</sub-title>
+    <desc lang="es">Un chef utiliza la abundante despensa de los principales valles de Lima para crear sorprendentes recetas, sencillas y rústicas de cocina campestre y casera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005250_F42622A35BE4E19B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013180000 +0000" stop="20221013183000 +0000" channel="Movistar Plus">
+    <title lang="es">Más rico</title>
+    <sub-title lang="es">Mazamorra</sub-title>
+    <desc lang="es">Nada más criollo que una sabrosa mazamorra morada, proveniente del maíz morado peruano, único en su género.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013183000 +0000" stop="20221013190000 +0000" channel="Movistar Plus">
+    <title lang="es">Ximena en casa</title>
+    <sub-title lang="es">Loncheras para llevar al trabajo</sub-title>
+    <desc lang="es">Ximena enseña como preparar deliciosos platos con excelentes recetas caseras que resuelven de acuerdo a la ocasión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
+    <episode-num system="onscreen">S2022</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013190000 +0000" stop="20221013193000 +0000" channel="Movistar Plus">
+    <title lang="es">Recuerdos de Cocina</title>
+    <sub-title lang="es">Verano del 89</sub-title>
+    <desc lang="es">Una reconocida chef prepara diversos platos y recetas haciendo acopio de sus más gratos y entrañables recuerdos que motivaron su pasión por la cocina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002968_9E7B7A1ED9116F46.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013193000 +0000" stop="20221013200000 +0000" channel="Movistar Plus">
+    <title lang="es">Entre cuchillos y fuego</title>
+    <sub-title lang="es">Caja china</sub-title>
+    <desc lang="es">Un reconocido carnicero decide recorrer el mundo en busca de los maestros que lo llevaron a convertirse en el gran chef que es. Toda la información sobre la carne, comida congelada y los embutidos, para preparar deliciosos platos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13003809_EBDE9B821FAF614C.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20221013200000 +0000" stop="20221013203000 +0000" channel="Movistar Plus">
+    <title lang="es">Dulces secretos</title>
+    <sub-title lang="es">Tarta de chocolate bitter y frambuesas</sub-title>
+    <desc lang="es">Una reconocida repostera peruana mostrará cómo se elabora los más deliciosos postres en forma didáctica y sin secretos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009911_D1E962726CA849E6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013203000 +0000" stop="20221013210000 +0000" channel="Movistar Plus">
+    <title lang="es">Mejor cocina</title>
+    <sub-title lang="es">Carla Cobain</sub-title>
+    <desc lang="es">Un experto visita las casas de sus seguidores para enseñarles a cocinar.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075155_D347E974F5752999.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013210000 +0000" stop="20221013213000 +0000" channel="Movistar Plus">
+    <title lang="es">Diario de carretera</title>
+    <sub-title lang="es">Pampa Hermosa - La Merced</sub-title>
+    <desc lang="es">A bordo de un auto, la conductora del programa emprende diversas rutas que la llevarán a descubrir los atractivos turísticos que se pueden conocer en pocos días.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994331_C03436FC976F3305.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013213000 +0000" stop="20221013220000 +0000" channel="Movistar Plus">
+    <title lang="es">5 destinos</title>
+    <sub-title lang="es">Hoteles de Cuzco</sub-title>
+    <desc lang="es">Excursiones donde se muestran diferentes retos y oportunidades, y cinco alternativas distintas para un mismo tipo de viaje y así conocer las mejores sugerencias de destinos y actividades que ofrece el Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997405_B4E0B61251D38779.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013220000 +0000" stop="20221013223000 +0000" channel="Movistar Plus">
+    <title lang="es">+ 20 mil kilómetros: Historias del camino</title>
+    <sub-title lang="es">Chincha; Choclococha</sub-title>
+    <desc lang="es">Un espacio en el que se recorren y descubren diferentes tramos del Qhapaq Ñan, el sistema de caminos que unificó y construyó la civilización incaica.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060272_FE8BA51EE0DA89D6.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013223000 +0000" stop="20221013230000 +0000" channel="Movistar Plus">
+    <title lang="es">Celebra Perú</title>
+    <sub-title lang="es">Mamá Pillicha</sub-title>
+    <desc lang="es">Un espacio de festividades y tradiciones nacionales de Perú.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005935_089AF7923148007F.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221013233000 +0000" channel="Movistar Plus">
+    <title lang="es">A la vuelta de la esquina</title>
+    <sub-title lang="es">Bibliotecas</sub-title>
+    <desc lang="es">Con un recorrido por las calles, plazas, iglesias y diversos monumentos de Perú, se develan diversos datos históricos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005093_3AF9F8E2A0980F05.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221013233000 +0000" stop="20221014000000 +0000" channel="Movistar Plus">
+    <title lang="es">Aventura Culinaria</title>
+    <sub-title lang="es">Los Platos Chinos</sub-title>
+    <desc lang="es">La prestigiosa comida peruana y su extraordinaria historia de emprendimiento. Un recorrido por fondas populares, restaurantes de lujo y lugares secretos en busca de ingredientes y platillos, para luego ofrecer una versión propia y original del chef.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060397_247195CF2FE724A2.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
