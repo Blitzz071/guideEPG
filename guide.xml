@@ -261,7 +261,8 @@
   </channel>
   <channel id="Ubeat">
     <display-name lang="es">Ubeat.</display-name>
-    <url>http://www.movistarplus.es</url>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_c6c7898d24819aba69344099c.png" />
+    <url>http://www.orange.es.EK</url>
   </channel>
   <channel id="Latina TV">
     <display-name lang="es">Latina TV.</display-name>
@@ -430,13 +431,9 @@
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" />
     <url>http://www.directv.com.ar</url>
   </channel>
-  <channel id="Fox Sports 2 Argentina">
-    <display-name lang="es">Fox Sports 2 Argentina.</display-name>
-    <url>http://www.buscadorcablevision.com.ar</url>
-  </channel>
   <channel id="Fox Sports 3 Argentina">
     <display-name lang="es">Fox Sports 3 Argentina.</display-name>
-    <url>http://www.buscadorcablevision.com.ar</url>
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="ESPN Argentina">
     <display-name lang="es">ESPN Argentina.</display-name>
@@ -453,14 +450,6 @@
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/623.png" />
     <url>http://www.directv.com.ar</url>
   </channel>
-  <programme start="20221013170000 +0000" stop="20221013190000 +0000" channel="Gol Perú">
-    <title lang="es">Gol Perú noticias</title>
-    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013210000 +0000" channel="Gol Perú">
     <title lang="es">Fútbol Peruano Primera División</title>
     <sub-title lang="es">César Vallejo vs. Alianza Lima</sub-title>
@@ -921,14 +910,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221013140000 +0000" stop="20221013190000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013200000 +0000" channel="Movistar Deportes Perú">
     <title lang="es">El camerino</title>
     <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
@@ -1200,13 +1181,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221013150000 +0000" stop="20221013190000 +0000" channel="Movistar Eventos 1">
-    <title lang="es">Movistar eventos</title>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013230000 +0000" channel="Movistar Eventos 1">
     <title lang="es">Movistar eventos</title>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036859_442EE6B9AD2C822E.jpg" />
@@ -1305,13 +1279,6 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20221013150000 +0000" stop="20221013190000 +0000" channel="Movistar Eventos 2">
-    <title lang="es">Movistar eventos 2</title>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013230000 +0000" channel="Movistar Eventos 2">
     <title lang="es">Movistar eventos 2</title>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
@@ -1406,30 +1373,6 @@
   <programme start="20221015230000 +0000" stop="20221016030000 +0000" channel="Movistar Eventos 2">
     <title lang="es">Movistar eventos 2</title>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038656_6689B66D33F0B003.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221013175000 +0000" stop="20221013182000 +0000" channel="USMP TV">
-    <title lang="es">Leer para contarla</title>
-    <desc lang="es">Las mejores historias de la literatura en un concepto fresco, juvenil y divertido.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005305_B748AFCE85B8D029.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221013182000 +0000" stop="20221013185000 +0000" channel="USMP TV">
-    <title lang="es">Desde el zoológico</title>
-    <desc lang="es">Una visita al Zoológico Guadalajara, donde se presentan las labores diarias, los feroces animales, las temidas criaturas y las adorables especies del mundo animal.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010636_1C066A3EFBDFC4AD.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221013185000 +0000" stop="20221013192000 +0000" channel="USMP TV">
-    <title lang="es">Ciencia y tecnología 3.°</title>
-    <desc lang="es">Un espacio para reforzar sobre biología y física para ser un gran investigador.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005011_69CAFF4F582A3958.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
@@ -2263,15 +2206,6 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20221013180000 +0000" stop="20221013183000 +0000" channel="Canal J">
-    <title lang="en">Auténticas</title>
-    <desc lang="en">La atracción se centrará en los bastidores del día a día de las artistas, retratando sus viages de gira, shows y vida personal.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221013183000 +0000" stop="20221013190000 +0000" channel="Canal J">
-    <title lang="en">Balance</title>
-    <desc lang="en">Discusiones de varios temas.(n)</desc>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013193000 +0000" channel="Canal J">
     <title lang="en">Fashion Therapy</title>
     <desc lang="en">Programa de moda dedicado a brindar consejo y ayudar a elegir el outfit perfecto para cada uno.(n)</desc>
@@ -2755,14 +2689,6 @@
     <desc lang="en">Programa de moda dedicado a brindar consejo y ayudar a elegir el outfit perfecto para cada uno.(n)</desc>
     <date>2014</date>
   </programme>
-  <programme start="20221013170000 +0000" stop="20221013190000 +0000" channel="RPP TV">
-    <title lang="es">La rotativa del aire</title>
-    <desc lang="es">Las noticias más relevantes del Perú y el mundo para estar bien informado.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/16/13160423_1089B9958A38D463.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013210000 +0000" channel="RPP TV">
     <title lang="es">Central de noticias</title>
     <desc lang="es">Las noticias más destacadas junto a la última información de Perú y el mundo.(n)</desc>
@@ -3111,14 +3037,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13114464_E154A5C3F4D04CD8.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221013180000 +0000" stop="20221013190000 +0000" channel="Canal N">
-    <title lang="es">N Noticias</title>
-    <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013190000 +0000" stop="20221013200000 +0000" channel="Canal N">
@@ -3588,26 +3506,6 @@
     <title lang="es">N Noticias</title>
     <desc lang="es">Las noticias de la actualidad nacional e internacional en todo momento, con la mejor información, la cobertura más completa, entrevistas, contactos en vivo, deportes y espectáculos.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13148026_C96B5DFCD20C28A0.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221013180000 +0000" stop="20221013183000 +0000" channel="Movistar Plus">
-    <title lang="es">Más rico</title>
-    <sub-title lang="es">Mazamorra</sub-title>
-    <desc lang="es">Nada más criollo que una sabrosa mazamorra morada, proveniente del maíz morado peruano, único en su género.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011860_CDEAFEFB8ABD437A.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221013183000 +0000" stop="20221013190000 +0000" channel="Movistar Plus">
-    <title lang="es">Ximena en casa</title>
-    <sub-title lang="es">Loncheras para llevar al trabajo</sub-title>
-    <desc lang="es">Una de las mejores formas de sorprender a los invitados en una reunión es ofreciendo una sabrosa comida. En este programa, la chef prepara diferentes recetas, basándose en sabores de casa y ajustándose al tipo de ocasión.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994328_C60CE0494E72367A.jpg" />
-    <episode-num system="onscreen">S2022</episode-num>
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
@@ -6903,7 +6801,7 @@
     <category lang="es">Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4043268" />
     <star-rating system="ES">
-      <value>10.0</value>
+      <value>8.0</value>
     </star-rating>
   </programme>
   <programme start="20221013230700 +0200" stop="20221013233400 +0200" channel="DAZN 1 España">
@@ -8559,6 +8457,9 @@
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4039651" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
   </programme>
   <programme start="20221013230000 +0200" stop="20221014003000 +0200" channel="Movistar Liga de Campeones">
     <title lang="es">Noche de Europa League: 13/10/2022</title>
@@ -9550,6 +9451,9 @@
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4040118" />
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
   </programme>
   <programme start="20221013204500 +0200" stop="20221013205300 +0200" channel="Movistar Liga de Campeones 12">
     <title lang="es">M+ Liga de Campeones 12</title>
@@ -15686,18 +15590,7 @@
       <value>10.0</value>
     </star-rating>
   </programme>
-  <programme start="20221013195500 +0200" stop="20221013203000 +0200" channel="La 1">
-    <title lang="es">Informativo territorial</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
-    <date>2017</date>
-    <category lang="es">Información</category>
-    <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518424" />
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221013203000 +0200" stop="20221013210000 +0200" channel="La 1">
+  <programme start="20221013195500 +0200" stop="20221013210000 +0200" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <date>2017</date>
@@ -15817,14 +15710,13 @@
   </programme>
   <programme start="20221014080000 +0200" stop="20221014094500 +0200" channel="La 1">
     <title lang="es">La hora de La 1: La hora política</title>
-    <title lang="en">TEMPORADA 4</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Marc Sala y Silvia Intxaurrondo en el que se reúne información de actualidad con reportajes y entrevistas dedicados a analizar en profundidad el mundo de la política.(n)</desc>
+    <desc lang="es">'La Hora de La 1' es el programa de entrevistas, debate y análisis de la actualidad política y social de las mañanas de Televisión Española, presentado por Marc Sala y Silvia Intxaurrondo.(n)</desc>
     <date>2022</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2122602" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S4</episode-num>
+    <episode-num system="onscreen">S4 E24</episode-num>
     <rating system="ES">
       <value>7</value>
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
@@ -15832,14 +15724,13 @@
   </programme>
   <programme start="20221014094500 +0200" stop="20221014113000 +0200" channel="La 1">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <title lang="en">TEMPORADA 4</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Marc Sala y Silvia Intxaurrondo en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público.(n)</desc>
+    <desc lang="es">Magazine matinal de la 1 presentado por Igor Gómez en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.(n)</desc>
     <date>2022</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2122603" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S4</episode-num>
+    <episode-num system="onscreen">S4 E24</episode-num>
     <rating system="ES">
       <value>16</value>
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
@@ -15847,14 +15738,13 @@
   </programme>
   <programme start="20221014113000 +0200" stop="20221014145000 +0200" channel="La 1">
     <title lang="es">Hablando claro</title>
-    <title lang="en">TEMPORADA 1</title>
     <desc lang="es">Magacín diario que contará el minuto a minuto de todo lo que ocurra durante la franja horaria en la que se emite. La actualidad y las conexiones en directo serán sus principales argumentos. Un amplio equipo de reporteros se encargará de tomar el pulso a las noticias.(n)</desc>
     <date>2022</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2122553" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">S1 E27</episode-num>
     <rating system="ES">
       <value>16</value>
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
@@ -15872,7 +15762,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20221014150000 +0200" stop="20221014155500 +0200" channel="La 1">
+  <programme start="20221014150000 +0200" stop="20221014154500 +0200" channel="La 1">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. El espacio hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.(n)</desc>
     <date>2014</date>
@@ -15884,7 +15774,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20221014155500 +0200" stop="20221014162000 +0200" channel="La 1">
+  <programme start="20221014154500 +0200" stop="20221014161000 +0200" channel="La 1">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.(n)</desc>
     <date>2017</date>
@@ -15895,86 +15785,77 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20221014162000 +0200" stop="20221014175000 +0200" channel="La 1">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.(n)</desc>
-    <date>2018</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336907V710030" />
+  <programme start="20221014161000 +0200" stop="20221014170000 +0200" channel="La 1">
+    <title lang="es">Todo puede suceder</title>
+    <desc lang="es">Los Ferraro son una temperamental familia numerosa que vive cerca de Roma. Está formada por el abuelo Ettore y su mujer Emma, un referente para los cuatro hijos Alessandro, Sara, Giulia y Carlo, muy diferentes entre sí, y sus familias.(n)</desc>
+    <credits>
+      <actor>Licia Maglietta</actor>
+      <actor>Camilla Filippi</actor>
+      <actor>Pietro Sermonti</actor>
+      <actor>Matilda de Angelis</actor>
+      <actor>Ludovica Martino</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2129185" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
     <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
     </rating>
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
   </programme>
-  <programme start="20221014175000 +0200" stop="20221014185000 +0200" channel="La 1">
+  <programme start="20221014170000 +0200" stop="20221014175500 +0200" channel="La 1">
     <title lang="es">Servir y proteger</title>
-    <title lang="en">TEMPORADA 7</title>
     <desc lang="es">Recién salida de la Academia de Policía, Alicia Ocaña llega a la comisaría del barrio sur de Madrid. Allí, la inspectora jefe Claudia Miralles, le asigna a Rober Batista como compañero de patrulla. Alicia y Rober chocan al principio pero pronto se dan cuenta de que forman una estupenda pareja.(n)</desc>
     <credits>
-      <actor>Luisa Martín</actor>
-      <actor>Pepa Aniorte</actor>
-      <actor>Juanjo Artero</actor>
-      <actor>Roberto Álvarez</actor>
-      <actor>Eduardo Velasco</actor>
-      <actor>Fernando Guillén Cuervo</actor>
-      <actor>Pablo Puyol</actor>
       <actor>Juan José Ballesta</actor>
+      <actor>Luisa Martín</actor>
+      <actor>Nicolás Coronado</actor>
+      <actor>Elisa Mouliaá</actor>
+      <actor>Andrea del Río</actor>
     </credits>
     <date>2022</date>
     <category lang="es">Series</category>
     <category lang="es">Policiaca</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2097890" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S7</episode-num>
+    <episode-num system="onscreen">S7 E74</episode-num>
     <rating system="ES">
       <value>7</value>
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
     </rating>
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
   </programme>
-  <programme start="20221014185000 +0200" stop="20221014195000 +0200" channel="La 1">
+  <programme start="20221014175500 +0200" stop="20221014185000 +0200" channel="La 1">
+    <title lang="es">El comodín de La 1</title>
+    <desc lang="es">Cada concursante cuenta con 7 comodines y 7 posibilidades de premio. El concursante debe responder a 10 preguntas, sin excepción, y puede ayudarse de los comodines para resolver las preguntas. Se puede llegar a ganar hasta 30.000 euros.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2129971" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221014185000 +0200" stop="20221014195500 +0200" channel="La 1">
     <title lang="es">El cazador</title>
-    <title lang="en">TEMPORADA 8</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los cuatro concursantes unirán sus conocimientos para ganar al 'cazador'.(n)</desc>
     <date>2022</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2070065" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S8</episode-num>
+    <episode-num system="onscreen">S8 E82</episode-num>
     <rating system="ES">
       <value>TP</value>
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
-    <star-rating system="ES">
-      <value>8.0</value>
-    </star-rating>
   </programme>
-  <programme start="20221014195000 +0200" stop="20221014203000 +0200" channel="La 1">
-    <title lang="es">Te ha tocado</title>
-    <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Treinta concursantes participan cada día en 'Te ha tocado', una combinación perfecta de azar y saber con premios en metálico y un gran bote.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2096656" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221014203000 +0200" stop="20221014210000 +0200" channel="La 1">
+  <programme start="20221014195500 +0200" stop="20221014210000 +0200" channel="La 1">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.(n)</desc>
     <date>2017</date>
@@ -16028,40 +15909,64 @@
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20221014221500 +0200" stop="20221015000000 +0200" channel="La 1">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.(n)</desc>
+  <programme start="20221014221500 +0200" stop="20221015001500 +0200" channel="La 1">
+    <title lang="es">Creed II: La leyenda de Rocky</title>
+    <title lang="en">Creed II</title>
+    <desc lang="es">Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadamente, Rocky Balboa está a su lado y juntos se cuestionarán por lo que vale la pena luchar y descubrirán que nada es más importante que la familia.(n)</desc>
+    <credits>
+      <actor>Sylvester Stallone</actor>
+      <actor>Michael B. Jordan</actor>
+      <actor>Tessa Thompson</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Florian Munteanu</actor>
+      <writer>Sylvester Stallone</writer>
+      <writer>Juel Taylor</writer>
+    </credits>
     <date>2018</date>
     <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336907V710030" />
+    <category lang="es">Drama</category>
+    <country lang="es">EE.UU</country>
     <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
     </rating>
     <star-rating system="ES">
-      <value>6.0</value>
+      <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20221015000000 +0200" stop="20221015020500 +0200" channel="La 1">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.(n)</desc>
-    <date>2018</date>
+  <programme start="20221015001500 +0200" stop="20221015021500 +0200" channel="La 1">
+    <title lang="es">Donnie Brasco</title>
+    <desc lang="es">Joe Pistone es un agente del FBI a quien se le encarga la misión de infiltrarse en el mundo de la mafia neoyorquina con el fin de desarticular una de sus redes. Pistone, bajo la identidad de Donnie Brasco, establece contacto con Lefty Ruggiero, que se convierte en su máximo valedor ante los jefes mafiosos, consiguiendo su ingreso en la familia. Brasco informa puntualmente al FBI de los movimientos de los mafiosos y consigue grabaciones, además de tener que presenciar y sobrellevar asesinatos, tratos con narcotraficantes y otros hechos delictivos. El trabajo que Pistone realiza lo obliga a vivir en el barrio de Brooklyn, lo que lo aleja de su mujer, Maggie, y de sus hijas. Este hecho le acarrea problemas, y su estabilidad emocional se resiente, aunque al convertirse en Brasco tenga forzosamente que olvidarse de todo.(n)</desc>
+    <credits>
+      <actor>Al Pacino</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Michael Madsen</actor>
+      <actor>Bruno Kirby</actor>
+      <actor>Anne Heche</actor>
+      <actor>Zach Grenier</actor>
+      <actor>James Russo</actor>
+      <actor>Robert Miano</actor>
+      <writer>Paul Attanasio</writer>
+      <composer>Patrick Doyle</composer>
+    </credits>
+    <date>1996</date>
     <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336907V710030" />
+    <category lang="es">Policiaco</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP170732" />
+    <country lang="es">EE.UU</country>
     <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
     </rating>
     <star-rating system="ES">
-      <value>6.0</value>
+      <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20221015020500 +0200" stop="20221015033000 +0200" channel="La 1">
+  <programme start="20221015021500 +0200" stop="20221015025700 +0200" channel="La 1">
     <title lang="es">This is Us</title>
-    <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Cuatro personas, totalmente distintas, pueden compartir mucho más que el mismo día de cumpleaños. Jack espera con ilusión la llegada de trillizos; Randall es un hombre de negocios de éxito y un feliz padre de familia pero busca desesperadamente a su padre biológico; Kevin es un actor muy popular que se siente atrapado en una carrera que no quiere y que parece ser totalmente opuesto a su hermana gemela, una mujer obesa dispuesta a perder peso y a cambiar su vida para siempre.(n)</desc>
+    <sub-title lang="es">Hacer lo correcto</sub-title>
+    <desc lang="es">Kate lucha con sus sentimientos después del ataque al corazón de Toby. Mientras William comienza a pasar más tiempo con Jesse, Randall tiene que acostumbrarse a la nueva relación de su padre. En el pasado, tras recibir la noticia de que están esperando trillizos, Jack y Rebecca deben encontrar la manera de pagar una casa en la que poder criar a tres bebés. Olivia reaparece inesperadamente.(n)</desc>
     <credits>
       <actor>Milo Ventimiglia</actor>
       <actor>Mandy Moore</actor>
@@ -16072,9 +15977,9 @@
     <date>2016</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1362529" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1385584" />
     <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">S1 E11</episode-num>
     <rating system="ES">
       <value>12</value>
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
@@ -16083,44 +15988,71 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20221015033000 +0200" stop="20221015060000 +0200" channel="La 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
-    <date>2021</date>
-    <category lang="es">Información</category>
-    <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403" />
-    <country lang="es">España</country>
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221015060000 +0200" stop="20221015085500 +0200" channel="La 1">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
-    <date>2021</date>
-    <category lang="es">Información</category>
-    <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403" />
-    <country lang="es">España</country>
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221015085500 +0200" stop="20221015095000 +0200" channel="La 1">
-    <title lang="es">Vuelvo a empezar</title>
-    <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">La historia de personas que han dejado su vida en la gran ciudad para instalarse en pequeños pueblos de la España rural y aprovechar las oportunidades y calidad de vida que estos ofrecen.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Tertulia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2109897" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20221015025700 +0200" stop="20221015034000 +0200" channel="La 1">
+    <title lang="es">This is Us</title>
+    <sub-title lang="es">El gran día</sub-title>
+    <desc lang="es">Con la cuenta atrás para el nacimiento de los trillizos, Rebecca olvida el cumpleaños de Jack; El Dr. K intenta seguir adelante sin su esposa y el bombero que entregó a Randall en el hospital, lucha para salvar su matrimonio.(n)</desc>
+    <credits>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1385585" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
     <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
     </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221015034000 +0200" stop="20221015060000 +0200" channel="La 1">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221015060000 +0200" stop="20221015085000 +0200" channel="La 1">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP518403" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221015085000 +0200" stop="20221015095000 +0200" channel="La 1">
+    <title lang="es">Comando Actualidad</title>
+    <title lang="en">TEMPORADA 21/22</title>
+    <desc lang="es">Un novedoso formato que presenta un tema de actualidad a través de la mirada coral de varios reporteros callejeros. Cuatro periodistas que se desplazan hasta el lugar donde ocurren las noticias, las muestran tal y como son y aportan al tema su mirada personal.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Información</category>
+    <category lang="es">Reportajes de actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1942514" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
   </programme>
   <programme start="20221015095000 +0200" stop="20221015133000 +0200" channel="La 1">
     <title lang="es">MasterChef Celebrity</title>
@@ -16217,45 +16149,73 @@
     </star-rating>
   </programme>
   <programme start="20221015160000 +0200" stop="20221015173000 +0200" channel="La 1">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.(n)</desc>
-    <date>2018</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336907V710030" />
+    <title lang="es">Una casa de tres habitaciones</title>
+    <title lang="en">Dreiraumwohnung</title>
+    <desc lang="es">La perfeccionista se encuentra con la reina del caos. Konstanze recibe la visita de Jackie y sus tres hijos, y no se puede deshacer de ellos.(n)</desc>
+    <credits>
+      <actor>Caroline Peters</actor>
+      <actor>Anja Kling</actor>
+      <actor>Carol Schuler</actor>
+      <actor>Lene Oderich</actor>
+      <actor>Bruno Grüner</actor>
+      <writer>Isabel Kleefeld</writer>
+      <writer>Kirsten Peters</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Telefilme</category>
+    <category lang="es">Drama</category>
+    <country lang="es">Alemania</country>
     <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20221015173000 +0200" stop="20221015190000 +0200" channel="La 1">
+    <title lang="es">El mar que hay en ti</title>
+    <title lang="en">Katie Fforde - Das Meer in dir</title>
+    <desc lang="es">Tras una dolorosa pérdida, Marie se distancia de su vida anterior y su hijo adolescente. Cuando el joven comete un delito, su madre lucha para sacarlo de prisión, lo que le hace replantearse su vida.(n)</desc>
+    <credits>
+      <actor>Jörg Schüttauf</actor>
+      <actor>Dietrich Mattausch</actor>
+      <actor>Susanne Schäfer</actor>
+      <actor>Jannik Schümann</actor>
+      <actor>Luise Danes</actor>
+      <writer>Timo Berndt</writer>
+      <writer>Katie Fforde</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Romántico</category>
+    <country lang="es">Alemania</country>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
     </rating>
     <star-rating system="ES">
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20221015173000 +0200" stop="20221015190500 +0200" channel="La 1">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.(n)</desc>
-    <date>2018</date>
+  <programme start="20221015190000 +0200" stop="20221015210000 +0200" channel="La 1">
+    <title lang="es">Mi tío Jacinto</title>
+    <desc lang="es">Jacinto es un antiguo matador de toros venido a menos que actualmente vive en la miseria en compañía de su sobrino Pepote. Su vida cambia radicalmente el día que recibe una carta en la que lo invitan a participar en una corrida de toros que se va a celebrar esa misma tarde en Las Ventas.(n)</desc>
+    <credits>
+      <actor>Pablito Calvo</actor>
+      <actor>Antonio Vico</actor>
+      <actor>Pepe Isbert</actor>
+      <actor>Juan Calvo</actor>
+      <actor>Pastora Peña</actor>
+      <writer>Andrés Laszlo</writer>
+      <writer>José Santugini</writer>
+      <writer>Max Korner</writer>
+      <composer>Román Vlad</composer>
+    </credits>
+    <date>1956</date>
     <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336907V710030" />
+    <category lang="es">Drama</category>
+    <country lang="es">España e Italia</country>
     <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221015190500 +0200" stop="20221015210000 +0200" channel="La 1">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.(n)</desc>
-    <date>2018</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336907V710030" />
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
     </rating>
     <star-rating system="ES">
       <value>6.0</value>
@@ -16287,22 +16247,19 @@
   </programme>
   <programme start="20221015213000 +0200" stop="20221015220500 +0200" channel="La 1">
     <title lang="es">Informe Semanal</title>
-    <title lang="en">TEMPORADA 21/22</title>
+    <title lang="en">TEMPORADA 22/23</title>
     <desc lang="es">El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.(n)</desc>
-    <date>2021</date>
+    <date>2022</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1945126" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2126823" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
     </rating>
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
   </programme>
-  <programme start="20221015220500 +0200" stop="20221015234000 +0200" channel="La 1">
+  <programme start="20221015220500 +0200" stop="20221016000500 +0200" channel="La 1">
     <title lang="es">La gran confusión</title>
     <title lang="en">TEMPORADA 1</title>
     <desc lang="es">Un talk show en el que el entretenimiento, los invitados, el humor e historias imprevisibles conforman un programa nocturno de gran formato. El objetivo principal es que los espectadores se lo pasen bien y descubran aspectos insólitos de los personajes más relevantes.(n)</desc>
@@ -16320,37 +16277,88 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20221015234000 +0200" stop="20221016011500 +0200" channel="La 1">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.(n)</desc>
-    <date>2018</date>
+  <programme start="20221016000500 +0200" stop="20221016021000 +0200" channel="La 1">
+    <title lang="es">El gran Gatsby</title>
+    <title lang="en">The Great Gatsby</title>
+    <desc lang="es">Nueva York, década de 1920. Nick Carraway es un aspirante a escritor que deja el Medio Oeste y se traslada a Long Island en la primavera de 1922, una época de decadencia moral, 'jazz', contrabando de alcohol y pujanza económica. Persiguiendo su propia versión del 'sueño americano', Nick acaba siendo vecino de Jay Gatsby, un misterioso millonario que constantemente da fiestas. Al otro lado de la bahía vive la prima de Nick, Daisy, y su mujeriego y aristócrata marido, Tom Buchanan. Así es como Nick se verá inmerso en el cautivador mundo de los multimillonarios, en sus ilusiones, amores y engaños.(n)</desc>
+    <credits>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Tobey Maguire</actor>
+      <actor>Carey Mulligan</actor>
+      <actor>Joel Edgerton</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Frank Aldridge</actor>
+      <actor>Amitabh Bachchan</actor>
+      <writer>Baz Luhrmann</writer>
+      <writer>Craig Pearce</writer>
+      <composer>Craig Armstrong</composer>
+    </credits>
+    <date>2013</date>
     <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336907V710030" />
+    <category lang="es">Drama</category>
+    <country lang="es">Australia y EE.UU</country>
     <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221016021000 +0200" stop="20221016034000 +0200" channel="La 1">
+    <title lang="es">Un romance real</title>
+    <title lang="en">Herztöne</title>
+    <desc lang="es">Lissie quiere un ascenso y un buen chico. En una fiesta conoce a un chico perfecto, pero al día siguiente en la reunión de la oficina descubre que no es tan perfecto como parecía.(n)</desc>
+    <credits>
+      <actor>Peter Prager</actor>
+      <actor>Jennifer Ulrich</actor>
+      <actor>Andrea Sawatzki</actor>
+      <actor>Pasquale Aleardi</actor>
+      <actor>Trystan Pütter</actor>
+      <writer>Birgit Maiwald</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP2095085" />
+    <country lang="es">Alemania</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
     </rating>
     <star-rating system="ES">
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20221016011500 +0200" stop="20221016024000 +0200" channel="La 1">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.(n)</desc>
-    <date>2018</date>
+  <programme start="20221016034000 +0200" stop="20221016051000 +0200" channel="La 1">
+    <title lang="es">Tonio y Julia - Promesas Incumplidas</title>
+    <title lang="en">Tonio &amp; Julia - Schulden und Sühne</title>
+    <desc lang="es">El centro de Tonio y Julia es muy popular. Pero justamente, Tonio recibe una oferta muy atractiva para un puesto importante en un seminario de Munich. Mientras tanto, Julia no tiene ni idea.(n)</desc>
+    <credits>
+      <actor>Charlotte Schwab</actor>
+      <actor>Maximilian Grill</actor>
+      <actor>Dietrich Adam</actor>
+      <actor>Oona-Devi Liebich</actor>
+      <actor>Géraldine Raths</actor>
+      <actor>Klaus Pohl</actor>
+      <writer>Katja Kittendorf</writer>
+      <writer>Jens Maria Merz</writer>
+    </credits>
+    <date>2019</date>
     <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336907V710030" />
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1775267" />
+    <country lang="es">Alemania</country>
     <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
     </rating>
     <star-rating system="ES">
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20221016024000 +0200" stop="20221016060000 +0200" channel="La 1">
+  <programme start="20221016051000 +0200" stop="20221016060000 +0200" channel="La 1">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.(n)</desc>
     <date>2021</date>
@@ -16361,6 +16369,693 @@
     <star-rating system="ES">
       <value>6.0</value>
     </star-rating>
+  </programme>
+  <programme start="20221013193000 +0000" stop="20221013200000 +0000" channel="Ubeat">
+    <title lang="es">Linko</title>
+    <desc lang="es">Con una imagen cercana a los videojuegos, 'Linko' propone una historia de ciencia ficción protagonizada por el actor Críspulo Cabezas.(n)</desc>
+    <credits>
+      <director>Rafael Calvo</director>
+      <director>Xosé Zapata</director>
+      <director>David Valero</director>
+      <actor>Críspulo Cabezas</actor>
+      <actor>Manel Barceló</actor>
+      <actor>Xosé Zapata</actor>
+      <actor>Daniel Carrillo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1682493.jpg" />
+    <country lang="es">ESP</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221013200000 +0000" stop="20221013220000 +0000" channel="Ubeat">
+    <title lang="es">Arachnid</title>
+    <desc lang="es">En una isla del Sur del Pacífico, una avioneta realiza un aterrizaje de emergencia. En ella viaja una expedición secreta para investigar un supuesto virus mortal que está diezmando a la población local. En cuanto la expedición científica comienza a recorrer el otro lado de la isla, descubrirá que la zona está habitada por enormes arañas asesinas de procedencia extraterrestre.(n)</desc>
+    <credits>
+      <director>Jack Sholder</director>
+      <actor>Chris Potter</actor>
+      <actor>Neus Asensi</actor>
+      <actor>Alex Reid</actor>
+      <actor>José Sancho</actor>
+      <actor>Jose Sancho</actor>
+      <actor>Ravil Issyanov</actor>
+      <actor>Rocqueford Allen</actor>
+      <writer>Mark Sevi</writer>
+      <producer>Brian Yuzna</producer>
+      <composer>Francesc Gener</composer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1029422.jpg" />
+    <country lang="es">ESP</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20221013220000 +0000" stop="20221013230000 +0000" channel="Ubeat">
+    <title lang="es">Conan, el aventurero</title>
+    <sub-title lang="es">El antídoto</sub-title>
+    <desc lang="es">Mientras Conan celebra en una taberna, un asesino invisible le dispara al cimmerio con una flecha envenenada. Un curandero examina la herida y dice que Conan morirá si alguien no obtiene el antídoto, que debe atravesar una pared de guerreros Hissah Zul.(n)</desc>
+    <credits>
+      <actor>Danny Woodburn</actor>
+      <actor>T.J. Storm</actor>
+      <actor>Ralf Moeller</actor>
+      <actor>Jeremy Kemp</actor>
+      <actor>Robert McRay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Series</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1526932.jpg" />
+    <country lang="es">DEU</country>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221013230000 +0000" stop="20221014000000 +0000" channel="Ubeat">
+    <title lang="es">Linko</title>
+    <desc lang="es">Con una imagen cercana a los videojuegos, 'Linko' propone una historia de ciencia ficción protagonizada por el actor Críspulo Cabezas.(n)</desc>
+    <credits>
+      <director>Xosé Zapata</director>
+      <director>David Valero</director>
+      <actor>Críspulo Cabezas</actor>
+      <actor>Rafael Calvo</actor>
+      <actor>Manel Barceló</actor>
+      <actor>Xosé Zapata</actor>
+      <actor>Daniel Carrillo</actor>
+      <writer>Xosé Zapata</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1682493.jpg" />
+    <country lang="es">ESP</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221014000000 +0000" stop="20221014020000 +0000" channel="Ubeat">
+    <title lang="es">La mejor oferta</title>
+    <desc lang="es">Virgil, un hombre solitario, es un experto en arte. Su vida transcurre al margen de cualquier emoción hasta que conoce a una joven, que le encarga tasar las obras de arte heredadas de sus padres.(n)</desc>
+    <credits>
+      <director>Giuseppe Tornatore</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Jim Sturgess</actor>
+      <actor>Sylvia Hoeks</actor>
+      <actor>Dermot Crowley</actor>
+      <actor>Philip Jackson</actor>
+      <producer>Arturo Paglia</producer>
+      <producer>Isabella Cocuzza</producer>
+      <composer>Ennio Morricone</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_959766.jpg" />
+    <country lang="es">ITA</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20221014020000 +0000" stop="20221014030000 +0000" channel="Ubeat">
+    <title lang="es">Conan, el aventurero</title>
+    <sub-title lang="es">Los magos letales</sub-title>
+    <desc lang="es">Conan, en compañía de sus fieles guerreros Otli, Bayu y Zzeban, luchará para liberar su reino, Cimeria, de las manos de una temible hechicera. En su camino se encontrará con la bella y fiera reina de los bandidos, Karella, eterna compañera y enemiga.(n)</desc>
+    <credits>
+      <actor>Danny Woodburn</actor>
+      <actor>T.J. Storm</actor>
+      <actor>Ralf Moeller</actor>
+      <actor>Jeremy Kemp</actor>
+      <actor>Robert McRay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Series</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1526932.jpg" />
+    <country lang="es">DEU</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221014030000 +0000" stop="20221014043000 +0000" channel="Ubeat">
+    <title lang="es">Plan Sexenal</title>
+    <desc lang="es">La fantasía de Mercedes se convierte en una pesadilla. El miedo más grande de Juan encarna en un hombre extraño que llega a su casa.(n)</desc>
+    <credits>
+      <director>Santiago Cendejas</director>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_52344.jpg" />
+    <country lang="es">MEX</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221014043000 +0000" stop="20221014060000 +0000" channel="Ubeat">
+    <title lang="es">Ruben Brandt, Coleccionista</title>
+    <desc lang="es">Un psicoterapeuta se ve obligado a robar 13 pinturas de renombre mundial de sus diferentes museos y colecciones privadas para evitar el sufrimiento de las terribles pesadillas que le ocasionan.(n)</desc>
+    <credits>
+      <director>Milorad Krstic</director>
+      <director>Milorad Kristic</director>
+      <actor>Gabriella Hámori</actor>
+      <actor>Zalán Makranczi</actor>
+      <actor>Iván Kamarás</actor>
+      <writer>Radmila Roczkov</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1034990.jpg" />
+    <country lang="es">HUN</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221014060000 +0000" stop="20221014073000 +0000" channel="Ubeat">
+    <title lang="es">Despertar el polvo</title>
+    <desc lang="es">Un evento desafortunado despierta los instintos protectores de Chano en las calles de México.(n)</desc>
+    <credits>
+      <director>Hari Sama</director>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_560626.jpg" />
+    <country lang="es">MEX</country>
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221014073000 +0000" stop="20221014100000 +0000" channel="Ubeat">
+    <title lang="es">La mejor oferta</title>
+    <desc lang="es">Virgil, un hombre solitario, es un experto en arte. Su vida transcurre al margen de cualquier emoción hasta que conoce a una joven, que le encarga tasar las obras de arte heredadas de sus padres.(n)</desc>
+    <credits>
+      <director>Giuseppe Tornatore</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Jim Sturgess</actor>
+      <actor>Sylvia Hoeks</actor>
+      <actor>Dermot Crowley</actor>
+      <actor>Philip Jackson</actor>
+      <producer>Arturo Paglia</producer>
+      <producer>Isabella Cocuzza</producer>
+      <composer>Ennio Morricone</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_959766.jpg" />
+    <country lang="es">ITA</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20221014100000 +0000" stop="20221014113000 +0000" channel="Ubeat">
+    <title lang="es">Plan Sexenal</title>
+    <desc lang="es">La fantasía de Mercedes se convierte en una pesadilla. El miedo más grande de Juan encarna en un hombre extraño que llega a su casa.(n)</desc>
+    <credits>
+      <director>Santiago Cendejas</director>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_52344.jpg" />
+    <country lang="es">MEX</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221014113000 +0000" stop="20221014130000 +0000" channel="Ubeat">
+    <title lang="es">Ruben Brandt, Coleccionista</title>
+    <desc lang="es">Un psicoterapeuta se ve obligado a robar 13 pinturas de renombre mundial de sus diferentes museos y colecciones privadas para evitar el sufrimiento de las terribles pesadillas que le ocasionan.(n)</desc>
+    <credits>
+      <director>Milorad Krstic</director>
+      <director>Milorad Kristic</director>
+      <actor>Gabriella Hámori</actor>
+      <actor>Zalán Makranczi</actor>
+      <actor>Iván Kamarás</actor>
+      <writer>Radmila Roczkov</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1034990.jpg" />
+    <country lang="es">HUN</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221014130000 +0000" stop="20221014143000 +0000" channel="Ubeat">
+    <title lang="es">Despertar el polvo</title>
+    <desc lang="es">Un evento desafortunado despierta los instintos protectores de Chano en las calles de México.(n)</desc>
+    <credits>
+      <director>Hari Sama</director>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_560626.jpg" />
+    <country lang="es">MEX</country>
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221014143000 +0000" stop="20221014163000 +0000" channel="Ubeat">
+    <title lang="es">La mejor oferta</title>
+    <desc lang="es">Virgil, un hombre solitario, es un experto en arte. Su vida transcurre al margen de cualquier emoción hasta que conoce a una joven, que le encarga tasar las obras de arte heredadas de sus padres.(n)</desc>
+    <credits>
+      <director>Giuseppe Tornatore</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Jim Sturgess</actor>
+      <actor>Sylvia Hoeks</actor>
+      <actor>Dermot Crowley</actor>
+      <actor>Philip Jackson</actor>
+      <producer>Arturo Paglia</producer>
+      <producer>Isabella Cocuzza</producer>
+      <composer>Ennio Morricone</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_959766.jpg" />
+    <country lang="es">ITA</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20221014163000 +0000" stop="20221014180000 +0000" channel="Ubeat">
+    <title lang="es">Plan Sexenal</title>
+    <desc lang="es">La fantasía de Mercedes se convierte en una pesadilla. El miedo más grande de Juan encarna en un hombre extraño que llega a su casa.(n)</desc>
+    <credits>
+      <director>Santiago Cendejas</director>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_52344.jpg" />
+    <country lang="es">MEX</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221014180000 +0000" stop="20221014200000 +0000" channel="Ubeat">
+    <title lang="es">Despertar el polvo</title>
+    <desc lang="es">Un evento desafortunado despierta los instintos protectores de Chano en las calles de México.(n)</desc>
+    <credits>
+      <director>Hari Sama</director>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_560626.jpg" />
+    <country lang="es">MEX</country>
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221014200000 +0000" stop="20221014213000 +0000" channel="Ubeat">
+    <title lang="es">Ruben Brandt, Coleccionista</title>
+    <desc lang="es">Un psicoterapeuta se ve obligado a robar 13 pinturas de renombre mundial de sus diferentes museos y colecciones privadas para evitar el sufrimiento de las terribles pesadillas que le ocasionan.(n)</desc>
+    <credits>
+      <director>Milorad Krstic</director>
+      <director>Milorad Kristic</director>
+      <actor>Gabriella Hámori</actor>
+      <actor>Zalán Makranczi</actor>
+      <actor>Iván Kamarás</actor>
+      <writer>Radmila Roczkov</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1034990.jpg" />
+    <country lang="es">HUN</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221014213000 +0000" stop="20221015000000 +0000" channel="Ubeat">
+    <title lang="es">La mejor oferta</title>
+    <desc lang="es">Virgil, un hombre solitario, es un experto en arte. Su vida transcurre al margen de cualquier emoción hasta que conoce a una joven, que le encarga tasar las obras de arte heredadas de sus padres.(n)</desc>
+    <credits>
+      <director>Giuseppe Tornatore</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Jim Sturgess</actor>
+      <actor>Sylvia Hoeks</actor>
+      <actor>Dermot Crowley</actor>
+      <actor>Philip Jackson</actor>
+      <producer>Arturo Paglia</producer>
+      <producer>Isabella Cocuzza</producer>
+      <composer>Ennio Morricone</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_959766.jpg" />
+    <country lang="es">ITA</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20221015000000 +0000" stop="20221015013000 +0000" channel="Ubeat">
+    <title lang="es">Tormenta de lava</title>
+    <desc lang="es">John, un científico que trabaja en el centro de evacuación de emergencia de un parque natural, recibe la llamada de una inspectora en riesgo geológico, Lori, en la que le comunica que está teniendo lugar un calentamiento inesperado.(n)</desc>
+    <credits>
+      <director>Sean Dwyer</director>
+      <actor>Ian Ziering</actor>
+      <actor>Vlasta Vrana</actor>
+      <actor>Nicole Maillet</actor>
+      <actor>Adrien Dixon</actor>
+      <actor>Valérie Valois</actor>
+      <writer>Bill Hoffman</writer>
+      <producer>Sam Grana</producer>
+      <producer>Jean Guy Despres</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_552153.jpg" />
+    <country lang="es">ESP</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015013000 +0000" stop="20221015023000 +0000" channel="Ubeat">
+    <title lang="es">Conan, el aventurero</title>
+    <sub-title lang="es">Heredero forzoso</sub-title>
+    <desc lang="es">Conan, en compañía de sus fieles guerreros Otli, Bayu y Zzeban, luchará para liberar su reino, Cimeria, de las manos de una temible hechicera. En su camino se encontrará con la bella y fiera reina de los bandidos, Karella, eterna compañera y enemiga.(n)</desc>
+    <credits>
+      <actor>Danny Woodburn</actor>
+      <actor>T.J. Storm</actor>
+      <actor>Ralf Moeller</actor>
+      <actor>Jeremy Kemp</actor>
+      <actor>Robert McRay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Series</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1526932.jpg" />
+    <country lang="es">DEU</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221015023000 +0000" stop="20221015040000 +0000" channel="Ubeat">
+    <title lang="es">Tiburón zombie</title>
+    <desc lang="es">Un grupo de amigos decide pasar las vacaciones en una aislada isla. Las cosas se complican cuando un tiburón infectado por un virus creado en un centro de investigación se transforma en zombi.(n)</desc>
+    <credits>
+      <director>Misty Talley</director>
+      <actor>Jason London</actor>
+      <actor>Laura Cayouette</actor>
+      <actor>Cassie Steele</actor>
+      <actor>Ross Britz</actor>
+      <actor>Roger J. Timber</actor>
+      <writer>Greg Mitchell</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_143044.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015040000 +0000" stop="20221015060000 +0000" channel="Ubeat">
+    <title lang="es">El enviado</title>
+    <desc lang="es">Unas obras en el metro de Nueva York descubren unas reliquias: un esqueleto y una misteriosa llave. El origen del hallazgo pronto se revelará en forma de un ser maligno.(n)</desc>
+    <credits>
+      <director>Jean-Marc Piché</director>
+      <actor>Dolph Lundgren</actor>
+      <actor>Allen Altman</actor>
+      <actor>Roc LaFortune</actor>
+      <actor>Michael Greyeyes</actor>
+      <actor>Françoise Robertson</actor>
+      <actor>Andy Bradshaw</actor>
+      <writer>Matt Roe</writer>
+      <writer>Ripley Highsmith</writer>
+      <producer>Pascal Borno</producer>
+      <producer>Claudio Castravelli</producer>
+      <composer>Eric Wurst</composer>
+      <composer>David Wurst</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_560971.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015060000 +0000" stop="20221015070000 +0000" channel="Ubeat">
+    <title lang="es">Conan, el aventurero</title>
+    <sub-title lang="es">Heredero forzoso</sub-title>
+    <desc lang="es">Conan, en compañía de sus fieles guerreros Otli, Bayu y Zzeban, luchará para liberar su reino, Cimeria, de las manos de una temible hechicera. En su camino se encontrará con la bella y fiera reina de los bandidos, Karella, eterna compañera y enemiga.(n)</desc>
+    <credits>
+      <actor>Danny Woodburn</actor>
+      <actor>T.J. Storm</actor>
+      <actor>Ralf Moeller</actor>
+      <actor>Jeremy Kemp</actor>
+      <actor>Robert McRay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Series</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1526932.jpg" />
+    <country lang="es">DEU</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221015070000 +0000" stop="20221015083000 +0000" channel="Ubeat">
+    <title lang="es">Los exterminadores</title>
+    <desc lang="es">Miles de millas debajo del océano, un misterioso barco antiguo envía un mensaje ominoso para cada instalación militar en el mundo, amenazando la destrucción mundial. Los principales funcionarios del Gobierno formar grupos secretos de 'Exterminadores' a lo largo de las décadas para evitar la destrucción de la tierra.(n)</desc>
+    <credits>
+      <director>David Flores</director>
+      <actor>Greg Evigan</actor>
+      <actor>Stephen Billington</actor>
+      <actor>Denise Crosby</actor>
+      <actor>Daniel Hugh Kelly</actor>
+      <actor>John H. Francis</actor>
+      <writer>Jackson Stewart</writer>
+      <writer>Berkeley Anderson</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_325238.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015083000 +0000" stop="20221015100000 +0000" channel="Ubeat">
+    <title lang="es">Tormenta de lava</title>
+    <desc lang="es">John, un científico que trabaja en el centro de evacuación de emergencia de un parque natural, recibe la llamada de una inspectora en riesgo geológico, Lori, en la que le comunica que está teniendo lugar un calentamiento inesperado.(n)</desc>
+    <credits>
+      <director>Sean Dwyer</director>
+      <actor>Ian Ziering</actor>
+      <actor>Vlasta Vrana</actor>
+      <actor>Nicole Maillet</actor>
+      <actor>Adrien Dixon</actor>
+      <actor>Valérie Valois</actor>
+      <writer>Bill Hoffman</writer>
+      <producer>Sam Grana</producer>
+      <producer>Jean Guy Despres</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_552153.jpg" />
+    <country lang="es">ESP</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015100000 +0000" stop="20221015113000 +0000" channel="Ubeat">
+    <title lang="es">Tiburón zombie</title>
+    <desc lang="es">Un grupo de amigos decide pasar las vacaciones en una aislada isla. Las cosas se complican cuando un tiburón infectado por un virus creado en un centro de investigación se transforma en zombi.(n)</desc>
+    <credits>
+      <director>Misty Talley</director>
+      <actor>Jason London</actor>
+      <actor>Laura Cayouette</actor>
+      <actor>Cassie Steele</actor>
+      <actor>Ross Britz</actor>
+      <actor>Roger J. Timber</actor>
+      <writer>Greg Mitchell</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_143044.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015113000 +0000" stop="20221015133000 +0000" channel="Ubeat">
+    <title lang="es">El enviado</title>
+    <desc lang="es">Unas obras en el metro de Nueva York descubren unas reliquias: un esqueleto y una misteriosa llave. El origen del hallazgo pronto se revelará en forma de un ser maligno.(n)</desc>
+    <credits>
+      <director>Jean-Marc Piché</director>
+      <actor>Dolph Lundgren</actor>
+      <actor>Allen Altman</actor>
+      <actor>Roc LaFortune</actor>
+      <actor>Michael Greyeyes</actor>
+      <actor>Françoise Robertson</actor>
+      <actor>Andy Bradshaw</actor>
+      <writer>Matt Roe</writer>
+      <writer>Ripley Highsmith</writer>
+      <producer>Pascal Borno</producer>
+      <producer>Claudio Castravelli</producer>
+      <composer>Eric Wurst</composer>
+      <composer>David Wurst</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_560971.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015133000 +0000" stop="20221015150000 +0000" channel="Ubeat">
+    <title lang="es">Los exterminadores</title>
+    <desc lang="es">Miles de millas debajo del océano, un misterioso barco antiguo envía un mensaje ominoso para cada instalación militar en el mundo, amenazando la destrucción mundial. Los principales funcionarios del Gobierno formar grupos secretos de 'Exterminadores' a lo largo de las décadas para evitar la destrucción de la tierra.(n)</desc>
+    <credits>
+      <director>David Flores</director>
+      <actor>Greg Evigan</actor>
+      <actor>Stephen Billington</actor>
+      <actor>Denise Crosby</actor>
+      <actor>Daniel Hugh Kelly</actor>
+      <actor>John H. Francis</actor>
+      <writer>Jackson Stewart</writer>
+      <writer>Berkeley Anderson</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_325238.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015150000 +0000" stop="20221015163000 +0000" channel="Ubeat">
+    <title lang="es">Tormenta de lava</title>
+    <desc lang="es">John, un científico que trabaja en el centro de evacuación de emergencia de un parque natural, recibe la llamada de una inspectora en riesgo geológico, Lori, en la que le comunica que está teniendo lugar un calentamiento inesperado.(n)</desc>
+    <credits>
+      <director>Sean Dwyer</director>
+      <actor>Ian Ziering</actor>
+      <actor>Vlasta Vrana</actor>
+      <actor>Nicole Maillet</actor>
+      <actor>Adrien Dixon</actor>
+      <actor>Valérie Valois</actor>
+      <writer>Bill Hoffman</writer>
+      <producer>Sam Grana</producer>
+      <producer>Jean Guy Despres</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_552153.jpg" />
+    <country lang="es">ESP</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015163000 +0000" stop="20221015180000 +0000" channel="Ubeat">
+    <title lang="es">Tiburón zombie</title>
+    <desc lang="es">Un grupo de amigos decide pasar las vacaciones en una aislada isla. Las cosas se complican cuando un tiburón infectado por un virus creado en un centro de investigación se transforma en zombi.(n)</desc>
+    <credits>
+      <director>Misty Talley</director>
+      <actor>Jason London</actor>
+      <actor>Laura Cayouette</actor>
+      <actor>Cassie Steele</actor>
+      <actor>Ross Britz</actor>
+      <actor>Roger J. Timber</actor>
+      <writer>Greg Mitchell</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_143044.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015180000 +0000" stop="20221015200000 +0000" channel="Ubeat">
+    <title lang="es">El enviado</title>
+    <desc lang="es">Unas obras en el metro de Nueva York descubren unas reliquias: un esqueleto y una misteriosa llave. El origen del hallazgo pronto se revelará en forma de un ser maligno.(n)</desc>
+    <credits>
+      <director>Jean-Marc Piché</director>
+      <actor>Dolph Lundgren</actor>
+      <actor>Allen Altman</actor>
+      <actor>Roc LaFortune</actor>
+      <actor>Michael Greyeyes</actor>
+      <actor>Françoise Robertson</actor>
+      <actor>Andy Bradshaw</actor>
+      <writer>Matt Roe</writer>
+      <writer>Ripley Highsmith</writer>
+      <producer>Pascal Borno</producer>
+      <producer>Claudio Castravelli</producer>
+      <composer>Eric Wurst</composer>
+      <composer>David Wurst</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_560971.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015200000 +0000" stop="20221015213000 +0000" channel="Ubeat">
+    <title lang="es">Los exterminadores</title>
+    <desc lang="es">Miles de millas debajo del océano, un misterioso barco antiguo envía un mensaje ominoso para cada instalación militar en el mundo, amenazando la destrucción mundial. Los principales funcionarios del Gobierno formar grupos secretos de 'Exterminadores' a lo largo de las décadas para evitar la destrucción de la tierra.(n)</desc>
+    <credits>
+      <director>David Flores</director>
+      <actor>Greg Evigan</actor>
+      <actor>Stephen Billington</actor>
+      <actor>Denise Crosby</actor>
+      <actor>Daniel Hugh Kelly</actor>
+      <actor>John H. Francis</actor>
+      <writer>Jackson Stewart</writer>
+      <writer>Berkeley Anderson</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_325238.jpg" />
+    <country lang="es">USA</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015213000 +0000" stop="20221015230000 +0000" channel="Ubeat">
+    <title lang="es">Tormenta de lava</title>
+    <desc lang="es">John, un científico que trabaja en el centro de evacuación de emergencia de un parque natural, recibe la llamada de una inspectora en riesgo geológico, Lori, en la que le comunica que está teniendo lugar un calentamiento inesperado.(n)</desc>
+    <credits>
+      <director>Sean Dwyer</director>
+      <actor>Ian Ziering</actor>
+      <actor>Vlasta Vrana</actor>
+      <actor>Nicole Maillet</actor>
+      <actor>Adrien Dixon</actor>
+      <actor>Valérie Valois</actor>
+      <writer>Bill Hoffman</writer>
+      <producer>Sam Grana</producer>
+      <producer>Jean Guy Despres</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Cine</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_552153.jpg" />
+    <country lang="es">ESP</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221015230000 +0000" stop="20221016000000 +0000" channel="Ubeat">
+    <title lang="es">Conan, el aventurero</title>
+    <sub-title lang="es">Heredero forzoso</sub-title>
+    <desc lang="es">Conan, en compañía de sus fieles guerreros Otli, Bayu y Zzeban, luchará para liberar su reino, Cimeria, de las manos de una temible hechicera. En su camino se encontrará con la bella y fiera reina de los bandidos, Karella, eterna compañera y enemiga.(n)</desc>
+    <credits>
+      <actor>Danny Woodburn</actor>
+      <actor>T.J. Storm</actor>
+      <actor>Ralf Moeller</actor>
+      <actor>Jeremy Kemp</actor>
+      <actor>Robert McRay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Series</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_MOBILE/COVER_MOBILE_1526932.jpg" />
+    <country lang="es">DEU</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20221013003000 -0300" stop="20221013010000 -0300" channel="Latina TV">
     <title lang="es">Espacio alquilado</title>
@@ -18464,10 +19159,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221013180000 +0000" stop="20221013190000 +0000" channel="TV Perú Noticias">
-    <title lang="en">TV Perú Noticias - Edición tarde (live)</title>
-    <date>2022</date>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013220000 +0000" channel="TV Perú Noticias">
     <title lang="en">Noticias tarde (live)</title>
     <desc lang="en">Los principales hechos del día en Chile y el mundo con enlaces en directo.(n)</desc>
@@ -19298,11 +19989,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221013173000 +0000" stop="20221013185000 +0000" channel="Willax TV">
-    <title lang="en">Willax noticias (live)</title>
-    <desc lang="en">Edición central con el desarrollo y cobertura noticiosa de todos los acontecimientos nacionales e internacionales.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221013185000 +0000" stop="20221013211000 +0000" channel="Willax TV">
     <title lang="en">Amor y fuego (live)</title>
     <desc lang="en">Rodrigo González y Gigi Mitre comentan las últimas noticias de espectáculos y entretenimiento, con toda la diversión y picardía que los caracteriza.(n)</desc>
@@ -19524,22 +20210,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221013173000 +0000" stop="20221013183000 +0000" channel="La Tele">
-    <title lang="en">A otro nivel</title>
-  </programme>
-  <programme start="20221013183000 +0000" stop="20221013190000 +0000" channel="La Tele">
-    <title lang="en">Cero en conducta</title>
-    <desc lang="en">Bienvenidos a la escuela más entretenida de México. A la Escuelita VIP asisten los mejores comediantes del país y las actrices más bellas de la televisión, lo que crea mucha diversión y risas. Jorge Ortiz de Pinedo es líder de los niños como Jorgito del Mazo Geis.(n)</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221013190000 +0000" stop="20221013193000 +0000" channel="La Tele">
-    <title lang="en">Nutrisa</title>
-    <desc lang="en">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud.(n)</desc>
-    <date>2018</date>
   </programme>
   <programme start="20221013193000 +0000" stop="20221013200000 +0000" channel="La Tele">
     <title lang="en">Nutrisa</title>
@@ -20070,21 +20740,6 @@
   <programme start="20221015230000 +0000" stop="20221016000000 +0000" channel="ATV+">
     <title lang="en">Cámara loca</title>
     <desc lang="en">Serie de humor con videos cómicos y bromas de cámara oculta.(n)</desc>
-  </programme>
-  <programme start="20221013180000 +0000" stop="20221013183000 +0000" channel="A La Cocina TV">
-    <title lang="en">Fuera de carta</title>
-    <desc lang="en">La cocina es reinventarse, y es por eso que el chef Francesco de Sanctis te invita a sorprender a tus invitados con platos fuera de carta.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20221013183000 +0000" stop="20221013190000 +0000" channel="A La Cocina TV">
-    <title lang="en">A dónde</title>
-    <desc lang="en">Un programa que explora locales de comida y restaurantes para descubrir los mejores platos.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221013190000 +0000" stop="20221013193000 +0000" channel="A La Cocina TV">
-    <title lang="en">Studio Bar</title>
-    <desc lang="en">Un espacio que reune a diversos bartenders mientras enseñanan a preparar los tragos más deliciosos.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221013193000 +0000" stop="20221013200000 +0000" channel="A La Cocina TV">
     <title lang="en">Ponlo a la parrilla</title>
@@ -20626,20 +21281,6 @@
     <desc lang="en">Un programa de cocina para aprender a cocinar las carnes más deliciosas de la forma más simple.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20221013180000 +0000" stop="20221013183000 +0000" channel="Canal Ipe">
-    <title lang="en">La mesa amarilla</title>
-    <desc lang="en">Este es un espacio donde los niños construyen objetos útiles y divertidos junto a Federico.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20221013183000 +0000" stop="20221013190000 +0000" channel="Canal Ipe">
-    <title lang="en">Imperdibles</title>
-    <desc lang="en">El programa para adolescentes que estabas esperando.(n)</desc>
-  </programme>
-  <programme start="20221013190200 +0000" stop="20221013193000 +0000" channel="Canal Ipe">
-    <title lang="en">Ernest y Celestine</title>
-    <desc lang="en">Serie animada francesa.(n)</desc>
-    <date>2019</date>
-  </programme>
   <programme start="20221013193000 +0000" stop="20221013203000 +0000" channel="Canal Ipe">
     <title lang="en">Chicos Ipe</title>
     <desc lang="en">Franja infantil con programas novedosos y divertidos para preescolares y niños del Perú.(n)</desc>
@@ -21062,10 +21703,6 @@
     <title lang="en">Baqueta y Claqueta</title>
     <desc lang="en">Espacio en el que se exponen los videoclips de bandas peruanas de diversos géneros musicales, además durante la transmisión se revelan las anécdotas y secretos detrás del rodaje de los mismos.(n)</desc>
     <date>2016</date>
-  </programme>
-  <programme start="20221013160000 +0000" stop="20221013190000 +0000" channel="Exitosa TV">
-    <title lang="en">Informamos y Opinamos</title>
-    <desc lang="en">tendrá como principal motor la opinión de la gente, generando un espacio de conversación con el público que es característico de Exitosa.(n)</desc>
   </programme>
   <programme start="20221013190000 +0000" stop="20221013210000 +0000" channel="Exitosa TV">
     <title lang="en">Exitosa deportes</title>
@@ -23174,7 +23811,6 @@
     <title lang="es">Fight Quest</title>
     <sub-title lang="es">Francia</sub-title>
     <desc lang="es">Dos boxeadores recorren el mundo investigando escuelas de combate mano a mano.(n)</desc>
-    <date>2016</date>
     <category lang="es">Intereses</category>
     <category lang="es">Series</category>
     <category lang="es">Viajes</category>
@@ -23671,15 +24307,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221013163000 +0000" stop="20221013184500 +0000" channel="Fox Sports 2">
-    <title lang="es">Fútbol UEFA Europa League</title>
-    <sub-title lang="es">Nantes vs. Freiburg</sub-title>
-    <desc lang="es">Jornada 4 del Grupo G. Nantes recibe a Freiburg. Desde el estadio Beaujoire-Louis Fonteneau.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13147949_0DBC321D46E4BC69.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221013184500 +0000" stop="20221013210000 +0000" channel="Fox Sports 2">
     <title lang="es">Fútbol UEFA Europa League</title>
     <sub-title lang="es">Real Sociedad vs. Sheriff Tiraspol</sub-title>
@@ -23869,14 +24496,6 @@
     <sub-title lang="es">Pedro Catalano</sub-title>
     <desc lang="es">Programa especial con el recordado exarquero de Deportivo Español.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002763_F56332C6A1A18E5F.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221013160000 +0000" stop="20221013190000 +0000" channel="Fox Sports 3">
-    <title lang="es">WWE NXT</title>
-    <desc lang="es">La nueva generación de superestrellas de WWE lucha para ganar fama.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13039291_00B4791D68801743.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
@@ -24132,15 +24751,6 @@
     <title lang="es">WWE Raw</title>
     <desc lang="es">Las mayores estrellas y divas del WWE le dan vida y adrenalina al cuadrilátero.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010364_47FEF1B5283D5F03.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221013163000 +0000" stop="20221013184500 +0000" channel="ESPN Perú">
-    <title lang="es">Fútbol UEFA Europa League</title>
-    <sub-title lang="es">Betis vs. Roma</sub-title>
-    <desc lang="es">Jornada 4 de Grupo C. Betis recibe a Roma. Desde el estadio Benito Villamarín.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/20/13206065_9029F7EDBA292853.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
@@ -24454,15 +25064,6 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20221013163000 +0000" stop="20221013184500 +0000" channel="ESPN 2 Perú">
-    <title lang="es">Fútbol UEFA Europa League</title>
-    <sub-title lang="es">Bodo Glimt vs. Arsenal</sub-title>
-    <desc lang="es">Jornada 4 del Grupo A. Bodø/Glimt recibe a Arsenal. Desde el estadio Aspmyra.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13140812_64D499354A528BD0.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221013184500 +0000" stop="20221013205500 +0000" channel="ESPN 2 Perú">
     <title lang="es">Fútbol UEFA Europa League</title>
     <sub-title lang="es">Trabzonspor AS vs. Monaco</sub-title>
@@ -24731,15 +25332,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998768_4E84090FEFDFBE68.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221013163000 +0000" stop="20221013184500 +0000" channel="ESPN 3">
-    <title lang="es">Fútbol UEFA Europa League</title>
-    <sub-title lang="es">Feyenoord vs. Midtjylland</sub-title>
-    <desc lang="es">Jornada 4 del Grupo F. Feyenoord recibe a Midtjylland. Desde el estadio Feijenoord.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/14/13140700_990C37DC64411330.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221013184500 +0000" stop="20221013205500 +0000" channel="ESPN 3">
@@ -25062,14 +25654,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002079_EECD1FD82FABCD54.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221013180000 +0000" stop="20221013190000 +0000" channel="ESPN 4">
-    <title lang="es">Goles de la Premier League</title>
-    <desc lang="es">El repaso a las grandes emociones con los goles del campeonato inglés de fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13014104_B7047A97F44E94F4.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013190000 +0000" stop="20221013210000 +0000" channel="ESPN 4">
@@ -25798,11 +26382,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221013170000 +0000" stop="20221013183000 +0000" channel="TyC Sports Internacional">
-    <title lang="en">Líbero (live)</title>
-    <desc lang="en">La tarde explota de futbol con el programa que mejor entiende y explica el juego. Entrevistas, informes, los ránkings lirico y rústico, las clásicas secciones como Líbero versus y Fichando cracks y una mirada analítica del fútbol.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20221013183000 +0000" stop="20221014020000 +0000" channel="TyC Sports Internacional">
     <title lang="en">Fútbol argentino: Primera División (live)</title>
     <desc lang="en">Cobertura de los partidos de fútbol de la Primera División de Argentina.(n)</desc>
@@ -25818,7 +26397,9 @@
     <date>2016</date>
   </programme>
   <programme start="20221014043000 +0000" stop="20221014080000 +0000" channel="TyC Sports Internacional">
-    <title lang="en">Fútbol argentino: Primera División (?)</title>
+    <title lang="en">Fútbol argentino: Primera División</title>
+    <desc lang="en">Cobertura de los partidos de fútbol de la Primera División de Argentina.(n)</desc>
+    <date>2020</date>
   </programme>
   <programme start="20221014080000 +0000" stop="20221014100000 +0000" channel="TyC Sports Internacional">
     <title lang="en">La noche de TyC Sports</title>
@@ -26797,10 +27378,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221013180000 +0000" stop="20221013190000 +0000" channel="Canal i">
-    <title lang="en">Cine I +</title>
-    <desc lang="en">Emisión de películas.(n)</desc>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013200000 +0000" channel="Canal i">
     <title lang="en">Geniales</title>
     <desc lang="en">Canciones, juegos y notas para aprender cosas nuevas. Espacio de entretenimiento infantil. Existe una sección que relata sobre alimentación saludable para niños. También se habla sobre un tema de la vida cotidiana: el amor, la amistad, la familia.(n)</desc>
@@ -27053,7 +27630,6 @@
     <title lang="es">Fútbol Argentino Torneo de Reserva</title>
     <sub-title lang="es">Platense vs. River</sub-title>
     <desc lang="es">Jornada 25 del Torneo de Reserva de la Liga Profesional. Platense recibe a River. Desde el Predio Alejandro Mariani Dolan.(n)</desc>
-    <date>2022</date>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol</category>
     <category lang="es">Series</category>
@@ -27885,7 +28461,6 @@
     <title lang="es">Vamos a la Caye</title>
     <sub-title lang="es">Pablo Mouche</sub-title>
     <desc lang="es">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
-    <date>2022</date>
     <category lang="es">Series</category>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/610.png" />
     <rating system="AR">
@@ -28610,11 +29185,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20221013170000 +0000" stop="20221013183000 +0000" channel="TyC Sports">
-    <title lang="en">Líbero (live)</title>
-    <desc lang="en">La tarde explota de futbol con el programa que mejor entiende y explica el juego. Entrevistas, informes, los ránkings lirico y rústico, las clásicas secciones como Líbero versus y Fichando cracks y una mirada analítica del fútbol.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20221013183000 +0000" stop="20221013220000 +0000" channel="TyC Sports">
     <title lang="en">Juegos Suramericanos 2022 (live)</title>
     <desc lang="en">Los XII Juegos Suramericanos, llamados oficialmente XII Juegos Suramericanos Asunción 2022, se realizarán en Asunción, Paraguay, del 1 al 15 de octubre del 2022.​.(n)</desc>
@@ -28735,10 +29305,6 @@
   <programme start="20221013000000 -0300" stop="20221013020000 -0300" channel="DeporTV">
     <title lang="es">Leopoldo Jacinto, vida de campeón</title>
     <desc lang="es">Leopoldo Jacinto estuvo a punto de abandonarlo todo, pero su empeño, su perseverancia y sacrificio lo llevaron a cumplir su anhelo: triunfar en el equipo de fútbol más importante del país.(n)</desc>
-    <credits>
-      <director>Matías Riccardi</director>
-    </credits>
-    <date>2018</date>
     <category lang="es">Películas</category>
     <category lang="es">Documental</category>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/631.png" />
@@ -29836,11 +30402,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221013163000 +0000" stop="20221013190000 +0000" channel="TV Pública">
-    <title lang="en">Cocineras y cocineros argentinos</title>
-    <desc lang="en">El lanzamiento de Cocineras y cocineros argentinos en su nueva etapa con la incorporación de Narda Lepes, Karina Gao, el regreso de Ximena Sáenz, y la continuidad de Juan Braceli, Juan Ferrara, Diego Sívori, Lucho García y Gladys Olazar.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221013190000 +0000" stop="20221013203000 +0000" channel="TV Pública">
     <title lang="en">Todos Estamos Conectados</title>
     <desc lang="en">Un concurso para promover a nuevos talentos musicales de todo el país, que participarán en directo desde sus casas mostrando su arte, sus lugares y sus historias. El jurado del certamen será una gran figura de la música popular.(n)</desc>
@@ -30594,6 +31155,183 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme start="20221013020000 -0500" stop="20221013030000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">World Rally Championship 2022</title>
+  </programme>
+  <programme start="20221013030000 -0500" stop="20221013033000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América News</title>
+  </programme>
+  <programme start="20221013033000 -0500" stop="20221013060000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">NASCAR XFINITY Series 2022</title>
+  </programme>
+  <programme start="20221013060000 -0500" stop="20221013063000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Moving</title>
+  </programme>
+  <programme start="20221013063000 -0500" stop="20221013070000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Rally América</title>
+  </programme>
+  <programme start="20221013070000 -0500" stop="20221013080000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">WEC 2022</title>
+  </programme>
+  <programme start="20221013080000 -0500" stop="20221013093000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">DTM</title>
+  </programme>
+  <programme start="20221013093000 -0500" stop="20221013100000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Moving</title>
+  </programme>
+  <programme start="20221013100000 -0500" stop="20221013110000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Motociclismo Extremo</title>
+  </programme>
+  <programme start="20221013110000 -0500" stop="20221013113000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">WEC 2022</title>
+  </programme>
+  <programme start="20221013113000 -0500" stop="20221013134500 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">AEK Larnaca FC vs. Fenerbahce</title>
+  </programme>
+  <programme start="20221013134500 -0500" stop="20221013160000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">West Ham United vs. Anderlecht</title>
+  </programme>
+  <programme start="20221013160000 -0500" stop="20221013170000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América Highlights</title>
+  </programme>
+  <programme start="20221013170000 -0500" stop="20221013210000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">NASCAR Cup Series 2022</title>
+  </programme>
+  <programme start="20221013210000 -0500" stop="20221013213000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América News</title>
+  </programme>
+  <programme start="20221013213000 -0500" stop="20221013220000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Rally América</title>
+  </programme>
+  <programme start="20221013220000 -0500" stop="20221013223000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Moving</title>
+  </programme>
+  <programme start="20221013223000 -0500" stop="20221013230000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América News</title>
+  </programme>
+  <programme start="20221013230000 -0500" stop="20221014013000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">NASCAR XFINITY Series 2022</title>
+  </programme>
+  <programme start="20221014230000 -0500" stop="20221015013000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">NASCAR XFINITY Series 2022</title>
+  </programme>
+  <programme start="20221015013000 -0500" stop="20221015020000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Rally América</title>
+  </programme>
+  <programme start="20221015020000 -0500" stop="20221015030000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Motociclismo Extremo</title>
+  </programme>
+  <programme start="20221015030000 -0500" stop="20221015033000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América News</title>
+  </programme>
+  <programme start="20221015033000 -0500" stop="20221015050000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">DTM</title>
+  </programme>
+  <programme start="20221015050000 -0500" stop="20221015063000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">DTM</title>
+  </programme>
+  <programme start="20221015063000 -0500" stop="20221015070000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Rally América</title>
+  </programme>
+  <programme start="20221015070000 -0500" stop="20221015080000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Motociclismo Extremo</title>
+  </programme>
+  <programme start="20221015080000 -0500" stop="20221015093000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">DTM</title>
+  </programme>
+  <programme start="20221015093000 -0500" stop="20221015100000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Rally América</title>
+  </programme>
+  <programme start="20221015100000 -0500" stop="20221015110000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América Highlights</title>
+  </programme>
+  <programme start="20221015110000 -0500" stop="20221015113000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Moving</title>
+  </programme>
+  <programme start="20221015113000 -0500" stop="20221015120000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América News</title>
+  </programme>
+  <programme start="20221015120000 -0500" stop="20221015130000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">World Rally Championship 2022</title>
+  </programme>
+  <programme start="20221015130000 -0500" stop="20221015150000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Nascar México Series</title>
+  </programme>
+  <programme start="20221015150000 -0500" stop="20221015163000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">DTM</title>
+  </programme>
+  <programme start="20221015163000 -0500" stop="20221015180000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">DTM</title>
+  </programme>
+  <programme start="20221015180000 -0500" stop="20221015183000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Rally América</title>
+  </programme>
+  <programme start="20221015183000 -0500" stop="20221015210000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">NASCAR XFINITY Series 2022</title>
+  </programme>
+  <programme start="20221015213000 -0500" stop="20221015223000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20221015223000 -0500" stop="20221015230000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América News</title>
+  </programme>
+  <programme start="20221015230000 -0500" stop="20221016010000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">F1 2022 GP de Japón</title>
+  </programme>
+  <programme start="20221016010000 -0500" stop="20221016020000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">El show de la fórmula 1</title>
+  </programme>
+  <programme start="20221016020000 -0500" stop="20221016024500 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula América Highlights</title>
+  </programme>
+  <programme start="20221016024500 -0500" stop="20221016033000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">TCR Europe 2022</title>
+  </programme>
+  <programme start="20221016033000 -0500" stop="20221016040000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Rally América</title>
+  </programme>
+  <programme start="20221016040000 -0500" stop="20221016050000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">World Rally Championship 2022</title>
+  </programme>
+  <programme start="20221016050000 -0500" stop="20221016060000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">GT World Challenge Europe 2022</title>
+  </programme>
+  <programme start="20221016060000 -0500" stop="20221016070000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Fórmula Regional Europea Champ</title>
+  </programme>
+  <programme start="20221016070000 -0500" stop="20221016074500 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">TCR Europe 2022</title>
+  </programme>
+  <programme start="20221016074500 -0500" stop="20221016090000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">FIM EWC 2022</title>
+  </programme>
+  <programme start="20221016090000 -0500" stop="20221016100000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">FIM EWC 2022</title>
+  </programme>
+  <programme start="20221016100000 -0500" stop="20221016110000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">FIM Speedway 2022</title>
+  </programme>
+  <programme start="20221016110000 -0500" stop="20221016120000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Motociclismo Extremo</title>
+  </programme>
+  <programme start="20221016120000 -0500" stop="20221016140000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">F1 2022 GP de Japón</title>
+  </programme>
+  <programme start="20221016140000 -0500" stop="20221016180000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">NASCAR XFINITY Series 2022</title>
+  </programme>
+  <programme start="20221016180000 -0500" stop="20221016193000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">DTM</title>
+  </programme>
+  <programme start="20221016193000 -0500" stop="20221016210000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">DTM</title>
+  </programme>
+  <programme start="20221016210000 -0500" stop="20221016213000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">Moving</title>
+  </programme>
+  <programme start="20221016213000 -0500" stop="20221017003000 -0500" channel="Fox Sports 3 Argentina">
+    <title lang="es">NASCAR XFINITY Series 2022</title>
+  </programme>
   <programme start="20221013003000 -0300" stop="20221013013000 -0300" channel="ESPN Argentina">
     <title lang="es">En Vivo: SportsCenter</title>
     <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
@@ -31175,7 +31913,6 @@
   <programme start="20221013003000 -0300" stop="20221013023000 -0300" channel="ESPN 2 Argentina">
     <title lang="es">Barcelona vs. Inter</title>
     <desc lang="es">Fecha 4 del Grupo C. Barcelona recibe a Inter en el estadio Camp Nou. Los culés buscan recuperarse tras perder 1-0 en Milán ante los neroazzurri, que ahora tienen 6 unidades por solo 3 del equipo catalán.(n)</desc>
-    <date>2022</date>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol</category>
     <category lang="es">Series</category>
