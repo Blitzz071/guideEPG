@@ -335,18 +335,22 @@
   </channel>
   <channel id="Directv Sports Fight">
     <display-name lang="es">Directv Sports Fight.</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
     <url>http://www.directv.com.ar</url>
   </channel>
   <channel id="Fox Sports 2">
     <display-name lang="es">Fox Sports 2.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6400460_CFCF7C91055A9854.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
   <channel id="Fox Sports 3">
     <display-name lang="es">Fox Sports 3.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6400461_87A7107EB8B5D8EB.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
   <channel id="ESPN Perú">
     <display-name lang="es">ESPN Perú.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/38/6383309_6BDEDCF4D8E84A20.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
   <channel id="ESPN 2 Perú">
@@ -23845,5 +23849,1879 @@
   <programme start="20230206220000 +0000" stop="20230207010000 +0000" channel="Directv Sports Plus">
     <title lang="en">City TV - EPL: Tottenham vs. Manchester City</title>
     <desc lang="en">Un resumen de los mejores encuentros deportivos de la semana.(n)</desc>
+  </programme>
+  <programme start="20230204010000 -0300" stop="20230204020000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Review</title>
+    <sub-title lang="es">Invicta FC 51</sub-title>
+    <desc lang="es">Repaso del evento llevado a cabo el 18 de enero de 2023 en Denver, Colorado.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204020000 -0300" stop="20230204030000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Back</title>
+    <desc lang="es">Recordatorio de grandes peleas del pasado. Además, se recupera a boxeadores o peleadores con imágenes de archivo, trivias y perlitas que haya dejado el fin de semana.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204030000 -0300" stop="20230204040000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight News</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204040000 -0300" stop="20230204060000 -0300" channel="Directv Sports Fight">
+    <title lang="es">PFL Challenger Series</title>
+    <sub-title lang="es">Semana 2: Pesos pluma femeninos</sub-title>
+    <desc lang="es">Toda la acción de la segunda semana de competencia.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204060000 -0300" stop="20230204080000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Karate</title>
+    <sub-title lang="es">KC 36: Souza vs. Skrivers</sub-title>
+    <desc lang="es">Desde Florida, Estados Unidos.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204080000 -0300" stop="20230204090000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Especiales: Guido Cannetti</title>
+    <desc lang="es">Programa especial dedicado a Guido "El Ninja Argentino" Cannetti.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204090000 -0300" stop="20230204133000 -0300" channel="Directv Sports Fight">
+    <title lang="es">MMA</title>
+    <sub-title lang="es">FFC 57: Vera vs. Zenidim</sub-title>
+    <desc lang="es">Vera y Zenidim se enfrentan por el título de peso gallo. Desde el Arena Bar, en Lima, Perú.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204133000 -0300" stop="20230204143000 -0300" channel="Directv Sports Fight">
+    <title lang="es">BodogFight</title>
+    <desc lang="es">Competencia de artes marciales mixtas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Lucha Libre</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204143000 -0300" stop="20230204153000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Review</title>
+    <sub-title lang="es">Glory Rivals 5, Tulum</sub-title>
+    <desc lang="es">Evento llevado a cabo el 28 de enero de 2023 en Tulum, México.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204153000 -0300" stop="20230204173000 -0300" channel="Directv Sports Fight">
+    <title lang="es">PFL Challenger Series</title>
+    <sub-title lang="es">Semana 2: Pesos pluma femeninos</sub-title>
+    <desc lang="es">Toda la acción de la segunda semana de competencia.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204173000 -0300" stop="20230204183000 -0300" channel="Directv Sports Fight">
+    <title lang="es">BodogFight</title>
+    <desc lang="es">Competencia de artes marciales mixtas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Lucha Libre</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204183000 -0300" stop="20230204210000 -0300" channel="Directv Sports Fight">
+    <title lang="es">GLORY Rivals 5</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204210000 -0300" stop="20230204230000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Boxeo</title>
+    <title lang="en">Boxing</title>
+    <desc lang="es">Los combates más emocionantes del boxeo mundial.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204230000 -0300" stop="20230205000000 -0300" channel="Directv Sports Fight">
+    <title lang="es">BodogFight</title>
+    <desc lang="es">Competencia de artes marciales mixtas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Lucha Libre</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <premiere lang="es" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205000000 -0300" stop="20230205010000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Sports: Mega Fights</title>
+    <sub-title lang="es">Oscar De La Hoya vs. Manny Pacquiao</sub-title>
+    <desc lang="es">Combate de peso wélter. Disputado el 6 de diciembre de 2008 en el MGM Grand Garden Arena.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205010000 -0300" stop="20230205030000 -0300" channel="Directv Sports Fight">
+    <title lang="es">PFL Challenger Series</title>
+    <sub-title lang="es">Semana 2: Pesos pluma femeninos</sub-title>
+    <desc lang="es">Toda la acción de la segunda semana de competencia.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205030000 -0300" stop="20230205040000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Review</title>
+    <sub-title lang="es">Invicta FC 51</sub-title>
+    <desc lang="es">Repaso del evento llevado a cabo el 18 de enero de 2023 en Denver, Colorado.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205040000 -0300" stop="20230205060000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Karate</title>
+    <sub-title lang="es">KC 36: Souza vs. Skrivers</sub-title>
+    <desc lang="es">Desde Florida, Estados Unidos.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205060000 -0300" stop="20230205080000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Boxeo</title>
+    <title lang="en">Boxing</title>
+    <desc lang="es">Los combates más emocionantes del boxeo mundial.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205080000 -0300" stop="20230205090000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Especiales: Kayla Harrison</title>
+    <desc lang="es">Programa especial con la judoca estadounidense.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205090000 -0300" stop="20230205100000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Sports: Mega Fights</title>
+    <sub-title lang="es">Shane Mosley vs. Manuel Gomez</sub-title>
+    <desc lang="es">Título ligero de la FIB. Disputado el 25 de noviembre de 1997.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205100000 -0300" stop="20230205130000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Invicta FC 51</title>
+    <desc lang="es">Taneisha Tennant defiende su título de peso gallo contra la aspirante Talita Bernardo. Además, Kristina Williams contra Ketlen Souza, en peso mosca. Desde Denver.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205130000 -0300" stop="20230205140000 -0300" channel="Directv Sports Fight">
+    <title lang="es">BodogFight</title>
+    <desc lang="es">Competencia de artes marciales mixtas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Lucha Libre</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205140000 -0300" stop="20230205143000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Mega Fights</title>
+    <sub-title lang="es">1993: Roberto Durán vs. Sean Fitzgerald</sub-title>
+    <desc lang="es">Pelea disputada el 17 de agosto de 1993.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205143000 -0300" stop="20230205150000 -0300" channel="Directv Sports Fight">
+    <title lang="es">MMA:30</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205150000 -0300" stop="20230205173000 -0300" channel="Directv Sports Fight">
+    <title lang="es">GLORY Rivals 5</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205173000 -0300" stop="20230205183000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Review</title>
+    <sub-title lang="es">Invicta FC 51</sub-title>
+    <desc lang="es">Repaso del evento llevado a cabo el 18 de enero de 2023 en Denver, Colorado.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205183000 -0300" stop="20230205203000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Boxeo</title>
+    <title lang="en">Boxing</title>
+    <desc lang="es">Los combates más emocionantes del boxeo mundial.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205203000 -0300" stop="20230205210000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Mega Fights</title>
+    <sub-title lang="es">1993: Roberto Durán vs. Sean Fitzgerald</sub-title>
+    <desc lang="es">Pelea disputada el 17 de agosto de 1993.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205210000 -0300" stop="20230205230000 -0300" channel="Directv Sports Fight">
+    <title lang="es">PFL Challenger Series</title>
+    <sub-title lang="es">Semana 2: Pesos pluma femeninos</sub-title>
+    <desc lang="es">Toda la acción de la segunda semana de competencia.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230205230000 -0300" stop="20230206000000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Ranking Fight</title>
+    <sub-title lang="es">Los mejores KO de enero</sub-title>
+    <desc lang="es">Repaso de los nocauts más destacados del mes de enero.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <premiere lang="es" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206000000 -0300" stop="20230206003000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Mega Fights</title>
+    <sub-title lang="es">George Foreman vs. Ken Lakusta</sub-title>
+    <desc lang="es">Pelea de peso pesado llevada a cabo el 31 de julio de 1990.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206003000 -0300" stop="20230206013000 -0300" channel="Directv Sports Fight">
+    <title lang="es">BodogFight</title>
+    <desc lang="es">Competencia de artes marciales mixtas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Lucha Libre</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206013000 -0300" stop="20230206060000 -0300" channel="Directv Sports Fight">
+    <title lang="es">MMA</title>
+    <sub-title lang="es">FFC 57: Vera vs. Zenidim</sub-title>
+    <desc lang="es">Vera y Zenidim se enfrentan por el título de peso gallo. Desde el Arena Bar, en Lima, Perú.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206060000 -0300" stop="20230206080000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Kickboxing</title>
+    <sub-title lang="es">Enfusion 117</sub-title>
+    <desc lang="es">Desde el Le Meridian Airport, en Emiratos Árabes Unidos.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206080000 -0300" stop="20230206090000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Especiales: Trilogías</title>
+    <desc lang="es">Tercera entrega de las mejores trilogías en la historia del boxeo mundial.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206090000 -0300" stop="20230206100000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Sports: Mega Fights</title>
+    <sub-title lang="es">Vinny Pazienza vs. Gilbert Dele</sub-title>
+    <desc lang="es">Título superwélter de la AMB. Disputado el 1 de octubre de 1991.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206100000 -0300" stop="20230206110000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Knockouts</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206110000 -0300" stop="20230206130000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Boxeo</title>
+    <title lang="en">Boxing</title>
+    <desc lang="es">Los combates más emocionantes del boxeo mundial.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206130000 -0300" stop="20230206140000 -0300" channel="Directv Sports Fight">
+    <title lang="es">BodogFight</title>
+    <desc lang="es">Competencia de artes marciales mixtas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Lucha Libre</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206140000 -0300" stop="20230206143000 -0300" channel="Directv Sports Fight">
+    <title lang="es">A Champion's Journey</title>
+    <sub-title lang="es">Dagestan Rising</sub-title>
+    <desc lang="es">Un vistazo a las carreras de algunos de los atletas más exitosos de todos los tiempos.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206143000 -0300" stop="20230206173000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Invicta FC 51</title>
+    <desc lang="es">Taneisha Tennant defiende su título de peso gallo contra la aspirante Talita Bernardo. Además, Kristina Williams contra Ketlen Souza, en peso mosca. Desde Denver.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206173000 -0300" stop="20230206183000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Fight Back</title>
+    <desc lang="es">Recordatorio de grandes peleas del pasado. Además, se recupera a boxeadores o peleadores con imágenes de archivo, trivias y perlitas que haya dejado el fin de semana.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206183000 -0300" stop="20230206193000 -0300" channel="Directv Sports Fight">
+    <title lang="es">BodogFight</title>
+    <desc lang="es">Competencia de artes marciales mixtas.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Lucha Libre</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206193000 -0300" stop="20230206200000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Mega Fights</title>
+    <sub-title lang="es">1997: Floyd Maywheather vs. Felipe García</sub-title>
+    <desc lang="es">Se revive el combate disputado el 14 de octubre de 1997. Floyd Mayweather noquea a Felipe García en el sexto round.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206200000 -0300" stop="20230206220000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Boxeo</title>
+    <title lang="en">Boxing</title>
+    <desc lang="es">Los combates más emocionantes del boxeo mundial.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206220000 -0300" stop="20230206230000 -0300" channel="Directv Sports Fight">
+    <title lang="es">Knockouts</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230206230000 -0300" stop="20230207000000 -0300" channel="Directv Sports Fight">
+    <title lang="es">En Vivo: Fight News</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <category lang="es">Series</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/620.png" />
+    <premiere lang="es" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230204050000 +0000" stop="20230204060000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204060000 +0000" stop="20230204063000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204063000 +0000" stop="20230204080000 +0000" channel="Fox Sports 2">
+    <title lang="es">Bundesliga Preview Show</title>
+    <desc lang="es">Programa dedicado a analizar por adelantado como se presentan las jornadas de la Bundesliga.(n)</desc>
+    <date>2005</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/49/14493881_7B1A973A2C2E66CB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204080000 +0000" stop="20230204090000 +0000" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Polonia</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 14 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204090000 +0000" stop="20230204110000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Vélez vs. Flamengo</sub-title>
+    <desc lang="es">Vélez recibe a Flamengo en la ida de semifinales, desde el estadio José Amalfitani, en Buenos Aires. El Fortín, que no jugaba esta instancia desde hacía 11 años, perdió 6 de sus 9 duelos previos ante el Fla en competiciones continentales.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667606_799BDEA4715D262A.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230204110000 +0000" stop="20230204120000 +0000" channel="Fox Sports 2">
+    <title lang="es">River Campeón Copa Sudamericana 2014</title>
+    <desc lang="es">El equipo de Gallardo afrontó un camino largo y complicado: desde la sufrida clasificación a octavos pasando por la serie ante Boca y el brillo categórico para eliminar al Cruzeiro, hasta llegar a las instancias finales.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/11/14118514_C4C4DD8522F2C910.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204120000 +0000" stop="20230204170000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">Paris Saint-Germain vs. Maccabi Haifa</sub-title>
+    <desc lang="es">Fecha 5 del Grupo H. Paris Saint-Germain y Maccabi Haifa se enfrentan en Parc des Princes. El PSG llega con 8 unidades (comparte la cima de la tabla con Benfica) y una victoria le daría el pase a la próxima ronda. Los israelíes tienen 3 unidades.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667612_5E8236505C128734.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204170000 +0000" stop="20230204180000 +0000" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Polonia</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 14 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204180000 +0000" stop="20230204190000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">Un espectáculo de inmensas proporciones en el que los peleadores protagonizan grandes combates de lucha libre.(n)</desc>
+    <date>2006</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/51/13517504_BDB9CDBA9D65A25E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204190000 +0000" stop="20230204200000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204200000 +0000" stop="20230204210000 +0000" channel="Fox Sports 2">
+    <title lang="es">River Campeón Copa Sudamericana 2014</title>
+    <desc lang="es">El equipo de Gallardo afrontó un camino largo y complicado: desde la sufrida clasificación a octavos pasando por la serie ante Boca y el brillo categórico para eliminar al Cruzeiro, hasta llegar a las instancias finales.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/11/14118514_C4C4DD8522F2C910.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204210000 +0000" stop="20230204213000 +0000" channel="Fox Sports 2">
+    <title lang="es">Bundesliga Preview Show</title>
+    <desc lang="es">Programa dedicado a analizar por adelantado como se presentan las jornadas de la Bundesliga.(n)</desc>
+    <date>2005</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/49/14493881_7B1A973A2C2E66CB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204213000 +0000" stop="20230204220000 +0000" channel="Fox Sports 2">
+    <title lang="es">Moto Grand Prix F.I.M Highlights</title>
+    <sub-title lang="es">Lo mejor de MotoGP: Resumen 2022</sub-title>
+    <desc lang="es">Repaso de los mejores momentos de la temporada 2022 de MotoGP.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004851_9E2690C8E44CDD03.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204220000 +0000" stop="20230204230000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+    <desc lang="es">Los combates más esperados de la WWE, con todas las súper estrellas y divas.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010997_10276113FC2E7065.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204230000 +0000" stop="20230205000000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205000000 +0000" stop="20230205030000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Raw</title>
+    <desc lang="es">Las mayores estrellas y divas del WWE le dan vida y adrenalina al cuadrilátero.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010364_47FEF1B5283D5F03.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205030000 +0000" stop="20230205050000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol Bundesliga</title>
+    <sub-title lang="es">Borussia Mönchengladbach vs. Schalke 04</sub-title>
+    <desc lang="es">Jornada 19 en la Bundesliga. Borussia Mönchengladbach recibe a Schalke 04 en el Borussia-Park. La última victoria de Schalke 04 ante Borussia fuera de casa se produjo el 3 de mayo de 2013, por 1-0.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667647_0A4123DCF0BFD957.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205050000 +0000" stop="20230205070000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">Paris Saint-Germain vs. Maccabi Haifa</sub-title>
+    <desc lang="es">Fecha 5 del Grupo H. Paris Saint-Germain y Maccabi Haifa se enfrentan en Parc des Princes. El PSG llega con 8 unidades (comparte la cima de la tabla con Benfica) y una victoria le daría el pase a la próxima ronda. Los israelíes tienen 3 unidades.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667612_5E8236505C128734.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205070000 +0000" stop="20230205080000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205080000 +0000" stop="20230205090000 +0000" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Brasil</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 18 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205090000 +0000" stop="20230205110000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Palmeiras vs. Athletico Paranaense</sub-title>
+    <desc lang="es">Semifinal, partido de vuelta. Palmeiras recibe a Athletico Paranaense en el Allianz Parque. En la ida disputada en Curitiba fue victoria 1-0 del Furacão con gol de Alex Santana.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667608_6E25B828E3CCAD1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205110000 +0000" stop="20230205120000 +0000" channel="Fox Sports 2">
+    <title lang="es">Lanús campeón Copa Sudamericana 2013</title>
+    <desc lang="es">Un repaso con lo más destacado de la campaña hacia el título de la Copa Sudamericana 2013 del conjunto Granate.(n)</desc>
+    <date>2013</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/01/14015574_B0450D1A9E8A627B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205120000 +0000" stop="20230205140000 +0000" channel="Fox Sports 2">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">GP Emilia Romagna, Italia</sub-title>
+    <desc lang="es">Acción correspondiente a la Fecha 4 del calendario 2022, con el Gran Premio de Emilia Romagna. Desde Imola, en Italia.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E172</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205140000 +0000" stop="20230205160000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">Benfica vs. Juventus</sub-title>
+    <desc lang="es">Fecha 5 del Grupo H. Benfica y Juventus se enfrentan en Lisboa. Los lusos comparten la cima de la tabla con Paris Saint-Germain (ambos con 8). La Vecchia Signora, con apenas 3 unidades, necesita sí o sí la victoria para seguir con opciones.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667620_C891A68B2CB8BC0C.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205160000 +0000" stop="20230205170000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+    <desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001317_001FE25D28393D44.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205170000 +0000" stop="20230205180000 +0000" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Brasil</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 18 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205180000 +0000" stop="20230205190000 +0000" channel="Fox Sports 2">
+    <title lang="es">Lanús campeón Copa Sudamericana 2013</title>
+    <desc lang="es">Un repaso con lo más destacado de la campaña hacia el título de la Copa Sudamericana 2013 del conjunto Granate.(n)</desc>
+    <date>2013</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/01/14015574_B0450D1A9E8A627B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205190000 +0000" stop="20230205210000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown</title>
+    <desc lang="es">Las superestrellas del mundo de la lucha libre profesional combaten y desarrollan sus grandes rivalidades.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999222_B9B10DC8A5E77753.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205210000 +0000" stop="20230206010000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Fight NightLewis vs. Spivac</title>
+    <desc lang="es">Dooho Choi vs. Kyle Nelson, peso pluma; Marcin Tybura vs. Blagoy Imavov, peso pesado; Da Woon Jung vs. Devin Clark, peso semipesado; Derrick Lewis vs. Serghei Spivac, peso pesado. Desde el UFC Apex, en Las Vegas.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/67/14671205_881CFE18D17B9366.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206010000 +0000" stop="20230206020000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206020000 +0000" stop="20230206030000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+    <desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001317_001FE25D28393D44.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206030000 +0000" stop="20230206050000 +0000" channel="Fox Sports 2">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">GP Emilia Romagna, Italia</sub-title>
+    <desc lang="es">Acción correspondiente a la Fecha 4 del calendario 2022, con el Gran Premio de Emilia Romagna. Desde Imola, en Italia.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E172</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206050000 +0000" stop="20230206070000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown</title>
+    <desc lang="es">Las superestrellas del mundo de la lucha libre profesional combaten y desarrollan sus grandes rivalidades.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999222_B9B10DC8A5E77753.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206070000 +0000" stop="20230206080000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206080000 +0000" stop="20230206090000 +0000" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Goleadas en la Copa Sudamericana</sub-title>
+    <desc lang="es">Repaso de las goleadas más importantes de la Copa Sudamericana.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E61</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206090000 +0000" stop="20230206110000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol Bundesliga</title>
+    <sub-title lang="es">Borussia Mönchengladbach vs. Schalke 04</sub-title>
+    <desc lang="es">Jornada 19 en la Bundesliga. Borussia Mönchengladbach recibe a Schalke 04 en el Borussia-Park. La última victoria de Schalke 04 ante Borussia fuera de casa se produjo el 3 de mayo de 2013, por 1-0.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667647_0A4123DCF0BFD957.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206110000 +0000" stop="20230206120000 +0000" channel="Fox Sports 2">
+    <title lang="es">Gremio Campeón CONMEBOL Libertadores 2017</title>
+    <desc lang="es">Recorrido de Gremio en la obtención de la tercera Copa Libertadores de su historia. Primero en la fase de grupos, venció a Godoy Cruz en octavos de final, a Santos en cuartos y eliminó a Barcelona de Guayaquil antes de la gran final contra Lanús.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/16/14169837_927D7CC8EC8C2989.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206120000 +0000" stop="20230206143000 +0000" channel="Fox Sports 2">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Baréin, resumen</sub-title>
+    <desc lang="es">Repaso de los mejores momentos del Gran Premio de Baréin. Desde el Circuito Internacional de Baréin, en Sakhir.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E49</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206143000 +0000" stop="20230206163000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">Liverpool vs. Napoli</sub-title>
+    <desc lang="es">Fecha 6 del Grupo A. Liverpool y Napoli se enfrentan en Anfield. Ambos están clasificados para octavos de final. A los reds (12 puntos) solo les sirve ganar para aspirar a quedarse con el primer puesto. Los napolitanos (15) lo harían con un empate.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/76/14765659_6E6092F719984F4A.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206163000 +0000" stop="20230206170000 +0000" channel="Fox Sports 2">
+    <title lang="es">Momentos eternos</title>
+    <sub-title lang="es">Pedro Catalano</sub-title>
+    <desc lang="es">Programa especial con el recordado exarquero de Deportivo Español.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002763_F56332C6A1A18E5F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206170000 +0000" stop="20230206180000 +0000" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Goleadas en la Copa Sudamericana</sub-title>
+    <desc lang="es">Repaso de las goleadas más importantes de la Copa Sudamericana.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E61</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206180000 +0000" stop="20230206200000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown</title>
+    <desc lang="es">Las superestrellas del mundo de la lucha libre profesional combaten y desarrollan sus grandes rivalidades.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999222_B9B10DC8A5E77753.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206200000 +0000" stop="20230206230000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Fight NightLewis vs. Spivac</title>
+    <desc lang="es">Dooho Choi vs. Kyle Nelson, peso pluma; Marcin Tybura vs. Blagoy Imavov, peso pesado; Da Woon Jung vs. Devin Clark, peso semipesado; Derrick Lewis vs. Serghei Spivac, peso pesado. Desde el UFC Apex, en Las Vegas.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/67/14671205_881CFE18D17B9366.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206230000 +0000" stop="20230206233000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206233000 +0000" stop="20230207000000 +0000" channel="Fox Sports 2">
+    <title lang="es">Momentos eternos</title>
+    <sub-title lang="es">Luis Islas</sub-title>
+    <desc lang="es">Recuerdo de la exitosa carrera del exjugador de fútbol argentino Luis Islas, quien se desempeñaba como arquero y, en la actualidad, ejerce como entrenador.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002763_F56332C6A1A18E5F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204050000 +0000" stop="20230204070000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de España 2022</sub-title>
+    <desc lang="es">Lo más destacado de la sexta ronda del calendario 2022 de la Fórmula 1. Disputada el 22 de mayo de 2022 en el Circuito de Barcelona-Cataluña, en Montmeló.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E261</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204070000 +0000" stop="20230204080000 +0000" channel="Fox Sports 3">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204080000 +0000" stop="20230204090000 +0000" channel="Fox Sports 3">
+    <title lang="es">Goles del fútbol de Alemania</title>
+    <desc lang="es">Goles y mejores jugadas de los partidos alemanes de fútbol.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009072_2383C5458C2AAB8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204090000 +0000" stop="20230204100000 +0000" channel="Fox Sports 3">
+    <title lang="es">River Campeón Copa Sudamericana 2014</title>
+    <desc lang="es">El equipo de Gallardo afrontó un camino largo y complicado: desde la sufrida clasificación a octavos pasando por la serie ante Boca y el brillo categórico para eliminar al Cruzeiro, hasta llegar a las instancias finales.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/11/14118514_C4C4DD8522F2C910.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204100000 +0000" stop="20230204120000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Abu Dhabi</sub-title>
+    <desc lang="es">Acción de la Fecha 23 del calendario 2022. Se cierra la temporada de la Fórmula 1, desde Yas Marina Circuit, en Abu Dabi, Emiratos Árabes Unidos.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001847_EE5537929D2026F9.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204120000 +0000" stop="20230204130000 +0000" channel="Fox Sports 3">
+    <title lang="es">Goles del fútbol de Alemania</title>
+    <desc lang="es">Goles y mejores jugadas de los partidos alemanes de fútbol.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009072_2383C5458C2AAB8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204130000 +0000" stop="20230204140000 +0000" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Polonia</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 14 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204140000 +0000" stop="20230204150000 +0000" channel="Fox Sports 3">
+    <title lang="es">River Campeón Copa Sudamericana 2014</title>
+    <desc lang="es">El equipo de Gallardo afrontó un camino largo y complicado: desde la sufrida clasificación a octavos pasando por la serie ante Boca y el brillo categórico para eliminar al Cruzeiro, hasta llegar a las instancias finales.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/11/14118514_C4C4DD8522F2C910.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204150000 +0000" stop="20230204160000 +0000" channel="Fox Sports 3">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204160000 +0000" stop="20230204180000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Abu Dhabi</sub-title>
+    <desc lang="es">Acción de la Fecha 23 del calendario 2022. Se cierra la temporada de la Fórmula 1, desde Yas Marina Circuit, en Abu Dabi, Emiratos Árabes Unidos.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001847_EE5537929D2026F9.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204180000 +0000" stop="20230204190000 +0000" channel="Fox Sports 3">
+    <title lang="es">River Campeón Copa Sudamericana 2014</title>
+    <desc lang="es">El equipo de Gallardo afrontó un camino largo y complicado: desde la sufrida clasificación a octavos pasando por la serie ante Boca y el brillo categórico para eliminar al Cruzeiro, hasta llegar a las instancias finales.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/11/14118514_C4C4DD8522F2C910.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204190000 +0000" stop="20230204210000 +0000" channel="Fox Sports 3">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Palmeiras vs. Athletico Paranaense</sub-title>
+    <desc lang="es">Semifinal, partido de vuelta. Palmeiras recibe a Athletico Paranaense en el Allianz Parque. En la ida disputada en Curitiba fue victoria 1-0 del Furacão con gol de Alex Santana.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667608_6E25B828E3CCAD1E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204210000 +0000" stop="20230204220000 +0000" channel="Fox Sports 3">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">La nueva generación de superestrellas de WWE lucha para ganar fama.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/49/13496407_15874EE4177C4866.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204220000 +0000" stop="20230204230000 +0000" channel="Fox Sports 3">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204230000 +0000" stop="20230205030000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Abu Dhabi</sub-title>
+    <desc lang="es">Acción de la Fecha 23 del calendario 2022. Se cierra la temporada de la Fórmula 1, desde Yas Marina Circuit, en Abu Dabi, Emiratos Árabes Unidos.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001847_EE5537929D2026F9.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205030000 +0000" stop="20230205040000 +0000" channel="Fox Sports 3">
+    <title lang="es">River Campeón Copa Sudamericana 2014</title>
+    <desc lang="es">El equipo de Gallardo afrontó un camino largo y complicado: desde la sufrida clasificación a octavos pasando por la serie ante Boca y el brillo categórico para eliminar al Cruzeiro, hasta llegar a las instancias finales.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/11/14118514_C4C4DD8522F2C910.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205040000 +0000" stop="20230205050000 +0000" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Polonia</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 14 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205050000 +0000" stop="20230205070000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Abu Dhabi</sub-title>
+    <desc lang="es">Acción de la Fecha 23 del calendario 2022. Se cierra la temporada de la Fórmula 1, desde Yas Marina Circuit, en Abu Dabi, Emiratos Árabes Unidos.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001847_EE5537929D2026F9.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205070000 +0000" stop="20230205080000 +0000" channel="Fox Sports 3">
+    <title lang="es">Goles del fútbol de Alemania</title>
+    <desc lang="es">Goles y mejores jugadas de los partidos alemanes de fútbol.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009072_2383C5458C2AAB8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205080000 +0000" stop="20230205083000 +0000" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205083000 +0000" stop="20230205090000 +0000" channel="Fox Sports 3">
+    <title lang="es">Moto Grand Prix F.I.M Highlights</title>
+    <sub-title lang="es">Lo mejor de MotoGP: Resumen 2022</sub-title>
+    <desc lang="es">Repaso de los mejores momentos de la temporada 2022 de MotoGP.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004851_9E2690C8E44CDD03.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205090000 +0000" stop="20230205100000 +0000" channel="Fox Sports 3">
+    <title lang="es">Lanús campeón Copa Sudamericana 2013</title>
+    <desc lang="es">Un repaso con lo más destacado de la campaña hacia el título de la Copa Sudamericana 2013 del conjunto Granate.(n)</desc>
+    <date>2013</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/01/14015574_B0450D1A9E8A627B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205100000 +0000" stop="20230205120000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Italia: Resumen</sub-title>
+    <desc lang="es">Repaso de los mejores momentos del Gran Premio de Italia. Desde el Autódromo Nazionale di Monza.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E113</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205120000 +0000" stop="20230205130000 +0000" channel="Fox Sports 3">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+    <desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001317_001FE25D28393D44.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205130000 +0000" stop="20230205140000 +0000" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Brasil</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 18 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205140000 +0000" stop="20230205150000 +0000" channel="Fox Sports 3">
+    <title lang="es">Lanús campeón Copa Sudamericana 2013</title>
+    <desc lang="es">Un repaso con lo más destacado de la campaña hacia el título de la Copa Sudamericana 2013 del conjunto Granate.(n)</desc>
+    <date>2013</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/01/14015574_B0450D1A9E8A627B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205150000 +0000" stop="20230205153000 +0000" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205153000 +0000" stop="20230205160000 +0000" channel="Fox Sports 3">
+    <title lang="es">Moto Grand Prix F.I.M Highlights</title>
+    <sub-title lang="es">Lo mejor de MotoGP: Resumen 2022</sub-title>
+    <desc lang="es">Repaso de los mejores momentos de la temporada 2022 de MotoGP.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004851_9E2690C8E44CDD03.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205160000 +0000" stop="20230205180000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Italia: Resumen</sub-title>
+    <desc lang="es">Repaso de los mejores momentos del Gran Premio de Italia. Desde el Autódromo Nazionale di Monza.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E113</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205180000 +0000" stop="20230205183000 +0000" channel="Fox Sports 3">
+    <title lang="es">Moto Grand Prix F.I.M Highlights</title>
+    <sub-title lang="es">Lo mejor de MotoGP: Resumen 2022</sub-title>
+    <desc lang="es">Repaso de los mejores momentos de la temporada 2022 de MotoGP.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004851_9E2690C8E44CDD03.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205183000 +0000" stop="20230205190000 +0000" channel="Fox Sports 3">
+    <title lang="es">Moto Grand Prix F.I.M Highlights</title>
+    <sub-title lang="es">Lo mejor de MotoGP: Resumen 2022</sub-title>
+    <desc lang="es">Repaso de los mejores momentos de la temporada 2022 de MotoGP.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004851_9E2690C8E44CDD03.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205190000 +0000" stop="20230205210000 +0000" channel="Fox Sports 3">
+    <title lang="es">Fútbol Bundesliga</title>
+    <sub-title lang="es">Borussia Mönchengladbach vs. Schalke 04</sub-title>
+    <desc lang="es">Jornada 19 en la Bundesliga. Borussia Mönchengladbach recibe a Schalke 04 en el Borussia-Park. La última victoria de Schalke 04 ante Borussia fuera de casa se produjo el 3 de mayo de 2013, por 1-0.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/66/14667647_0A4123DCF0BFD957.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205210000 +0000" stop="20230205220000 +0000" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Brasil</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 18 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205220000 +0000" stop="20230205230000 +0000" channel="Fox Sports 3">
+    <title lang="es">Lanús campeón Copa Sudamericana 2013</title>
+    <desc lang="es">Un repaso con lo más destacado de la campaña hacia el título de la Copa Sudamericana 2013 del conjunto Granate.(n)</desc>
+    <date>2013</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/01/14015574_B0450D1A9E8A627B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205230000 +0000" stop="20230206010000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Italia: Resumen</sub-title>
+    <desc lang="es">Repaso de los mejores momentos del Gran Premio de Italia. Desde el Autódromo Nazionale di Monza.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E113</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206010000 +0000" stop="20230206040000 +0000" channel="Fox Sports 3">
+    <title lang="es">UFC Fight NightLewis vs. Spivac</title>
+    <desc lang="es">Dooho Choi vs. Kyle Nelson, peso pluma; Marcin Tybura vs. Blagoy Imavov, peso pesado; Da Woon Jung vs. Devin Clark, peso semipesado; Derrick Lewis vs. Serghei Spivac, peso pesado. Desde el UFC Apex, en Las Vegas.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/67/14671205_881CFE18D17B9366.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206040000 +0000" stop="20230206050000 +0000" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Argentina campeón mundial 1978, Argentina vs. Brasil</sub-title>
+    <desc lang="es">Programa especial con el repaso del encuentro disputado el 18 de junio de 1978.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206050000 +0000" stop="20230206070000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Italia: Resumen</sub-title>
+    <desc lang="es">Repaso de los mejores momentos del Gran Premio de Italia. Desde el Autódromo Nazionale di Monza.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E113</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206070000 +0000" stop="20230206073000 +0000" channel="Fox Sports 3">
+    <title lang="es">Momentos eternos</title>
+    <sub-title lang="es">Luis Islas</sub-title>
+    <desc lang="es">Recuerdo de la exitosa carrera del exjugador de fútbol argentino Luis Islas, quien se desempeñaba como arquero y, en la actualidad, ejerce como entrenador.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002763_F56332C6A1A18E5F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206073000 +0000" stop="20230206080000 +0000" channel="Fox Sports 3">
+    <title lang="es">Momentos eternos</title>
+    <sub-title lang="es">Pedro Catalano</sub-title>
+    <desc lang="es">Programa especial con el recordado exarquero de Deportivo Español.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002763_F56332C6A1A18E5F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206080000 +0000" stop="20230206090000 +0000" channel="Fox Sports 3">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206090000 +0000" stop="20230206093000 +0000" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206093000 +0000" stop="20230206120000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Baréin 2022</sub-title>
+    <desc lang="es">Ronda 1. Del 20 de marzo de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E507</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206120000 +0000" stop="20230206130000 +0000" channel="Fox Sports 3">
+    <title lang="es">Goles del fútbol de Alemania</title>
+    <desc lang="es">Goles y mejores jugadas de los partidos alemanes de fútbol.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009072_2383C5458C2AAB8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206130000 +0000" stop="20230206140000 +0000" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Goleadas en la Copa Sudamericana</sub-title>
+    <desc lang="es">Repaso de las goleadas más importantes de la Copa Sudamericana.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E61</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206140000 +0000" stop="20230206150000 +0000" channel="Fox Sports 3">
+    <title lang="es">Gremio Campeón CONMEBOL Libertadores 2017</title>
+    <desc lang="es">Recorrido de Gremio en la obtención de la tercera Copa Libertadores de su historia. Primero en la fase de grupos, venció a Godoy Cruz en octavos de final, a Santos en cuartos y eliminó a Barcelona de Guayaquil antes de la gran final contra Lanús.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/16/14169837_927D7CC8EC8C2989.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206150000 +0000" stop="20230206160000 +0000" channel="Fox Sports 3">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206160000 +0000" stop="20230206163000 +0000" channel="Fox Sports 3">
+    <title lang="es">Momentos eternos</title>
+    <sub-title lang="es">Pedro Catalano</sub-title>
+    <desc lang="es">Programa especial con el recordado exarquero de Deportivo Español.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002763_F56332C6A1A18E5F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206163000 +0000" stop="20230206190000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Baréin 2022</sub-title>
+    <desc lang="es">Ronda 1. Del 20 de marzo de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E507</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206190000 +0000" stop="20230206210000 +0000" channel="Fox Sports 3">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">2022-2023: Liverpool vs. Napoli</sub-title>
+    <desc lang="es">Partido por la Fecha 6 de la fase de grupos. Disputado el 1 de noviembre de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009830_D2E9CF98CCDD2B38.jpg" />
+    <episode-num system="onscreen">E330</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206210000 +0000" stop="20230206220000 +0000" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+    <sub-title lang="es">Goleadas en la Copa Sudamericana</sub-title>
+    <desc lang="es">Repaso de las goleadas más importantes de la Copa Sudamericana.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002177_075A295580B8BE5B.jpg" />
+    <episode-num system="onscreen">E61</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206220000 +0000" stop="20230206230000 +0000" channel="Fox Sports 3">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206230000 +0000" stop="20230207013000 +0000" channel="Fox Sports 3">
+    <title lang="es">Automovilismo Fórmula 1</title>
+    <sub-title lang="es">Gran Premio de Baréin 2022</sub-title>
+    <desc lang="es">Ronda 1. Del 20 de marzo de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006812_3038D3B2D8DD0F06.jpg" />
+    <episode-num system="onscreen">E507</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204050000 +0000" stop="20230204060000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204060000 +0000" stop="20230204070000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204070000 +0000" stop="20230204080000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204080000 +0000" stop="20230204090000 +0000" channel="ESPN Perú">
+    <title lang="es">F Táctico</title>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/38/14382751_31FBF3298F4A8489.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204090000 +0000" stop="20230204092500 +0000" channel="ESPN Perú">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204092500 +0000" stop="20230204102000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204102000 +0000" stop="20230204112000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204112000 +0000" stop="20230204122000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204122000 +0000" stop="20230204142500 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol Premier League</title>
+    <sub-title lang="es">Everton vs. Arsenal</sub-title>
+    <desc lang="es">Jornada 22 de Premier League 2022-2023. Los Toffees están invictos ante los Gunners en 4 partidos de EPL en casa de que el equipo de Arsène Wenger los venció por 5-2 el 22 de octubre de 2017.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757133_87DDF5F7711EAD6C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230204142500 +0000" stop="20230204155000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204155000 +0000" stop="20230204175500 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol Ligue 1</title>
+    <sub-title lang="es">Paris Saint-Germain vs. Toulouse</sub-title>
+    <desc lang="es">Jornada 22 de la Ligue 1. Paris Saint-Germain recibe a Toulouse en el Parc des Princes.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757135_F18F6C06EF156B2E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204175500 +0000" stop="20230204195000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230204195000 +0000" stop="20230204220000 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol LaLiga</title>
+    <sub-title lang="es">Betis vs. Celta</sub-title>
+    <desc lang="es">Jornada 20 de LaLiga 2022-2023. Los heliopolitanos han ganado 2 de las últimas 3 visitas de los celetes. La excepción fue la cita más reciente en el Villamarín, en la temporada pasada los visitantes vencieron 2-0 con doblete de Iago Aspas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757137_24B2ED0F00CAF8FE.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230204220000 +0000" stop="20230205001000 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol Argentino Primera División</title>
+    <sub-title lang="es">Belgrano vs. River</sub-title>
+    <desc lang="es">Jornada 2 de la Liga Profesional 2023. Belgrano recibe a River en el estadio Julio César Villagra. El Millonario perdió solo 1 de los últimos 6 enfrentamientos ante el Pirata (4PG 1PE). La única derrota fue por 3-2 en 2016.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757139_81B69CE823A6AB55.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205001000 +0000" stop="20230205033000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205033000 +0000" stop="20230205043000 +0000" channel="ESPN Perú">
+    <title lang="es">ESPN F nacional</title>
+    <desc lang="es">Un programa de discusión sobre el fútbol de ascenso de Argentina.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757077_19C6F7E8A48D1D76.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205043000 +0000" stop="20230205053000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205053000 +0000" stop="20230205063000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205063000 +0000" stop="20230205073000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205073000 +0000" stop="20230205080000 +0000" channel="ESPN Perú">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205080000 +0000" stop="20230205090000 +0000" channel="ESPN Perú">
+    <title lang="es">ESPN Compact</title>
+    <sub-title lang="es">Ligue 1 2022-2023: Paris Saint-Germain vs. Toulouse</sub-title>
+    <desc lang="es">Lo más destacado del partido correspondiente a la Jornada 22 de la Ligue 1 2022-2023. Disputado el 4 de febrero de 2023.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998564_0CF5A2CC5C497EE8.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205090000 +0000" stop="20230205100000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205100000 +0000" stop="20230205110000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205110000 +0000" stop="20230205131000 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol Eredivisie</title>
+    <sub-title lang="es">Cambuur vs. Ajax</sub-title>
+    <desc lang="es">Jornada 20 de la Eredivisie. Cambuur enfrenta a Ajax en el Estadio Cambuur.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757141_597B79E2BD6DDC83.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205131000 +0000" stop="20230205135000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205135000 +0000" stop="20230205155500 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol Premier League</title>
+    <sub-title lang="es">Nottingham vs. Leeds</sub-title>
+    <desc lang="es">Jornada 22 de Premier League 2022-2023. El último encuentro entre ambos clubes en EPL fue el 3 de abril de 1999. Leed, dirigido por David O'Leary venció al Forest de Ron Atkinson por 3-1.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757143_55C683E4D362A6F9.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230205155500 +0000" stop="20230205162000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205162000 +0000" stop="20230205182500 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol Premier League</title>
+    <sub-title lang="es">Tottenham vs. Manchester City</sub-title>
+    <desc lang="es">Jornada 22 de Premier League 2022-2023. Los Citizens han perdido los 4 juegos disputados en el Tottenham Hotspur Stadium en todas las competencias, sin poder anotar un solo gol en algún encuentro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757145_789D709E9C736E56.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205182500 +0000" stop="20230205193000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205193000 +0000" stop="20230205214000 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol Serie A</title>
+    <sub-title lang="es">Inter vs. Milan</sub-title>
+    <desc lang="es">Jornada 21. Inter enfrenta a Milan en el Derby della Madonnina. Los nerazzurri vienen de clasificar a las semifinales de la Copa Italia tras vencer 1-0 a Atalanta. Los rossoneri suman 6 juegos sin ganar (2PE y 4PP). Desde el estadio Giuseppe Meazza.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757147_B1BE358F645A4FC4.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205214000 +0000" stop="20230205220000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230205220000 +0000" stop="20230206001000 +0000" channel="ESPN Perú">
+    <title lang="es">Fútbol Argentino Primera División</title>
+    <sub-title lang="es">Boca vs. Central Córdoba (SE)</sub-title>
+    <desc lang="es">Jornada 2 de la Liga Profesional 2023. Boca recibe a Central Córdoba (SE) en el estadio Alberto J. Armando. El Ferroviario ganó el último enfrentamiento luego de 3 derrotas consecutivas ante el Xeneize.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14757149_87D4FF38FA3C1B7E.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206001000 +0000" stop="20230206023000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206023000 +0000" stop="20230206040000 +0000" channel="ESPN Perú">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Un show que ofrece el más amplio debate futbolístico y cuenta con la participación de reconocidos especialistas.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/60/14601788_8312EAB19620E3AC.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206040000 +0000" stop="20230206043000 +0000" channel="ESPN Perú">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206043000 +0000" stop="20230206063000 +0000" channel="ESPN Perú">
+    <title lang="es">ESPN Fútbol 1</title>
+    <desc lang="es">Todo lo que sucedió al término de cada fecha del campeonato de fútbol argentino. Las jugadas más destacadas, los goles, las polémicas y análisis del juego, todo ello aderezado con imágenes y sonidos captados por cámaras exclusivas.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/06/14062250_32958AA2785FB585.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206063000 +0000" stop="20230206080000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206080000 +0000" stop="20230206083000 +0000" channel="ESPN Perú">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206083000 +0000" stop="20230206100000 +0000" channel="ESPN Perú">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Un show que ofrece el más amplio debate futbolístico y cuenta con la participación de reconocidos especialistas.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/60/14601788_8312EAB19620E3AC.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206100000 +0000" stop="20230206150000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011906_672E58E55898DC61.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206150000 +0000" stop="20230206160000 +0000" channel="ESPN Perú">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13000575_2E0F2FB702CC7A20.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206160000 +0000" stop="20230206180000 +0000" channel="ESPN Perú">
+    <title lang="es">ESPN F90 Primera edición</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036057_3A943D5E5CA435B0.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206180000 +0000" stop="20230206193000 +0000" channel="ESPN Perú">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13012320_2F126501AEFEE9C6.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206193000 +0000" stop="20230206220000 +0000" channel="ESPN Perú">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001322_87FB7BF99E03AC92.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230206220000 +0000" stop="20230206233000 +0000" channel="ESPN Perú">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Un show que ofrece el más amplio debate futbolístico y cuenta con la participación de reconocidos especialistas.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/60/14601788_8312EAB19620E3AC.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230206233000 +0000" stop="20230207000000 +0000" channel="ESPN Perú">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009301_67F484C9521A183D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
   </programme>
 </tv>
