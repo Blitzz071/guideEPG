@@ -7,7 +7,6 @@
   </channel>
   <channel id="Movistar Deportes Perú">
     <display-name lang="es">Movistar Deportes Perú.</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718159_BE424D8C4C1AA0DF.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
   <channel id="Movistar Eventos 1">
@@ -810,240 +809,6 @@
     <display-name lang="en">Discovery Science.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20230208050000 +0000" stop="20230208053000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <sub-title lang="es">Compacto Final 2022: Melgar vs. Alianza Lima</sub-title>
-    <desc lang="es">Final, ida. Partido disputado el 9 de noviembre de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208053000 +0000" stop="20230208060000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <sub-title lang="es">Compacto 2022: Universitario vs. Melgar</sub-title>
-    <desc lang="es">Repaso de las mejores jugadas del partido de la Jornada 16. Disputado el 16 de octubre de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208060000 +0000" stop="20230208080000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <sub-title lang="es">Apertura 2022: Universidad San Martín vs. Carlos A. Mannucci</sub-title>
-    <desc lang="es">Disputado el 20 de marzo de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208080000 +0000" stop="20230208100000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <sub-title lang="es">Apertura 2022: Ayacucho vs. UTC</sub-title>
-    <desc lang="es">Disputado el 1 de abril de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208100000 +0000" stop="20230208120000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <sub-title lang="es">Apertura 2022: Sport Boys vs. Binacional</sub-title>
-    <desc lang="es">Disputado el 1 de abril de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208120000 +0000" stop="20230208123000 +0000" channel="Gol Perú">
-    <title lang="es">Gol replay</title>
-    <desc lang="es">Un repaso por los mejores goles alrededor del mundo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089291_7F954DCD67BC9F45.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208123000 +0000" stop="20230208130000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <sub-title lang="es">Compacto 2022: Universitario vs. Melgar</sub-title>
-    <desc lang="es">Repaso de las mejores jugadas del partido de la Jornada 16. Disputado el 16 de octubre de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208130000 +0000" stop="20230208133000 +0000" channel="Gol Perú">
-    <title lang="es">La entrevista</title>
-    <sub-title lang="es">Álvaro Recoba</sub-title>
-    <desc lang="es">Entrevista exclusiva con el exjugador internacional uruguayo, Álvaro "Chino" Recoba.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075176_6AB5934D19E24B0D.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208133000 +0000" stop="20230208140000 +0000" channel="Gol Perú">
-    <title lang="es">Charlas en cuarentena</title>
-    <sub-title lang="es">José Luis Carranza</sub-title>
-    <desc lang="es">Programa especial con el excentrocampista de la selección peruana.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208140000 +0000" stop="20230208150000 +0000" channel="Gol Perú">
-    <title lang="es">Código fútbol</title>
-    <desc lang="es">Un panel de expertos analiza en profundidad los partidos del campeonato peruano de fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088700_BD55DAF04AFC062C.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208150000 +0000" stop="20230208160000 +0000" channel="Gol Perú">
-    <title lang="es">Diez por diez</title>
-    <desc lang="es">Los expertos en la materia debaten sobre las últimas noticias y novedades del fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089292_FDC18A8C60DDB15F.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208160000 +0000" stop="20230208170000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol 7</title>
-    <sub-title lang="es">Copa Leyendas 2022: Universitarios vs. Pelícanos</sub-title>
-    <desc lang="es">Disputado el 11 de junio de 2022.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/29/14294974_8BFB66C28326C6E0.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208170000 +0000" stop="20230208190000 +0000" channel="Gol Perú">
-    <title lang="es">Gol Perú noticias</title>
-    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208190000 +0000" stop="20230208210000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol Peruano Primera División</title>
-    <sub-title lang="es">Apertura 2017: Universitario vs. Alianza Lima</sub-title>
-    <desc lang="es">Jornada 9 del torneo. Disputado el 15 de abril de 2017.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208210000 +0000" stop="20230208213000 +0000" channel="Gol Perú">
-    <title lang="es">Once ideal</title>
-    <desc lang="es">Un repaso por las novedades y noticias que dejó la acción del fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112038_F30FAB235AA02866.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208213000 +0000" stop="20230208220000 +0000" channel="Gol Perú">
-    <title lang="es">Gol replay</title>
-    <desc lang="es">Un repaso por los mejores goles alrededor del mundo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089291_7F954DCD67BC9F45.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208220000 +0000" stop="20230208223000 +0000" channel="Gol Perú">
-    <title lang="es">La entrevista</title>
-    <sub-title lang="es">Álvaro Recoba</sub-title>
-    <desc lang="es">Entrevista exclusiva con el exjugador internacional uruguayo, Álvaro "Chino" Recoba.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075176_6AB5934D19E24B0D.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208223000 +0000" stop="20230208230000 +0000" channel="Gol Perú">
-    <title lang="es">Charlas en cuarentena</title>
-    <sub-title lang="es">José Luis Carranza</sub-title>
-    <desc lang="es">Programa especial con el excentrocampista de la selección peruana.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230208230000 +0000" stop="20230209000000 +0000" channel="Gol Perú">
-    <title lang="es">Gol Perú noticias</title>
-    <desc lang="es">Un espacio para encontrar todas las novedades y las últimas noticias del mundo del fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060713_1209FFC5D5C6B951.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230209000000 +0000" stop="20230209010000 +0000" channel="Gol Perú">
-    <title lang="es">Fútbol 7</title>
-    <sub-title lang="es">Copa Leyendas 2022: Íntimos vs. La Misilera</sub-title>
-    <desc lang="es">Fecha 4 del Apertura 2022. Partido disputado el 24 de mayo de 2022.(n)</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/29/14294974_8BFB66C28326C6E0.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230209010000 +0000" stop="20230209013000 +0000" channel="Gol Perú">
-    <title lang="es">¡Viva fútbol!</title>
-    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230209013000 +0000" stop="20230209020000 +0000" channel="Gol Perú">
-    <title lang="es">Futbología</title>
-    <desc lang="es">Las novedades y los momentos insólitos del fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060715_DBE4FD8C253B2B7C.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230209020000 +0000" stop="20230209030000 +0000" channel="Gol Perú">
-    <title lang="es">Código fútbol</title>
-    <desc lang="es">Un panel de expertos analiza en profundidad los partidos del campeonato peruano de fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088700_BD55DAF04AFC062C.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230209030000 +0000" stop="20230209040000 +0000" channel="Gol Perú">
-    <title lang="es">Diez por diez</title>
-    <desc lang="es">Los expertos en la materia debaten sobre las últimas noticias y novedades del fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13089292_FDC18A8C60DDB15F.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230209040000 +0000" stop="20230209043000 +0000" channel="Gol Perú">
-    <title lang="es">¡Viva fútbol!</title>
-    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230209043000 +0000" stop="20230209050000 +0000" channel="Gol Perú">
-    <title lang="es">Futbología</title>
-    <desc lang="es">Las novedades y los momentos insólitos del fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060715_DBE4FD8C253B2B7C.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20230209050000 +0000" stop="20230209053000 +0000" channel="Gol Perú">
     <title lang="es">Fútbol Peruano Primera División</title>
     <sub-title lang="es">Compacto Apertura 2022: Alianza Atlético vs. Melgar</sub-title>
@@ -1452,626 +1217,250 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230208050000 +0000" stop="20230208053000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208053000 +0000" stop="20230208063000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Zona mixta</title>
-    <desc lang="es">Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.(n)</desc>
+  <programme start="20230211000000 +0000" stop="20230211010000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol 7</title>
+    <sub-title lang="es">Copa Leyendas 2022: Sporting vs Misilera</sub-title>
+    <desc lang="es">Disputado el 9 de mayo de 2022.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060258_AA5285C99E0358C3.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/29/14294974_8BFB66C28326C6E0.jpg" />
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230208063000 +0000" stop="20230208080000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
+  <programme start="20230211010000 +0000" stop="20230211013000 +0000" channel="Gol Perú">
+    <title lang="es">¡Viva fútbol!</title>
+    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230208080000 +0000" stop="20230208083000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Especial Parapanamericano</sub-title>
-    <desc lang="es">Edición especial del Parapanamericano 2019. Desde Lima, Perú.(n)</desc>
+  <programme start="20230211013000 +0000" stop="20230211020000 +0000" channel="Gol Perú">
+    <title lang="es">Futbología</title>
+    <desc lang="es">Las novedades y los momentos insólitos del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060715_DBE4FD8C253B2B7C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211020000 +0000" stop="20230211030000 +0000" channel="Gol Perú">
+    <title lang="es">Código fútbol</title>
+    <desc lang="es">Un panel de expertos analiza en profundidad los partidos del campeonato peruano de fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088700_BD55DAF04AFC062C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211030000 +0000" stop="20230211040000 +0000" channel="Gol Perú">
+    <title lang="es">La tribuna</title>
+    <desc lang="es">Un espacio para juntarse y encontrarse con la emoción, con alegría y con todas las pasiones que desata el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060269_212115DA56AC4AD0.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211040000 +0000" stop="20230211043000 +0000" channel="Gol Perú">
+    <title lang="es">¡Viva fútbol!</title>
+    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211043000 +0000" stop="20230211050000 +0000" channel="Gol Perú">
+    <title lang="es">Futbología</title>
+    <desc lang="es">Las novedades y los momentos insólitos del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060715_DBE4FD8C253B2B7C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211050000 +0000" stop="20230211053000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Compacto 2022: Melgar vs. Sporting Cristal</sub-title>
+    <desc lang="es">Ida de semifinales, del 2 de noviembre de 2022.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20230208083000 +0000" stop="20230208093000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208093000 +0000" stop="20230208103000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El fuera de lista</title>
-    <desc lang="es">Un seguimiento a cada paso de la selección peruana, con el día a día del hincha y el lado B de los futbolistas, con humor y mucha magia.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13037822_F6F63DA910C70793.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208103000 +0000" stop="20230208110000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Rompiendo barreras</sub-title>
-    <desc lang="es">Abordaje de las diferentes problemáticas que enfrenta el fútbol femenino peruano.(n)</desc>
+  <programme start="20230211053000 +0000" stop="20230211060000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Compacto 2022: Sporting Cristal vs. Melgar</sub-title>
+    <desc lang="es">Semifinal, vuelta. Disputado el 6 de noviembre de 2022.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230208110000 +0000" stop="20230208113000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Perú surf</title>
-    <desc lang="es">Un programa producido y dirigido íntegramente por tablistas y bodyborders peruanos para seguir a los surfers en su persecución de las mejores olas del Perú y del mundo, así como a las estrellas internacionales de la tabla.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002922_B2745A601BAA9962.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208113000 +0000" stop="20230208120000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Full ruedas</title>
-    <desc lang="es">Un programa dedicado exclusivamente a deportes extremos sobre ruedas, con información sobre los riders y las competencias más impresionantes, duras y adrenalínicas del mundo.(n)</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995915_775DCE7AA0856EC2.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208120000 +0000" stop="20230208130000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208130000 +0000" stop="20230208140000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Zona mixta</title>
-    <desc lang="es">Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.(n)</desc>
+  <programme start="20230211060000 +0000" stop="20230211080000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Apertura 2022: Universidad César Vallejo vs. Sporting Cristal</sub-title>
+    <desc lang="es">Disputado el 8 de abril de 2022.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060258_AA5285C99E0358C3.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20230208140000 +0000" stop="20230208153000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
+  <programme start="20230211080000 +0000" stop="20230211100000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Apertura 2022: Deportivo Municipal vs. Carlos A. Mannucci</sub-title>
+    <desc lang="es">Disputado el 9 de abril de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20230208153000 +0000" stop="20230208163000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El fuera de lista</title>
-    <desc lang="es">Un seguimiento a cada paso de la selección peruana, con el día a día del hincha y el lado B de los futbolistas, con humor y mucha magia.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13037822_F6F63DA910C70793.jpg" />
+  <programme start="20230211100000 +0000" stop="20230211120000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Apertura 2022: Binacional vs. Atlético Grau</sub-title>
+    <desc lang="es">Disputado el 9 de abril de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211120000 +0000" stop="20230211123000 +0000" channel="Gol Perú">
+    <title lang="es">Once ideal</title>
+    <desc lang="es">Un repaso por las novedades y noticias que dejó la acción del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112038_F30FAB235AA02866.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211123000 +0000" stop="20230211130000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Compacto 2022: Sporting Cristal vs. Melgar</sub-title>
+    <desc lang="es">Semifinal, vuelta. Disputado el 6 de noviembre de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211130000 +0000" stop="20230211133000 +0000" channel="Gol Perú">
+    <title lang="es">La entrevista</title>
+    <sub-title lang="es">Gustavo Grondona</sub-title>
+    <desc lang="es">Entrevista a Gustavo Grondona, exjugador de fútbol argentino.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075176_6AB5934D19E24B0D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211133000 +0000" stop="20230211140000 +0000" channel="Gol Perú">
+    <title lang="es">Charlas en cuarentena</title>
+    <sub-title lang="es">Masakatsu Sawa</sub-title>
+    <desc lang="es">Charla exclusiva con el exdelantero japonés Masakatsu Sawa.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211140000 +0000" stop="20230211150000 +0000" channel="Gol Perú">
+    <title lang="es">Código fútbol</title>
+    <desc lang="es">Un panel de expertos analiza en profundidad los partidos del campeonato peruano de fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088700_BD55DAF04AFC062C.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211150000 +0000" stop="20230211160000 +0000" channel="Gol Perú">
+    <title lang="es">La tribuna</title>
+    <desc lang="es">Un espacio para juntarse y encontrarse con la emoción, con alegría y con todas las pasiones que desata el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060269_212115DA56AC4AD0.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211160000 +0000" stop="20230211170000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol 7</title>
+    <sub-title lang="es">Copa Leyendas 2022: Sporting vs Misilera</sub-title>
+    <desc lang="es">Disputado el 9 de mayo de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/29/14294974_8BFB66C28326C6E0.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230211170000 +0000" stop="20230211180000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol 7</title>
+    <sub-title lang="es">Copa Leyendas 2022: Universitario vs. íntimos</sub-title>
+    <desc lang="es">Disputado el 31 de mayo de 2022.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/29/14294974_8BFB66C28326C6E0.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20230208163000 +0000" stop="20230208170000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Gira del 82</sub-title>
-    <desc lang="es">Programa especial que recuerda la gira internacional de la selección peruana de 1982.(n)</desc>
+  <programme start="20230211180000 +0000" stop="20230211190000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol 7</title>
+    <sub-title lang="es">Copa Leyendas 2022: El Papá vs. El Pelícano</sub-title>
+    <desc lang="es">Fecha 1 del Torneo Apertura 2022. Partido jugado el 3 de mayo de 2022.(n)</desc>
     <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/29/14294974_8BFB66C28326C6E0.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230208170000 +0000" stop="20230208190000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Voleibol Femenino Peruano Liga Nacional</title>
-    <sub-title lang="es">Latino Amisa vs. Rebaza Acosta</sub-title>
-    <desc lang="es">Jornada 4 de la Liga Nacional. Latino Amisa enfrenta a Rebaza Acosta.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/53/14535937_1AE9B021D5CD6CDF.jpg" />
+  <programme start="20230211190000 +0000" stop="20230211210000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Apertura 2017: Universitario vs. Alianza Lima</sub-title>
+    <desc lang="es">Jornada 9 del torneo. Disputado el 15 de abril de 2017.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230208190000 +0000" stop="20230208200000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208200000 +0000" stop="20230208213000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208213000 +0000" stop="20230208220000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Rompiendo barreras</sub-title>
-    <desc lang="es">Abordaje de las diferentes problemáticas que enfrenta el fútbol femenino peruano.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208220000 +0000" stop="20230208223000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Perú surf</title>
-    <desc lang="es">Un programa producido y dirigido íntegramente por tablistas y bodyborders peruanos para seguir a los surfers en su persecución de las mejores olas del Perú y del mundo, así como a las estrellas internacionales de la tabla.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002922_B2745A601BAA9962.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208223000 +0000" stop="20230208230000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Full ruedas</title>
-    <desc lang="es">Un programa dedicado exclusivamente a deportes extremos sobre ruedas, con información sobre los riders y las competencias más impresionantes, duras y adrenalínicas del mundo.(n)</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995915_775DCE7AA0856EC2.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230208230000 +0000" stop="20230209000000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El fuera de lista</title>
-    <desc lang="es">Un seguimiento a cada paso de la selección peruana, con el día a día del hincha y el lado B de los futbolistas, con humor y mucha magia.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13037822_F6F63DA910C70793.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209000000 +0000" stop="20230209010000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Panamericano de vóley 2017</sub-title>
-    <desc lang="es">Edición especial de la edición XVI de la Copa Panamericana de vóleibol femenino. Disputada del 17 al 25 de junio de 2017 en las ciudades de Lima y Cañete, Perú.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
+  <programme start="20230211210000 +0000" stop="20230211213000 +0000" channel="Gol Perú">
+    <title lang="es">Futbología</title>
+    <desc lang="es">Las novedades y los momentos insólitos del fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060715_DBE4FD8C253B2B7C.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230209010000 +0000" stop="20230209020000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209020000 +0000" stop="20230209030000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Zona mixta</title>
-    <desc lang="es">Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060258_AA5285C99E0358C3.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209030000 +0000" stop="20230209043000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209043000 +0000" stop="20230209050000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209050000 +0000" stop="20230209053000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209053000 +0000" stop="20230209063000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Zona mixta</title>
-    <desc lang="es">Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060258_AA5285C99E0358C3.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209063000 +0000" stop="20230209080000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209080000 +0000" stop="20230209083000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Especial Maratón Lima 42K</sub-title>
-    <desc lang="es">Especial con la cobertura de la Maratón Life Lima 42K.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209083000 +0000" stop="20230209093000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209093000 +0000" stop="20230209100000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Perú surf</title>
-    <desc lang="es">Un programa producido y dirigido íntegramente por tablistas y bodyborders peruanos para seguir a los surfers en su persecución de las mejores olas del Perú y del mundo, así como a las estrellas internacionales de la tabla.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002922_B2745A601BAA9962.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209100000 +0000" stop="20230209103000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Full ruedas</title>
-    <desc lang="es">Un programa dedicado exclusivamente a deportes extremos sobre ruedas, con información sobre los riders y las competencias más impresionantes, duras y adrenalínicas del mundo.(n)</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995915_775DCE7AA0856EC2.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209103000 +0000" stop="20230209110000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Especial Mundial Junior de Natación 2022</sub-title>
-    <desc lang="es">Especial con la cobertura del Mundial Junior de Natación 2022. Desde Lima, Perú.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209110000 +0000" stop="20230209120000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El fuera de lista</title>
-    <desc lang="es">Un seguimiento a cada paso de la selección peruana, con el día a día del hincha y el lado B de los futbolistas, con humor y mucha magia.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13037822_F6F63DA910C70793.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209120000 +0000" stop="20230209130000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209130000 +0000" stop="20230209140000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Zona mixta</title>
-    <desc lang="es">Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060258_AA5285C99E0358C3.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209140000 +0000" stop="20230209153000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209153000 +0000" stop="20230209160000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Perú surf</title>
-    <desc lang="es">Un programa producido y dirigido íntegramente por tablistas y bodyborders peruanos para seguir a los surfers en su persecución de las mejores olas del Perú y del mundo, así como a las estrellas internacionales de la tabla.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002922_B2745A601BAA9962.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209160000 +0000" stop="20230209180000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Históricas</sub-title>
-    <desc lang="es">Los mejores especiales deportivos con una mirada más de cerca de la actualidad del deporte nacional e internacional.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
+  <programme start="20230211213000 +0000" stop="20230211220000 +0000" channel="Gol Perú">
+    <title lang="es">¡Viva fútbol!</title>
+    <desc lang="es">Un grupo de conocedoras de fútbol y más deportes se junta para gritar que viva el fútbol.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060267_3D35B9D831C80932.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230209180000 +0000" stop="20230209190000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El fuera de lista</title>
-    <desc lang="es">Un seguimiento a cada paso de la selección peruana, con el día a día del hincha y el lado B de los futbolistas, con humor y mucha magia.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13037822_F6F63DA910C70793.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209190000 +0000" stop="20230209200000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230209200000 +0000" stop="20230209220000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Voleibol Femenino Peruano Liga Nacional</title>
-    <sub-title lang="es">Sumak Selva vs. Circolo</sub-title>
-    <desc lang="es">Jornada 4 de la Liga Nacional. Sumak Selva enfrenta a Circolo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/53/14535937_1AE9B021D5CD6CDF.jpg" />
+  <programme start="20230211220000 +0000" stop="20230211223000 +0000" channel="Gol Perú">
+    <title lang="es">La entrevista</title>
+    <sub-title lang="es">Gustavo Grondona</sub-title>
+    <desc lang="es">Entrevista a Gustavo Grondona, exjugador de fútbol argentino.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075176_6AB5934D19E24B0D.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230209220000 +0000" stop="20230210000000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Voleibol Femenino Peruano Liga Nacional</title>
-    <sub-title lang="es">Alianza Lima vs. Géminis</sub-title>
-    <desc lang="es">Jornada 4 de la Liga Nacional. Alianza Lima enfrenta a Géminis.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/53/14535937_1AE9B021D5CD6CDF.jpg" />
+  <programme start="20230211223000 +0000" stop="20230211230000 +0000" channel="Gol Perú">
+    <title lang="es">Charlas en cuarentena</title>
+    <sub-title lang="es">Masakatsu Sawa</sub-title>
+    <desc lang="es">Charla exclusiva con el exdelantero japonés Masakatsu Sawa.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13075174_731FA8F859D19114.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20230210000000 +0000" stop="20230210003000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Fútbol lab</title>
+  <programme start="20230211230000 +0000" stop="20230212010000 +0000" channel="Gol Perú">
+    <title lang="es">Fútbol Peruano Primera División</title>
+    <sub-title lang="es">Clausura 2022: Alianza Lima vs. Universitario</sub-title>
+    <desc lang="es">Alianza Lima recibe a Universitario por la décima jornada. Partido disputado el 4 de septiembre de 2022 en el estadio Alejandro Villanueva.(n)</desc>
     <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/04/14040747_C7E7CEE4FD01D576.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230210003000 +0000" stop="20230210010000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Especial Mundial Junior de Natación 2022</sub-title>
-    <desc lang="es">Especial con la cobertura del Mundial Junior de Natación 2022. Desde Lima, Perú.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210010000 +0000" stop="20230210020000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210020000 +0000" stop="20230210030000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Zona mixta</title>
-    <desc lang="es">Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060258_AA5285C99E0358C3.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210030000 +0000" stop="20230210043000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210043000 +0000" stop="20230210050000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210050000 +0000" stop="20230210053000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210053000 +0000" stop="20230210063000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Zona mixta</title>
-    <desc lang="es">Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060258_AA5285C99E0358C3.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210063000 +0000" stop="20230210080000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210080000 +0000" stop="20230210083000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Full ruedas</title>
-    <desc lang="es">Un programa dedicado exclusivamente a deportes extremos sobre ruedas, con información sobre los riders y las competencias más impresionantes, duras y adrenalínicas del mundo.(n)</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995915_775DCE7AA0856EC2.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210083000 +0000" stop="20230210093000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210093000 +0000" stop="20230210103000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El fuera de lista</title>
-    <desc lang="es">Un seguimiento a cada paso de la selección peruana, con el día a día del hincha y el lado B de los futbolistas, con humor y mucha magia.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13037822_F6F63DA910C70793.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210103000 +0000" stop="20230210110000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Movistar Deportes</title>
-    <sub-title lang="es">Hinchas de nacimiento</sub-title>
-    <desc lang="es">Documental que intenta responder la interrogante: ¿se puede despertar el amor por la selección desde antes de nacer.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008124_4EDC077C269E9B68.jpg" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230210110000 +0000" stop="20230210113000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Perú surf</title>
-    <desc lang="es">Un programa producido y dirigido íntegramente por tablistas y bodyborders peruanos para seguir a los surfers en su persecución de las mejores olas del Perú y del mundo, así como a las estrellas internacionales de la tabla.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002922_B2745A601BAA9962.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210113000 +0000" stop="20230210120000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Full ruedas</title>
-    <desc lang="es">Un programa dedicado exclusivamente a deportes extremos sobre ruedas, con información sobre los riders y las competencias más impresionantes, duras y adrenalínicas del mundo.(n)</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995915_775DCE7AA0856EC2.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210120000 +0000" stop="20230210130000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210130000 +0000" stop="20230210140000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Zona mixta</title>
-    <desc lang="es">Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13060258_AA5285C99E0358C3.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210140000 +0000" stop="20230210153000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210153000 +0000" stop="20230210160000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Full ruedas</title>
-    <desc lang="es">Un programa dedicado exclusivamente a deportes extremos sobre ruedas, con información sobre los riders y las competencias más impresionantes, duras y adrenalínicas del mundo.(n)</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995915_775DCE7AA0856EC2.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210160000 +0000" stop="20230210170000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El día que el Perú se unió</title>
-    <desc lang="es">Documental que recopila los testimonios de la clasificación de la selección peruana de fútbol a Rusia 2018, lograda el 15 de noviembre del 2017.(n)</desc>
-    <date>2021</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/43/14435924_CFE784D16CCD1BAF.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230210170000 +0000" stop="20230210190000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Voleibol Femenino Peruano Liga Nacional</title>
-    <sub-title lang="es">Alianza Lima vs. Géminis</sub-title>
-    <desc lang="es">Jornada 4 de la Liga Nacional. Alianza Lima enfrenta a Géminis.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/53/14535937_1AE9B021D5CD6CDF.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20230210190000 +0000" stop="20230210200000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El camerino</title>
-    <desc lang="es">Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001154_B7A2D26010F12CEA.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210200000 +0000" stop="20230210213000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Al ángulo</title>
-    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial tal y como solo ellos lo saben.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015594_6E963E6ACA7FA7ED.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210213000 +0000" stop="20230210220000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Perú surf</title>
-    <desc lang="es">Un programa producido y dirigido íntegramente por tablistas y bodyborders peruanos para seguir a los surfers en su persecución de las mejores olas del Perú y del mundo, así como a las estrellas internacionales de la tabla.(n)</desc>
-    <date>2012</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002922_B2745A601BAA9962.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210220000 +0000" stop="20230210230000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">El fuera de lista</title>
-    <desc lang="es">Un seguimiento a cada paso de la selección peruana, con el día a día del hincha y el lado B de los futbolistas, con humor y mucha magia.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13037822_F6F63DA910C70793.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20230210230000 +0000" stop="20230211010000 +0000" channel="Movistar Deportes Perú">
-    <title lang="es">Contragolpe</title>
-    <desc lang="es">Documental sobre el gesto solidario del equipo de fútbol ecuatoriano Independiente del Valle, que donó la taquilla de las entradas de la Copa Libertadores tras el devastador terremoto de 7.8 grados que sacudió la costa ecuatoriana en 2016.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/15/13152043_BF1C70457EE67435.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036086_3B73187C926B16EE.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
