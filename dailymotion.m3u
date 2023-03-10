@@ -12,13 +12,13 @@
 
 
 #EXTINF:-1 group-title="Canales Nacionales (Venezuela)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1068727951232880682/vtvve.png" tvg-id="", VTV Venezuela
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgvW16ryyJ-XtJn4PQiZCMBUwoQm4WKA3WoGx5TGgj_J)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLka1NKffNjKzi7tnCYDXRdbj7iyMnTuQkhj2ILG1gG2n)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Bolivia)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1065355885653790791/1200px-Uno_logo.png" tvg-id="", Red Uno
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqmJWxXqXHGYXT9vIDjhtGbDLTD3ZGmWwW57_YxHd8ka)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Bolivia)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1065448736332984330/RedATB2022.png" tvg-id="", ATB
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOgMpIgQa-C_NGV725twrrfPT1WOmIswRvwZ7KsI-nfJX)/dm/3/x84eirw/d/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOuiVYchtM5QY_EdS4GORElOYxfvjCGbW05zF0rDMSkJx)/dm/3/x84eirw/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Ecuador)" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/large.TCmicanal-2017.png.1b9c5a32e676ea2cfc06b74fe0bcffa8.png" tvg-id="", TC Televisión
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
