@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Canales Nacionales (Venezuela)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1068908999463948318/meridianotv.png" tvg-id="", Meridiano TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1678738262/ei/9i4PZP_xIJ6L-LAP05yoyAE/ip/190.238.238.223/id/mHwBFT3szEQ.1/source/yt_live_broadcast/requiressl/yes/tx/24468689/txs/24468683%2C24468684%2C24468685%2C24468686%2C24468687%2C24468688%2C24468689/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANQHXtuM8kep-WXaaN0eqGKwvTUVStIj9rK7PyyRnYFnAiBBVBfWHvT8dfoyOR8oNERfBLjJYx9AS1OKpjijTxZEeg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Canales De Deportes (Centroamã©Rica)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1083890803774079077/ligaprimerani.png" tvg-id="", Liga Primera Youtube
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
