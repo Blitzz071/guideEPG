@@ -24198,4 +24198,585 @@
     <title lang="en">Conexión</title>
     <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6434b8b3ecfc6e4185d0be95/schedule-image/conexion-c.png" />
   </programme>
+  <programme start="20230412043000 +0000" stop="20230412053000 +0000" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross - Suíça MXGP: Corrida 1 : Suíça MXGP: Corrida 1</title>
+    <sub-title lang="pt">Suíça MXGP: Corrida 1</sub-title>
+    <desc lang="pt">Acompanhe os lances do maior evento da categoria, realizado pela FIM, a Federação Internacional de Motociclismo.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11845702_A3F0D35A5DEBD84F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412053000 +0000" stop="20230412063000 +0000" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross - Suíça MXGP: Corrida 2 : Suíça MXGP: Corrida 2</title>
+    <sub-title lang="pt">Suíça MXGP: Corrida 2</sub-title>
+    <desc lang="pt">Acompanhe os lances do maior evento da categoria, realizado pela FIM, a Federação Internacional de Motociclismo.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11845702_A3F0D35A5DEBD84F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412063000 +0000" stop="20230412083000 +0000" channel="Band Sports">
+    <title lang="pt">Cup Series da NASCAR : Compacto</title>
+    <sub-title lang="pt">Compacto</sub-title>
+    <desc lang="pt">Acompanhe tudo o que aconteceu na última rodada do maior torneio da NASCAR.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11814934_8B19D3A522DA126F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412083000 +0000" stop="20230412090000 +0000" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Conheça as novidades do mercado automobilístico, além de supermáquinas e grandes clássicos.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11819176_5D4DE045AE5F3964.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412090000 +0000" stop="20230412100000 +0000" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Polêmicas, lances bonitos e resultados de cada rodada do Brasileirão são analisados minuciosamente.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/68/14688719_2CD9166FC9D98357.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230412100000 +0000" stop="20230412110000 +0000" channel="Band Sports">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Veja tudo que rola dos bastidores do futebol italiano, alemão e russo. Além disso, placar, classificações e gols das competições nacionais e internacionais. E ainda um giro pela noite da NBA e o melhor basquete do mundo.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11838394_C55E4081A42470C8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412110000 +0000" stop="20230412113000 +0000" channel="Band Sports">
+    <title lang="pt">Formula E Unplugged</title>
+    <desc lang="pt">Conheça os bastidores da competição internacional de velocidade disputada com automóveis elétricos. Onze equipes e 22 pilotos brigam pelo título no esporte que combina a ação dramática do automobilismo com o desenvolvimento de tecnologia de ponta.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/60/15608640_AA51164B93E778FD.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412113000 +0000" stop="20230412114500 +0000" channel="Band Sports">
+    <title lang="pt">Drop Bandsports</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo em rápido e dinâmico programa.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/61/13617759_2EC6A9945686B9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412114500 +0000" stop="20230412124500 +0000" channel="Band Sports">
+    <title lang="pt">Encontro de Craques</title>
+    <desc lang="pt">Apresentado diretamente do primeiro street studio do Brasil, instalado em uma das esquinas mais movimentadas de São Paulo, um bate-papo com atletas, dirigentes, jornalistas e as mais variadas personalidades sobre assuntos importantes do esporte.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11851269_9F0B52E83F62619A.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230412124500 +0000" stop="20230412130000 +0000" channel="Band Sports">
+    <title lang="pt">Momento Olímpico</title>
+    <desc lang="pt">Veja os bastidores da preparação dos atletas brasileiros para o Pan-2023 e também Paris-2024. Fique por dentro das principais competições de esportes olímpicos pelo mundo e acompanhe entrevistas exclusivas e curiosidades sobre as várias modalidades.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/78/14784091_2813C5A2BC20CE20.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412130000 +0000" stop="20230412140000 +0000" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Polêmicas, lances bonitos e resultados de cada rodada do Brasileirão são analisados minuciosamente.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/68/14688719_2CD9166FC9D98357.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230412140000 +0000" stop="20230412150000 +0000" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+    <desc lang="pt">Comece o dia com notícias do mundo esportivo. Convidados famosos são recebidos para uma conversa descontraída. Além das informações atualizadas do esporte, o programa reserva um espaço para o noticiário geral, com a conexão Bandnews.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/77/11775739_49771830DF9B5029.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230412150000 +0000" stop="20230412170000 +0000" channel="Band Sports">
+    <title lang="pt">G4</title>
+    <desc lang="pt">Os principais assuntos do futebol são debatidos por especialistas no assunto.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11842059_26D0D2C70016BD36.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412170000 +0000" stop="20230412180000 +0000" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+    <desc lang="pt">Acompanhe a todas as atualizações do mundo esportivo, com muita opinião.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11842055_99FFB8635EEACB28.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412180000 +0000" stop="20230412190000 +0000" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross - Suíça MXGP: Corrida 1 : Suíça MXGP: Corrida 1</title>
+    <sub-title lang="pt">Suíça MXGP: Corrida 1</sub-title>
+    <desc lang="pt">Acompanhe os lances do maior evento da categoria, realizado pela FIM, a Federação Internacional de Motociclismo.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11845702_A3F0D35A5DEBD84F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412190000 +0000" stop="20230412200000 +0000" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross - Suíça MXGP: Corrida 2 : Suíça MXGP: Corrida 2</title>
+    <sub-title lang="pt">Suíça MXGP: Corrida 2</sub-title>
+    <desc lang="pt">Acompanhe os lances do maior evento da categoria, realizado pela FIM, a Federação Internacional de Motociclismo.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11845702_A3F0D35A5DEBD84F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412200000 +0000" stop="20230412210000 +0000" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe o programa de debate sobre o mundo do futebol mais bem-humorado da televisão.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910320_3832B94C59968F6C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230412210000 +0000" stop="20230412220000 +0000" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">Acompanhe as notícias do futebol no Brasil e no mundo, com muita análise e debate.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/30/14304633_77F7238F47CD67B7.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230412220000 +0000" stop="20230413000000 +0000" channel="Band Sports">
+    <title lang="pt">SERC/UCDB x Barateiro Havan - Liga Feminina de Futsal : SERC/UCDB x Barateiro Havan</title>
+    <sub-title lang="pt">SERC/UCDB x Barateiro Havan</sub-title>
+    <desc lang="pt">A LFF é um dos maiores torneios de futsal feminino do Brasil.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/99/11992210_6AADF12A60405ADE.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413000000 +0000" stop="20230413010000 +0000" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+    <desc lang="pt">Programa especializado no mundo motor, sempre com convidados renomados do meio, trazendo informação, serviço e as principais notícias do automobilismo da semana, além de dicas práticas e lançamentos.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12977567_69291FFC82187BF6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413010000 +0000" stop="20230413020000 +0000" channel="Band Sports">
+    <title lang="pt">Traduzindo F1</title>
+    <desc lang="pt">Max Wilson e Kalinka Schutel repercutem os principais acontecimentos da maior competição de automobilismo do mundo, a Fórmula Um, com leveza, informação e bom humor.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14021328_7EFE1F74DBA3A4C8.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413020000 +0000" stop="20230413023000 +0000" channel="Band Sports">
+    <title lang="pt">Formula E Unplugged</title>
+    <desc lang="pt">Conheça os bastidores da competição internacional de velocidade disputada com automóveis elétricos. Onze equipes e 22 pilotos brigam pelo título no esporte que combina a ação dramática do automobilismo com o desenvolvimento de tecnologia de ponta.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/60/15608640_AA51164B93E778FD.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413023000 +0000" stop="20230413033000 +0000" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Polêmicas, lances bonitos e resultados de cada rodada do Brasileirão são analisados minuciosamente.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/68/14688719_2CD9166FC9D98357.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413033000 +0000" stop="20230413053000 +0000" channel="Band Sports">
+    <title lang="pt">Final: Fluminense x Flamengo - Campeonato Carioca de Futebol : Final: Fluminense x Flamengo</title>
+    <sub-title lang="pt">Final: Fluminense x Flamengo</sub-title>
+    <desc lang="pt">Pela partida de volta da decisão, o Fluminense enfrenta o Flamengo no Estádio do Maracanã, no Rio de Janeiro, RJ. Derrotado na ida por 2 a 0, o Tricolor precisa vencer por três gols de diferença para impedir o título do Rubro-Negro no tempo normal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/60/15608606_5FCD18BFAB15460C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413053000 +0000" stop="20230413070000 +0000" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+    <desc lang="pt">Programa especializado no mundo motor, sempre com convidados renomados do meio, trazendo informação, serviço e as principais notícias do automobilismo da semana, além de dicas práticas e lançamentos.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12977567_69291FFC82187BF6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413070000 +0000" stop="20230413080000 +0000" channel="Band Sports">
+    <title lang="pt">Traduzindo F1</title>
+    <desc lang="pt">Max Wilson e Kalinka Schutel repercutem os principais acontecimentos da maior competição de automobilismo do mundo, a Fórmula Um, com leveza, informação e bom humor.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/02/14021328_7EFE1F74DBA3A4C8.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413080000 +0000" stop="20230413083000 +0000" channel="Band Sports">
+    <title lang="pt">Formula E Unplugged</title>
+    <desc lang="pt">Conheça os bastidores da competição internacional de velocidade disputada com automóveis elétricos. Onze equipes e 22 pilotos brigam pelo título no esporte que combina a ação dramática do automobilismo com o desenvolvimento de tecnologia de ponta.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/60/15608640_AA51164B93E778FD.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413083000 +0000" stop="20230413090000 +0000" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Conheça as novidades do mercado automobilístico, além de supermáquinas e grandes clássicos.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11819176_5D4DE045AE5F3964.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413090000 +0000" stop="20230413100000 +0000" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Polêmicas, lances bonitos e resultados de cada rodada do Brasileirão são analisados minuciosamente.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/68/14688719_2CD9166FC9D98357.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413100000 +0000" stop="20230413110000 +0000" channel="Band Sports">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Veja tudo que rola dos bastidores do futebol italiano, alemão e russo. Além disso, placar, classificações e gols das competições nacionais e internacionais. E ainda um giro pela noite da NBA e o melhor basquete do mundo.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11838394_C55E4081A42470C8.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413110000 +0000" stop="20230413113000 +0000" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+    <desc lang="pt">Acompanhe reportagens exclusivas e novidades sobre o mundo do golfe.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/96/12965369_BEBB11144B9BE9EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413113000 +0000" stop="20230413120000 +0000" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Conheça as novidades do mercado automobilístico, além de supermáquinas e grandes clássicos.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11819176_5D4DE045AE5F3964.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413120000 +0000" stop="20230413130000 +0000" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+    <desc lang="pt">Programa especializado no mundo motor, sempre com convidados renomados do meio, trazendo informação, serviço e as principais notícias do automobilismo da semana, além de dicas práticas e lançamentos.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12977567_69291FFC82187BF6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413130000 +0000" stop="20230413140000 +0000" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Polêmicas, lances bonitos e resultados de cada rodada do Brasileirão são analisados minuciosamente.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/68/14688719_2CD9166FC9D98357.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413140000 +0000" stop="20230413150000 +0000" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+    <desc lang="pt">Comece o dia com notícias do mundo esportivo. Convidados famosos são recebidos para uma conversa descontraída. Além das informações atualizadas do esporte, o programa reserva um espaço para o noticiário geral, com a conexão Bandnews.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/77/11775739_49771830DF9B5029.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413150000 +0000" stop="20230413170000 +0000" channel="Band Sports">
+    <title lang="pt">G4</title>
+    <desc lang="pt">Os principais assuntos do futebol são debatidos por especialistas no assunto.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11842059_26D0D2C70016BD36.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413170000 +0000" stop="20230413180000 +0000" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+    <desc lang="pt">Acompanhe a todas as atualizações do mundo esportivo, com muita opinião.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11842055_99FFB8635EEACB28.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413180000 +0000" stop="20230413200000 +0000" channel="Band Sports">
+    <title lang="pt">Maccabi Tel Aviv x Real Madrid - Euroliga de Basquete : Maccabi Tel Aviv x Real Madrid</title>
+    <sub-title lang="pt">Maccabi Tel Aviv x Real Madrid</sub-title>
+    <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/67/15671818_0A8E9454059FFBD4.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413200000 +0000" stop="20230413210000 +0000" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe o programa de debate sobre o mundo do futebol mais bem-humorado da televisão.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910320_3832B94C59968F6C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413210000 +0000" stop="20230413224500 +0000" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">Acompanhe as notícias do futebol no Brasil e no mundo, com muita análise e debate.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/30/14304633_77F7238F47CD67B7.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230413224500 +0000" stop="20230413230000 +0000" channel="Band Sports">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/95/12950091_00A501E1AA658683.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230413230000 +0000" stop="20230414000000 +0000" channel="Band Sports">
+    <title lang="pt">Maratona Bandsports</title>
+    <desc lang="pt">Acompanhe uma análise do cenário de todas as modalidades para os Jogos Olímpicos de Tóquio de 2020. Veja ainda um debate sobre os investimentos, as estruturas e como os atletas brasileiros estão se preparando para o grande evento.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/77/11776222_954CA029E060E35C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414000000 +0000" stop="20230414004500 +0000" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt">Acompanhe todo um descontraído bate-papo a respeito do mundo dos esportes.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13133793_9963C97185B81DCF.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414004500 +0000" stop="20230414011500 +0000" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+    <desc lang="pt">Acompanhe reportagens exclusivas e novidades sobre o mundo do golfe.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/96/12965369_BEBB11144B9BE9EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414011500 +0000" stop="20230414021500 +0000" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Acompanhe entrevistas com personalidades do mundo esportivo.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978085_DDFE8EBB504A51A3.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230414021500 +0000" stop="20230414023000 +0000" channel="Band Sports">
+    <title lang="pt">Drop Bandsports</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo em rápido e dinâmico programa.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/61/13617759_2EC6A9945686B9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414023000 +0000" stop="20230414033000 +0000" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Polêmicas, lances bonitos e resultados de cada rodada do Brasileirão são analisados minuciosamente.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/68/14688719_2CD9166FC9D98357.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230414033000 +0000" stop="20230414053000 +0000" channel="Band Sports">
+    <title lang="pt">Maccabi Tel Aviv x Real Madrid - Euroliga de Basquete : Maccabi Tel Aviv x Real Madrid</title>
+    <sub-title lang="pt">Maccabi Tel Aviv x Real Madrid</sub-title>
+    <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/67/15671818_0A8E9454059FFBD4.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414053000 +0000" stop="20230414083000 +0000" channel="Band Sports">
+    <title lang="pt">Nascar Truck Series</title>
+    <desc lang="pt">Acompanhe as provas da Nascar Truck Series.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/28/13282275_C286C722F8E717DB.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414083000 +0000" stop="20230414090000 +0000" channel="Band Sports">
+    <title lang="pt">Formula E Unplugged</title>
+    <desc lang="pt">Conheça os bastidores da competição internacional de velocidade disputada com automóveis elétricos. Onze equipes e 22 pilotos brigam pelo título no esporte que combina a ação dramática do automobilismo com o desenvolvimento de tecnologia de ponta.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/60/15608640_AA51164B93E778FD.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414090000 +0000" stop="20230414100000 +0000" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Polêmicas, lances bonitos e resultados de cada rodada do Brasileirão são analisados minuciosamente.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/68/14688719_2CD9166FC9D98357.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230414100000 +0000" stop="20230414101500 +0000" channel="Band Sports">
+    <title lang="pt">Momento Olímpico</title>
+    <desc lang="pt">Veja os bastidores da preparação dos atletas brasileiros para o Pan-2023 e também Paris-2024. Fique por dentro das principais competições de esportes olímpicos pelo mundo e acompanhe entrevistas exclusivas e curiosidades sobre as várias modalidades.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/78/14784091_2813C5A2BC20CE20.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414101500 +0000" stop="20230414110000 +0000" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt">Acompanhe todo um descontraído bate-papo a respeito do mundo dos esportes.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13133793_9963C97185B81DCF.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414110000 +0000" stop="20230414130000 +0000" channel="Band Sports">
+    <title lang="pt">SERC/UCDB x Barateiro Havan - Liga Feminina de Futsal : SERC/UCDB x Barateiro Havan</title>
+    <sub-title lang="pt">SERC/UCDB x Barateiro Havan</sub-title>
+    <desc lang="pt">A LFF é um dos maiores torneios de futsal feminino do Brasil.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/99/11992210_6AADF12A60405ADE.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414130000 +0000" stop="20230414140000 +0000" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Polêmicas, lances bonitos e resultados de cada rodada do Brasileirão são analisados minuciosamente.(n)</desc>
+    <date>2008</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/68/14688719_2CD9166FC9D98357.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230414140000 +0000" stop="20230414150000 +0000" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+    <desc lang="pt">Comece o dia com notícias do mundo esportivo. Convidados famosos são recebidos para uma conversa descontraída. Além das informações atualizadas do esporte, o programa reserva um espaço para o noticiário geral, com a conexão Bandnews.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/77/11775739_49771830DF9B5029.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230414150000 +0000" stop="20230414170000 +0000" channel="Band Sports">
+    <title lang="pt">G4</title>
+    <desc lang="pt">Os principais assuntos do futebol são debatidos por especialistas no assunto.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11842059_26D0D2C70016BD36.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414170000 +0000" stop="20230414173000 +0000" channel="Band Sports">
+    <title lang="pt">Pré-Jogo</title>
+    <desc lang="pt">Especialistas fazem prévias de transmissões esportivas, com informações, entrevistas e destaques.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11816314_FEC8BE3775EBD0C5.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414173000 +0000" stop="20230414193000 +0000" channel="Band Sports">
+    <title lang="pt">Anadolu x Monaco - Euroliga de Basquete : Anadolu x Monaco</title>
+    <sub-title lang="pt">Anadolu x Monaco</sub-title>
+    <desc lang="pt">Acompanhe as emoções do principal torneio entre clubes europeus de basquete masculino.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/67/15671825_0CD021759E50DF28.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414193000 +0000" stop="20230414200000 +0000" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+    <desc lang="pt">Acompanhe reportagens exclusivas e novidades sobre o mundo do golfe.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/96/12965369_BEBB11144B9BE9EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414200000 +0000" stop="20230414210000 +0000" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe o programa de debate sobre o mundo do futebol mais bem-humorado da televisão.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910320_3832B94C59968F6C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230414210000 +0000" stop="20230414224500 +0000" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">Acompanhe as notícias do futebol no Brasil e no mundo, com muita análise e debate.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/30/14304633_77F7238F47CD67B7.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230414224500 +0000" stop="20230414233000 +0000" channel="Band Sports">
+    <title lang="pt">Oléé S.A.</title>
+    <desc lang="pt">Acompanhe uma discussão sobre o que acontece fora das disputas esportivas. Veja tudo sobre as modalidades por meio da ótica dos negócios e do nicho econômico.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11835238_8FC1B602FF9ED80F.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230414233000 +0000" stop="20230415023000 +0000" channel="Band Sports">
+    <title lang="pt">Nascar Truck Series</title>
+    <desc lang="pt">Acompanhe as provas da Nascar Truck Series.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/28/13282275_C286C722F8E717DB.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
 </tv>
