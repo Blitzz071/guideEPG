@@ -24004,4 +24004,100 @@
     <title lang="es">TODOS SOMOS TÉCNICOS (REPETICIÓN) 17-04-2023</title>
     <episode-num system="onscreen">E987</episode-num>
   </programme>
+  <programme start="20230415040000 +0000" stop="20230415073000 +0000" channel="Win Sports">
+    <title lang="en">Repetición programación Win Sports</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6434b955b0500242ea6e840d/schedule-image/repeticion-c.jpg" />
+  </programme>
+  <programme start="20230415090000 +0000" stop="20230415133000 +0000" channel="Win Sports">
+    <title lang="en">Repetición programación Win Sports</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6434b9c19dd1280888aa94a1/schedule-image/repeticion-c.jpg" />
+  </programme>
+  <programme start="20230415133000 +0000" stop="20230415143000 +0000" channel="Win Sports">
+    <title lang="en">Última Jugada</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6434b9dfb0500242ea6e841c/schedule-image/ultima-jugada-c.jpg" />
+  </programme>
+  <programme start="20230415183000 +0000" stop="20230415190000 +0000" channel="Win Sports">
+    <title lang="en">Win Noticias - Emisión central</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a00090f25421ddb927d65/schedule-image/win-noticias-c.jpg" />
+  </programme>
+  <programme start="20230415210000 +0000" stop="20230415220000 +0000" channel="Win Sports">
+    <title lang="en">El Club de Todos</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a005507e67408a7ffbb44/schedule-image/club-de-todos-c.jpg" />
+  </programme>
+  <programme start="20230415220000 +0000" stop="20230415223000 +0000" channel="Win Sports">
+    <title lang="en">Campañas</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a00730f25421ddb927d73/schedule-image/campanas-c.png" />
+  </programme>
+  <programme start="20230415223000 +0000" stop="20230415230000 +0000" channel="Win Sports">
+    <title lang="en">Previa - Deportivo Cali vs. Unión Magdalena</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a00a20f25421ddb927d77/schedule-image/especiales-fpc-c.jpg" />
+  </programme>
+  <programme start="20230415230000 +0000" stop="20230416000000 +0000" channel="Win Sports">
+    <title lang="en">Score Mundial</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a00c042e46a1be39dee6e/schedule-image/score-mundial-c.png" />
+  </programme>
+  <programme start="20230416000000 +0000" stop="20230416003000 +0000" channel="Win Sports">
+    <title lang="en">Campañas</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a00e142e46a1be39dee74/schedule-image/campanas-c.png" />
+  </programme>
+  <programme start="20230416003000 +0000" stop="20230416010000 +0000" channel="Win Sports">
+    <title lang="en">Previa - Pereira vs. Santa Fe</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a01031622086ab3af39bd/schedule-image/especiales-fpc-c.jpg" />
+  </programme>
+  <programme start="20230416010000 +0000" stop="20230416030000 +0000" channel="Win Sports">
+    <title lang="en">Real Santander vs. América</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20230416030000 +0000" stop="20230416040000 +0000" channel="Win Sports">
+    <title lang="en">Win Noticias - Emisión central</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a014d4f9d0908988ccd57/schedule-image/win-noticias-c.jpg" />
+  </programme>
+  <programme start="20230416040000 +0000" stop="20230416100000 +0000" channel="Win Sports">
+    <title lang="en">Repetición programación Win Sports</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a016b0917b908b20f7667/schedule-image/repeticion-c.jpg" />
+  </programme>
+  <programme start="20230416100000 +0000" stop="20230416140000 +0000" channel="Win Sports">
+    <title lang="en">Repetición programación Win Sports</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a018f967fee6d6d316330/schedule-image/repeticion-c.jpg" />
+  </programme>
+  <programme start="20230416140000 +0000" stop="20230416150000 +0000" channel="Win Sports">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a01b13cf29403af341cdb/schedule-image/win-noticias-c.jpg" />
+  </programme>
+  <programme start="20230416150000 +0000" stop="20230416173000 +0000" channel="Win Sports">
+    <title lang="en">Torneo Cupra de Pádel</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a0cb822d53e6c0969d7eb/schedule-image/padel-c.jpg" />
+  </programme>
+  <programme start="20230416173000 +0000" stop="20230416190000 +0000" channel="Win Sports">
+    <title lang="en">Previa - Bucaramanga vs. Medellín</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a0cf334400d1bdd61dcbf/schedule-image/especiales-fpc-c.jpg" />
+  </programme>
+  <programme start="20230416190000 +0000" stop="20230416210000 +0000" channel="Win Sports">
+    <title lang="en">Torneo Cupra de Pádel</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a0d1928038402cca338ac/schedule-image/padel-c.jpg" />
+  </programme>
+  <programme start="20230416210000 +0000" stop="20230416220000 +0000" channel="Win Sports">
+    <title lang="en">Score Mundial</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a0d3d6ca698016afddc23/schedule-image/score-mundial-c.png" />
+  </programme>
+  <programme start="20230416220000 +0000" stop="20230417013000 +0000" channel="Win Sports">
+    <title lang="en">Nacional vs. América: Juego al Aire</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a0d5e5d04926aa62444e7/schedule-image/juego-al-aire-c.jpg" />
+  </programme>
+  <programme start="20230417013000 +0000" stop="20230417033000 +0000" channel="Win Sports">
+    <title lang="en">Águilas Doradas vs. Boyacá Chicó</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20230417033000 +0000" stop="20230417050000 +0000" channel="Win Sports">
+    <title lang="en">Lo Mejor de La Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a0e1a9e7ed81c9ccf752a/schedule-image/lo-mejor-fecha-c.jpg" />
+  </programme>
+  <programme start="20230417070000 +0000" stop="20230417130000 +0000" channel="Win Sports">
+    <title lang="en">Repetición programación Win Sports</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a0e916513dd6c175d8420/schedule-image/repeticion-c.jpg" />
+  </programme>
+  <programme start="20230417130000 +0000" stop="20230417160000 +0000" channel="Win Sports">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/643a0ead54a04e1c3119f9b0/schedule-image/primer-toque-c.jpg" />
+  </programme>
 </tv>
