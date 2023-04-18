@@ -285,6 +285,7 @@
   </channel>
   <channel id="ATV">
     <display-name lang="es">ATV.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527586_32E6A6179D3F9DDF.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
   <channel id="TV Perú Noticias">
@@ -341,6 +342,7 @@
   </channel>
   <channel id="Fox Sports 2">
     <display-name lang="es">Fox Sports 2.</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6400460_CFCF7C91055A9854.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
   <channel id="Fox Sports 3">
@@ -20996,6 +20998,882 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/16/15168127_6E6BFBCCEE422573.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230418050000 +0000" stop="20230418060000 +0000" channel="ATV">
+    <title lang="es">Criminología Naval</title>
+    <desc lang="es">Un equipo élite de agentes del Servicio Naval de Investigación Criminal realiza investigaciones de todos los crímenes que guardan relación con personal de la Marina o de cualquier estamento naval.(n)</desc>
+    <date>2003</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13014632_049125F767425D8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418060000 +0000" stop="20230418070000 +0000" channel="ATV">
+    <title lang="es">Mentes criminales</title>
+    <desc lang="es">Un equipo élite del FBI analiza las mentes criminales más retorcidas para anticipar ataques futuros de estos peligrosos sujetos.(n)</desc>
+    <date>2005</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/17/14177431_DBD5B6E7F79A0B51.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418070000 +0000" stop="20230418080000 +0000" channel="ATV">
+    <title lang="es">Águila Roja</title>
+    <desc lang="es">Un héroe anónimo justiciero conocido con el apelativo de Águila Roja, ayuda a los débiles y busca sin descanso a los culpables del trágico asesinato de su joven esposa.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009385_7E331B8CECF9169E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418080000 +0000" stop="20230418090000 +0000" channel="ATV">
+    <title lang="es">Almas Suspendidas</title>
+    <sub-title lang="es">Piloto</sub-title>
+    <desc lang="es">Una mujer debe ayudar al espíritu de un soldado que aparentemente no acepta a su muerte.(n)</desc>
+    <date>2005</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058754_0EF24ADD3C24C3B0.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418090000 +0000" stop="20230418100000 +0000" channel="ATV">
+    <title lang="es">A Corazón Abierto</title>
+    <desc lang="es">A través de interesantes historias médicas los protagonistas entrelazan sus vidas y sus emociones en el Hospital Universitario Santa María que a partir de ahora es su nuevo hogar.(n)</desc>
+    <date>2011</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009362_02526212C0F9D5EF.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230418100000 +0000" stop="20230418150000 +0000" channel="ATV">
+    <title lang="es">ATV noticias edición matinal</title>
+    <desc lang="es">Las noticias más relevantes del día narradas con un enfoque objetivo y ágil.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997872_1365D5345DF1A1D9.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418150000 +0000" stop="20230418170000 +0000" channel="ATV">
+    <title lang="es">Noticias al día</title>
+    <desc lang="es">Toda la información de actualidad y de primera para todo el país, las noticias del momento sobre deportes, política y espectáculos con una visión crítica y analítica.(n)</desc>
+    <date>2004</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013992_6DCABCFD9559167B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230418170000 +0000" stop="20230418190000 +0000" channel="ATV">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Sehrazat, una joven viuda que no puede tratar económicamente a su hijo pequeño enfermo terminal, se ve obligada a dirigirse a su encantador jefe, pidiendo ayuda. La propuesta de su jefe cambia su vida para siempre.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/72/15728121_A9A043F1A54DF42D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418190000 +0000" stop="20230418200000 +0000" channel="ATV">
+    <title lang="es">La taxista</title>
+    <desc lang="es">Victoria, taxista, mantiene a su familia con su trabajo. Si bien, además, se espera que se case con Juan, un soltero encantador, ella se ve atraída por Álvaro, un millonario que padece una enfermedad terminal.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004663_525E3D357F954B4B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230418200000 +0000" stop="20230418210000 +0000" channel="ATV">
+    <title lang="es">La promesa</title>
+    <desc lang="es">Reyhan, una chica modesta, acepta casarse con un extraño para cumplir una promesa.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/66/15663327_A896F3C738E6327D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230418210000 +0000" stop="20230418230000 +0000" channel="ATV">
+    <title lang="es">Elif</title>
+    <desc lang="es">Melek se enamora de Kenan, el hijo favorito de la familia para la que trabajaba. Pero la madre de Kenan la rechaza y la envía lejos a pesar de estar embarazada. La hija de ambos, Elif, nace mientras su padre se casa con otra mujer.(n)</desc>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015684_9295BC3847412E8D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230418230000 +0000" stop="20230419003000 +0000" channel="ATV">
+    <title lang="es">Legado de amor</title>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/20/13206035_9D7F3D528E1B27EA.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419003000 +0000" stop="20230419014500 +0000" channel="ATV">
+    <title lang="es">ATV Noticias al estilo Juliana</title>
+    <desc lang="es">Noticiero vespertino con el acontecer diario del Perú. Se hacen entrevistas con personajes relevantes y se tratan temas sociales de interés público.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999484_3F79DBE13054A0C1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419014500 +0000" stop="20230419024500 +0000" channel="ATV">
+    <title lang="es">Andrea</title>
+    <desc lang="es">Un programa que apuesta a darle solución a los problemas que mucho peruanos viven diariamente.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004250_2862948A2C2B7ECE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419024500 +0000" stop="20230419040000 +0000" channel="ATV">
+    <title lang="es">Magaly TV, la firme</title>
+    <desc lang="es">Un programa lleno de humor, diversión y entrevistas a famosos.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008102_B45D72D7328E8371.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419040000 +0000" stop="20230419045000 +0000" channel="ATV">
+    <title lang="es">ATV noticias edición central</title>
+    <desc lang="es">Un completo resumen informativo con lo más destacado de la jornada.(n)</desc>
+    <date>2006</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009884_F9BCF2CB053EFB88.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419045000 +0000" stop="20230419050000 +0000" channel="ATV">
+    <title lang="es">El Deportivo</title>
+    <desc lang="es">Un programa que trae la mejor información deportiva nacional e internacional.(n)</desc>
+    <date>1997</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993356_19BBA9B0674598B8.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419050000 +0000" stop="20230419060000 +0000" channel="ATV">
+    <title lang="es">Criminología Naval</title>
+    <desc lang="es">Un equipo élite de agentes del Servicio Naval de Investigación Criminal realiza investigaciones de todos los crímenes que guardan relación con personal de la Marina o de cualquier estamento naval.(n)</desc>
+    <date>2003</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13014632_049125F767425D8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419060000 +0000" stop="20230419070000 +0000" channel="ATV">
+    <title lang="es">Mentes criminales</title>
+    <desc lang="es">Un equipo élite del FBI analiza las mentes criminales más retorcidas para anticipar ataques futuros de estos peligrosos sujetos.(n)</desc>
+    <date>2005</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/17/14177431_DBD5B6E7F79A0B51.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419070000 +0000" stop="20230419080000 +0000" channel="ATV">
+    <title lang="es">Águila Roja</title>
+    <desc lang="es">Un héroe anónimo justiciero conocido con el apelativo de Águila Roja, ayuda a los débiles y busca sin descanso a los culpables del trágico asesinato de su joven esposa.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009385_7E331B8CECF9169E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419080000 +0000" stop="20230419090000 +0000" channel="ATV">
+    <title lang="es">Almas Suspendidas</title>
+    <sub-title lang="es">Piloto</sub-title>
+    <desc lang="es">Una mujer debe ayudar al espíritu de un soldado que aparentemente no acepta a su muerte.(n)</desc>
+    <date>2005</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058754_0EF24ADD3C24C3B0.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419090000 +0000" stop="20230419100000 +0000" channel="ATV">
+    <title lang="es">A Corazón Abierto</title>
+    <desc lang="es">A través de interesantes historias médicas los protagonistas entrelazan sus vidas y sus emociones en el Hospital Universitario Santa María que a partir de ahora es su nuevo hogar.(n)</desc>
+    <date>2011</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009362_02526212C0F9D5EF.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419100000 +0000" stop="20230419150000 +0000" channel="ATV">
+    <title lang="es">ATV noticias edición matinal</title>
+    <desc lang="es">Las noticias más relevantes del día narradas con un enfoque objetivo y ágil.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997872_1365D5345DF1A1D9.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419150000 +0000" stop="20230419170000 +0000" channel="ATV">
+    <title lang="es">Noticias al día</title>
+    <desc lang="es">Toda la información de actualidad y de primera para todo el país, las noticias del momento sobre deportes, política y espectáculos con una visión crítica y analítica.(n)</desc>
+    <date>2004</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013992_6DCABCFD9559167B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419170000 +0000" stop="20230419190000 +0000" channel="ATV">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Sehrazat, una joven viuda que no puede tratar económicamente a su hijo pequeño enfermo terminal, se ve obligada a dirigirse a su encantador jefe, pidiendo ayuda. La propuesta de su jefe cambia su vida para siempre.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/72/15728121_A9A043F1A54DF42D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419190000 +0000" stop="20230419210000 +0000" channel="ATV">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">Bayern München vs. Manchester City</sub-title>
+    <desc lang="es">Partido de vuelta de cuartos de final. Bayern München y Manchester City cierran la serie en Alemania. Los CItizens ganaron 3-0 la ida y buscan llegar por tercer año consecutivo a semifinales. Los bávaros necesitan una remontada heroica para avanzar.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15710997_A52E67C6CB1E7196.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419210000 +0000" stop="20230419220000 +0000" channel="ATV">
+    <title lang="es">La promesa</title>
+    <desc lang="es">Reyhan, una chica modesta, acepta casarse con un extraño para cumplir una promesa.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/66/15663327_A896F3C738E6327D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419220000 +0000" stop="20230419230000 +0000" channel="ATV">
+    <title lang="es">Elif</title>
+    <desc lang="es">Melek se enamora de Kenan, el hijo favorito de la familia para la que trabajaba. Pero la madre de Kenan la rechaza y la envía lejos a pesar de estar embarazada. La hija de ambos, Elif, nace mientras su padre se casa con otra mujer.(n)</desc>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015684_9295BC3847412E8D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419230000 +0000" stop="20230420003000 +0000" channel="ATV">
+    <title lang="es">Legado de amor</title>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/20/13206035_9D7F3D528E1B27EA.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420003000 +0000" stop="20230420014500 +0000" channel="ATV">
+    <title lang="es">ATV Noticias al estilo Juliana</title>
+    <desc lang="es">Noticiero vespertino con el acontecer diario del Perú. Se hacen entrevistas con personajes relevantes y se tratan temas sociales de interés público.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12999484_3F79DBE13054A0C1.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420014500 +0000" stop="20230420024500 +0000" channel="ATV">
+    <title lang="es">Andrea</title>
+    <desc lang="es">Un programa que apuesta a darle solución a los problemas que mucho peruanos viven diariamente.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004250_2862948A2C2B7ECE.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420024500 +0000" stop="20230420040000 +0000" channel="ATV">
+    <title lang="es">Magaly TV, la firme</title>
+    <desc lang="es">Un programa lleno de humor, diversión y entrevistas a famosos.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008102_B45D72D7328E8371.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420040000 +0000" stop="20230420045000 +0000" channel="ATV">
+    <title lang="es">ATV noticias edición central</title>
+    <desc lang="es">Un completo resumen informativo con lo más destacado de la jornada.(n)</desc>
+    <date>2006</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009884_F9BCF2CB053EFB88.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420045000 +0000" stop="20230420050000 +0000" channel="ATV">
+    <title lang="es">El Deportivo</title>
+    <desc lang="es">Un programa que trae la mejor información deportiva nacional e internacional.(n)</desc>
+    <date>1997</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993356_19BBA9B0674598B8.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420050000 +0000" stop="20230420060000 +0000" channel="ATV">
+    <title lang="es">Criminología Naval</title>
+    <desc lang="es">Un equipo élite de agentes del Servicio Naval de Investigación Criminal realiza investigaciones de todos los crímenes que guardan relación con personal de la Marina o de cualquier estamento naval.(n)</desc>
+    <date>2003</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13014632_049125F767425D8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420060000 +0000" stop="20230420070000 +0000" channel="ATV">
+    <title lang="es">Mentes criminales</title>
+    <desc lang="es">Un equipo élite del FBI analiza las mentes criminales más retorcidas para anticipar ataques futuros de estos peligrosos sujetos.(n)</desc>
+    <date>2005</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/17/14177431_DBD5B6E7F79A0B51.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420070000 +0000" stop="20230420080000 +0000" channel="ATV">
+    <title lang="es">Águila Roja</title>
+    <desc lang="es">Un héroe anónimo justiciero conocido con el apelativo de Águila Roja, ayuda a los débiles y busca sin descanso a los culpables del trágico asesinato de su joven esposa.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009385_7E331B8CECF9169E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420080000 +0000" stop="20230420090000 +0000" channel="ATV">
+    <title lang="es">Almas Suspendidas</title>
+    <sub-title lang="es">Piloto</sub-title>
+    <desc lang="es">Una mujer debe ayudar al espíritu de un soldado que aparentemente no acepta a su muerte.(n)</desc>
+    <date>2005</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13058754_0EF24ADD3C24C3B0.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420090000 +0000" stop="20230420100000 +0000" channel="ATV">
+    <title lang="es">A Corazón Abierto</title>
+    <desc lang="es">A través de interesantes historias médicas los protagonistas entrelazan sus vidas y sus emociones en el Hospital Universitario Santa María que a partir de ahora es su nuevo hogar.(n)</desc>
+    <date>2011</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009362_02526212C0F9D5EF.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420100000 +0000" stop="20230420150000 +0000" channel="ATV">
+    <title lang="es">ATV noticias edición matinal</title>
+    <desc lang="es">Las noticias más relevantes del día narradas con un enfoque objetivo y ágil.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997872_1365D5345DF1A1D9.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420150000 +0000" stop="20230420170000 +0000" channel="ATV">
+    <title lang="es">Noticias al día</title>
+    <desc lang="es">Toda la información de actualidad y de primera para todo el país, las noticias del momento sobre deportes, política y espectáculos con una visión crítica y analítica.(n)</desc>
+    <date>2004</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13013992_6DCABCFD9559167B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420170000 +0000" stop="20230420190000 +0000" channel="ATV">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Sehrazat, una joven viuda que no puede tratar económicamente a su hijo pequeño enfermo terminal, se ve obligada a dirigirse a su encantador jefe, pidiendo ayuda. La propuesta de su jefe cambia su vida para siempre.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/72/15728121_A9A043F1A54DF42D.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420190000 +0000" stop="20230420200000 +0000" channel="ATV">
+    <title lang="es">La taxista</title>
+    <desc lang="es">Victoria, taxista, mantiene a su familia con su trabajo. Si bien, además, se espera que se case con Juan, un soltero encantador, ella se ve atraída por Álvaro, un millonario que padece una enfermedad terminal.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13004663_525E3D357F954B4B.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420200000 +0000" stop="20230420210000 +0000" channel="ATV">
+    <title lang="es">La promesa</title>
+    <desc lang="es">Reyhan, una chica modesta, acepta casarse con un extraño para cumplir una promesa.(n)</desc>
+    <date>2019</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/66/15663327_A896F3C738E6327D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420210000 +0000" stop="20230420230000 +0000" channel="ATV">
+    <title lang="es">Elif</title>
+    <desc lang="es">Melek se enamora de Kenan, el hijo favorito de la familia para la que trabajaba. Pero la madre de Kenan la rechaza y la envía lejos a pesar de estar embarazada. La hija de ambos, Elif, nace mientras su padre se casa con otra mujer.(n)</desc>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015684_9295BC3847412E8D.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420230000 +0000" stop="20230421003000 +0000" channel="ATV">
+    <title lang="es">Legado de amor</title>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/20/13206035_9D7F3D528E1B27EA.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230418040000 +0000" stop="20230418070000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Fight NightHolloway vs. Allen</title>
+    <desc lang="es">Tanner Boser vs. Ion Cutelaba, peso semipesado. Dustin Jacoby vs. Azamat Murzakanov, peso semipesado. Edson Barboza vs. Billy Quarantillo, peso pluma. Max Holloway vs. Arnold Allen, peso pluma. Desde el T-Mobile Center, en Kansas City, Misuri.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/65/15650683_64214867C53B2000.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418070000 +0000" stop="20230418080000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+    <desc lang="es">Los combates más esperados de la WWE, con todas las súper estrellas y divas.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010997_10276113FC2E7065.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418080000 +0000" stop="20230418083000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Conectado</title>
+    <desc lang="es">Historias alrededor del mundo del UFC: sus peleadores, entrenadores, gimnasios, y mucho más.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/25/13251539_40611131FE54BDE6.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418083000 +0000" stop="20230418090000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Ultimate Submissions</title>
+    <desc lang="es">Las mejores presentaciones por súper estrellas de la UFC.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001111_7DBC5455AE2E5AF1.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418090000 +0000" stop="20230418100000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Europa League &amp; UEFA Conference League</title>
+    <desc lang="es">Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001330_9206439C2E18F70A.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418100000 +0000" stop="20230418110000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+    <desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001317_001FE25D28393D44.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418110000 +0000" stop="20230418120000 +0000" channel="Fox Sports 2">
+    <title lang="es">San Lorenzo campeón Copa Sudamericana 2002</title>
+    <desc lang="es">Repaso de la campaña del equipo argentino en la Copa Sudamericana del año 2002, primera edición de dicho torneo, que quedaría en manos de los Cuervos.(n)</desc>
+    <date>2003</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15712505_D10EDCCAECFB5599.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418120000 +0000" stop="20230418140000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">Milan vs. Napoli</sub-title>
+    <desc lang="es">Partido de ida de cuartos de final. Milan y Napoli abren la serie desde el Giuseppe Meazza de Milán. Serpa el primer enfrentamiento de la historia entre los rossoneri y los napolitanos en competición europea.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/65/15650613_3A957EE17165C101.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230418140000 +0000" stop="20230418150000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RawHighlights</title>
+    <desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995455_38DE90E2617D58FC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418150000 +0000" stop="20230418160000 +0000" channel="Fox Sports 2">
+    <title lang="es">El Show de la Fórmula 1</title>
+    <desc lang="es">Repaso de los acontecimientos más recientes de la Fórmula 1 antes y/o después de cada carrera con entrevistas a los pilotos y mensajes de correo electrónico enviado por televidentes.(n)</desc>
+    <date>2003</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009662_6BD05F52ACDC9859.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418160000 +0000" stop="20230418190000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Fight NightHolloway vs. Allen</title>
+    <desc lang="es">Tanner Boser vs. Ion Cutelaba, peso semipesado. Dustin Jacoby vs. Azamat Murzakanov, peso semipesado. Edson Barboza vs. Billy Quarantillo, peso pluma. Max Holloway vs. Arnold Allen, peso pluma. Desde el T-Mobile Center, en Kansas City, Misuri.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/65/15650683_64214867C53B2000.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418190000 +0000" stop="20230418220000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RAW</title>
+    <desc lang="es">Las estrellas de la lucha libre profesional se enfrentan en el ring y detrás de las cámaras. Los enormes músculos son igualados por las personalidades de gran tamaño con enemistades personales y disputas profesionales.(n)</desc>
+    <date>1993</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/33/15334907_215E5BA0A9FF50BC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418220000 +0000" stop="20230418230000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+    <desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001317_001FE25D28393D44.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418230000 +0000" stop="20230418235500 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown!Highlights</title>
+    <desc lang="es">Lo mejor de SmackDown, con las más grandes estrellas de la lucha.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/76/14765719_EBBBAA892038DBD7.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230418235500 +0000" stop="20230419020000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Athletico Paranaense vs. Atlético Mineiro</sub-title>
+    <desc lang="es">Desde el Estadio Joaquim Americo Guimaraes en Curitiba, Parana, Brasil.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15714738_2962CEA1E3AB29B5.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419020000 +0000" stop="20230419040000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Internacional vs. Metropolitanos</sub-title>
+    <desc lang="es">Jornada 2 del Grupo B. Desde el estadio Beira-Rio, en Porto Alegre.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15714634_49DA94609EBD7CF8.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419040000 +0000" stop="20230419060000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">Chelsea vs. Real Madrid</sub-title>
+    <desc lang="es">Partido de vuelta de cuartos de final. Chelsea y Real Madrid cierran la serie en Stamford Bridge. Los merengues llegan con la ventaja de 2-0 del duelo de ida, saldado con goles de Karim Benzema y Marco Asensio en el Santiago Bernabéu.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/72/15727337_1F8DA36A11D88870.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419060000 +0000" stop="20230419070000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+    <desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001317_001FE25D28393D44.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419070000 +0000" stop="20230419080000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown!Highlights</title>
+    <desc lang="es">Lo mejor de SmackDown, con las más grandes estrellas de la lucha.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/76/14765719_EBBBAA892038DBD7.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419080000 +0000" stop="20230419090000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <desc lang="es">Programa de evento de artes marciales.(n)</desc>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993031_4E25F0970A954D07.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419090000 +0000" stop="20230419110000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Internacional vs. Metropolitanos</sub-title>
+    <desc lang="es">Jornada 2 del Grupo B. Desde el estadio Beira-Rio, en Porto Alegre.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15714634_49DA94609EBD7CF8.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419110000 +0000" stop="20230419120000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <desc lang="es">Programa de evento de artes marciales.(n)</desc>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993031_4E25F0970A954D07.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419120000 +0000" stop="20230419130000 +0000" channel="Fox Sports 2">
+    <title lang="es">UEFA Europa &amp; Conference League Magazine</title>
+    <desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001317_001FE25D28393D44.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419130000 +0000" stop="20230419140000 +0000" channel="Fox Sports 2">
+    <title lang="es">Goles del fútbol de Alemania</title>
+    <desc lang="es">Goles y mejores jugadas de los partidos alemanes de fútbol.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009072_2383C5458C2AAB8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419140000 +0000" stop="20230419160000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Olimpia vs. Patronato</sub-title>
+    <desc lang="es">Jornada 2 del Grupo H. Desde el estadio Manuel Ferreira, en Asunción.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15710982_1474ADDD4E0BC312.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419160000 +0000" stop="20230419170000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown!Highlights</title>
+    <desc lang="es">Lo mejor de SmackDown, con las más grandes estrellas de la lucha.(n)</desc>
+    <date>2017</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/76/14765719_EBBBAA892038DBD7.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419170000 +0000" stop="20230419173000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Ultimate Submissions</title>
+    <desc lang="es">Las mejores presentaciones por súper estrellas de la UFC.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001111_7DBC5455AE2E5AF1.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419173000 +0000" stop="20230419180000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Conectado</title>
+    <desc lang="es">Historias alrededor del mundo del UFC: sus peleadores, entrenadores, gimnasios, y mucho más.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/25/13251539_40611131FE54BDE6.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419180000 +0000" stop="20230419190000 +0000" channel="Fox Sports 2">
+    <title lang="es">Goles del fútbol de Alemania</title>
+    <desc lang="es">Goles y mejores jugadas de los partidos alemanes de fútbol.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009072_2383C5458C2AAB8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419190000 +0000" stop="20230419210000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Boca Juniors vs. Deportivo Pereira</sub-title>
+    <desc lang="es">Jornada 2 del Grupo F. Desde el estadio Alberto J. Armando, en Buenos Aires.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15714636_8B0D070A292C2DCA.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419210000 +0000" stop="20230419220500 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <desc lang="es">Programa de evento de artes marciales.(n)</desc>
+    <date>2014</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993031_4E25F0970A954D07.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230419220500 +0000" stop="20230419231000 +0000" channel="Fox Sports 2">
+    <title lang="es">ESPN Compact</title>
+    <sub-title lang="es">MotoGP 2023: Grand Prix of The Americas</sub-title>
+    <desc lang="es">Acción de la carrera disputada el 16 de abril de 2023.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998564_0CF5A2CC5C497EE8.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230419231000 +0000" stop="20230420001500 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">Un espectáculo de inmensas proporciones en el que los peleadores protagonizan grandes combates de lucha libre.(n)</desc>
+    <date>2006</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/51/13517504_BDB9CDBA9D65A25E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420001500 +0000" stop="20230420023000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Flamengo vs. Ñublense</sub-title>
+    <desc lang="es">Jornada 2 del Grupo A. Desde el estadio Maracaná, en Río de Janeiro.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15714756_B9955AB61A530FEB.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420023000 +0000" stop="20230420030000 +0000" channel="Fox Sports 2">
+    <title lang="es">Goles de la UEFA Champions League</title>
+    <desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.(n)</desc>
+    <date>2004</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009070_4FB9FD14FF62E9CB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420030000 +0000" stop="20230420040000 +0000" channel="Fox Sports 2">
+    <title lang="es">Goles del fútbol de Alemania</title>
+    <desc lang="es">Goles y mejores jugadas de los partidos alemanes de fútbol.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009072_2383C5458C2AAB8B.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420040000 +0000" stop="20230420070000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RAW</title>
+    <desc lang="es">Las estrellas de la lucha libre profesional se enfrentan en el ring y detrás de las cámaras. Los enormes músculos son igualados por las personalidades de gran tamaño con enemistades personales y disputas profesionales.(n)</desc>
+    <date>1993</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/33/15334907_215E5BA0A9FF50BC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420070000 +0000" stop="20230420080000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">Un espectáculo de inmensas proporciones en el que los peleadores protagonizan grandes combates de lucha libre.(n)</desc>
+    <date>2006</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/51/13517504_BDB9CDBA9D65A25E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420080000 +0000" stop="20230420090000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <sub-title lang="es">Usman vs. Edwards</sub-title>
+    <desc lang="es">Lo más destacado del combate entre Usman y Edwards disputado el 20 de agosto de 2022 en el Vivint Smart Home Arena.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993031_4E25F0970A954D07.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420090000 +0000" stop="20230420110000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">Barcelona vs. Club Bolívar</sub-title>
+    <desc lang="es">Jornada 2 del Grupo C. Desde el estadio Monumental Isidro Romero Carbo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15714644_8CA534A5585E183F.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420110000 +0000" stop="20230420130000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <sub-title lang="es">River vs. Sporting Cristal</sub-title>
+    <desc lang="es">Jornada 2 del Grupo D. Desde el estadio Monumental Antonio V. Liberti.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/71/15710996_7032418FC969BDB7.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420130000 +0000" stop="20230420160000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE RAW</title>
+    <desc lang="es">Las estrellas de la lucha libre profesional se enfrentan en el ring y detrás de las cámaras. Los enormes músculos son igualados por las personalidades de gran tamaño con enemistades personales y disputas profesionales.(n)</desc>
+    <date>1993</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/33/15334907_215E5BA0A9FF50BC.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420160000 +0000" stop="20230420170000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">Un espectáculo de inmensas proporciones en el que los peleadores protagonizan grandes combates de lucha libre.(n)</desc>
+    <date>2006</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/51/13517504_BDB9CDBA9D65A25E.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420170000 +0000" stop="20230420180000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <sub-title lang="es">Usman vs. Edwards</sub-title>
+    <desc lang="es">Lo más destacado del combate entre Usman y Edwards disputado el 20 de agosto de 2022 en el Vivint Smart Home Arena.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993031_4E25F0970A954D07.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420180000 +0000" stop="20230420183000 +0000" channel="Fox Sports 2">
+    <title lang="es">UFC Conectado</title>
+    <desc lang="es">Historias alrededor del mundo del UFC: sus peleadores, entrenadores, gimnasios, y mucho más.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/25/13251539_40611131FE54BDE6.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420183000 +0000" stop="20230420190000 +0000" channel="Fox Sports 2">
+    <title lang="es">Goles de la UEFA Champions League</title>
+    <desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.(n)</desc>
+    <date>2004</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009070_4FB9FD14FF62E9CB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420190000 +0000" stop="20230420210000 +0000" channel="Fox Sports 2">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <sub-title lang="es">Chelsea vs. Real Madrid</sub-title>
+    <desc lang="es">Partido de vuelta de cuartos de final. Chelsea y Real Madrid cierran la serie en Stamford Bridge. Los merengues llegan con la ventaja de 2-0 del duelo de ida, saldado con goles de Karim Benzema y Marco Asensio en el Santiago Bernabéu.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/72/15727337_1F8DA36A11D88870.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420210000 +0000" stop="20230420220000 +0000" channel="Fox Sports 2">
+    <title lang="es">ESPN Compact</title>
+    <sub-title lang="es">MotoGP 2023: Grand Prix of The Americas</sub-title>
+    <desc lang="es">Acción de la carrera disputada el 16 de abril de 2023.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998564_0CF5A2CC5C497EE8.jpg" />
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20230420220000 +0000" stop="20230420223000 +0000" channel="Fox Sports 2">
+    <title lang="es">Goles de la UEFA Champions League</title>
+    <desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.(n)</desc>
+    <date>2004</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009070_4FB9FD14FF62E9CB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420223000 +0000" stop="20230420230000 +0000" channel="Fox Sports 2">
+    <title lang="es">Goles de la UEFA Champions League</title>
+    <desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.(n)</desc>
+    <date>2004</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009070_4FB9FD14FF62E9CB.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20230420230000 +0000" stop="20230421000000 +0000" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+    <desc lang="es">Los combates más esperados de la WWE, con todas las súper estrellas y divas.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13010997_10276113FC2E7065.jpg" />
+    <rating system="MJColombia">
+      <value>+14</value>
     </rating>
   </programme>
 </tv>
