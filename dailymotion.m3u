@@ -12,16 +12,16 @@
 
 
 #EXTINF:-1 group-title="Canales Nacionales (Venezuela)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1068727951232880682/vtvve.png" tvg-id="", VTV Venezuela
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtigIftxJ-xEQeiIF3oqWHtEhYjN1lcrAKcOs9aViQO8)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhJHpF7kL7rZpCTEZQxKWjYBhH36VsxiLsj1tUMWkcVp)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Bolivia)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1065355885653790791/1200px-Uno_logo.png" tvg-id="", Red Uno
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlMxUlz5iI-wQB9X_7p5YZ2HfJfE-8qxC3hxYq-YAdlE)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Canales Nacionales (Bolivia)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1065448736332984330/RedATB2022.png" tvg-id="", ATB
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOv2dvSiJ7nzILBF10fJA0au068gOTgWCvkr3QCoqJCBG)/dm/3/x84eirw/s/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqQgq-XpCDvIkNvh-DlfbnoJvSZ_sasDMNPmOdQ_u6Ne)/dm/3/x84eirw/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Ecuador)" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/large.TCmicanal-2017.png.1b9c5a32e676ea2cfc06b74fe0bcffa8.png" tvg-id="", TC Televisión
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9MQ070caBfNXkwFyv_f9YlILeTQ1AuH_CiGKE4Xo7gW)/dm/3/x7wijay/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwLhZ9poj43059G2SjeN8lJpd7nn6oAZLZC02Ho9GEmz)/dm/3/x7wijay/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/2560px-TV_Brasil_logo_2019.svg.png" tvg-id="", TV Brasil
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
