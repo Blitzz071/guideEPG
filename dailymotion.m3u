@@ -12,16 +12,16 @@
 
 
 #EXTINF:-1 group-title="Canales Nacionales (Venezuela)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1068727951232880682/vtvve.png" tvg-id="", VTV Venezuela
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu40vZu-ohbon-8OP8njJwynNbQIj5hiGHqHYOmR2o7u)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqxgfoUOpmPOCeaGeAc7ehPQHjIfhOj9Ueh_OYka_voR)/dm/3/x828i6j/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Bolivia)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1065355885653790791/1200px-Uno_logo.png" tvg-id="", Red Uno
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkKTqBCxN-ZL15zq5HqUM84EyHZGcaFyHqRIBvL5BJKM)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpgTeaFmjisNQuLOtXiND_wZc2VMVpoRCVWfu9hShfnp)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Bolivia)" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1065448736332984330/RedATB2022.png" tvg-id="", ATB
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOoe1pP4-LURabM1n7GIXG05asOTNHMw800bjtkEFQvTt)/dm/3/x84eirw/s/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOgdXmXAPiAiNG6J1P1Ne7R1d1KXTJLzzXTNYBdCzPFO4)/dm/3/x84eirw/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Ecuador)" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/large.TCmicanal-2017.png.1b9c5a32e676ea2cfc06b74fe0bcffa8.png" tvg-id="", TC Televisión
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2EE04cM_GAazbcheBKtnFUh9yqde2NABKMNYgd5q2fe)/dm/3/x7wijay/s/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7lImrZTOH9sjqzhzZZCNSHkPj9685ZuGWb-uZitJETj)/dm/3/x7wijay/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="Canales Nacionales (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/2560px-TV_Brasil_logo_2019.svg.png" tvg-id="", TV Brasil
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
