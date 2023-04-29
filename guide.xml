@@ -25047,4 +25047,550 @@
     <title lang="en">Santa Fe vs. Tolima</title>
     <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
   </programme>
+  <programme start="20230429041500 +0000" stop="20230429061500 +0000" channel="Band Sports">
+    <title lang="pt">Barcelona x Zalgiris - Euroliga de Basquete : Barcelona x Zalgiris</title>
+    <sub-title lang="pt">Barcelona x Zalgiris</sub-title>
+    <desc lang="pt">Pela Rodada 26, o Barcelona recebe o Zalgiris no Palau Blaugrana, na Espanha. Na busca pela liderança do torneio europeu, o Barça precisa do resultado para ainda sonhar com o título. Já o Zalgiris vem tentando escalar na tabela.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/87/15874598_2270A9EED2868417.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429061500 +0000" stop="20230429080000 +0000" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">Acompanhe as notícias do futebol no Brasil e no mundo, com muita análise e debate.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/30/14304633_77F7238F47CD67B7.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230429080000 +0000" stop="20230429090000 +0000" channel="Band Sports">
+    <title lang="pt">Formula E Unplugged</title>
+    <desc lang="pt">Conheça os bastidores da competição internacional de velocidade disputada com automóveis elétricos. Onze equipes e 22 pilotos brigam pelo título no esporte que combina a ação dramática do automobilismo com o desenvolvimento de tecnologia de ponta.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/60/15608640_AA51164B93E778FD.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429090000 +0000" stop="20230429092000 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão - Classificatória : GP do Azerbaijão - Classificatória</title>
+    <sub-title lang="pt">GP do Azerbaijão - Classificatória</sub-title>
+    <desc lang="pt">A disputa pela pole position, para definir quem largará na frente no Grande Prêmio do Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/11/12112737_E1903E3FB5F18664.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429092000 +0000" stop="20230429103000 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão - Treino Livre 2 : GP do Azerbaijão - Treino Livre 2</title>
+    <sub-title lang="pt">GP do Azerbaijão - Treino Livre 2</sub-title>
+    <desc lang="pt">Todo o reconhecimento de pista por parte dos pilotos, para o Grande Prêmio do Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/11/12112737_E1903E3FB5F18664.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429103000 +0000" stop="20230429110000 +0000" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Conheça as novidades do mercado automobilístico, além de supermáquinas e grandes clássicos.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11819176_5D4DE045AE5F3964.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429110000 +0000" stop="20230429120000 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 2 - GP do Azerbaijão - Sprint : GP do Azerbaijão - Sprint</title>
+    <sub-title lang="pt">GP do Azerbaijão - Sprint</sub-title>
+    <desc lang="pt">Todo o aquecimento entre os pilotos para o Grande Prêmio do Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11822653_4A63C25033F46799.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429120000 +0000" stop="20230429130000 +0000" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+    <desc lang="pt">Programa especializado no mundo motor, sempre com convidados renomados do meio, trazendo informação, serviço e as principais notícias do automobilismo da semana, além de dicas práticas e lançamentos.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12977567_69291FFC82187BF6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230429130000 +0000" stop="20230429141500 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão - Sprint : GP do Azerbaijão - Sprint</title>
+    <sub-title lang="pt">GP do Azerbaijão - Sprint</sub-title>
+    <desc lang="pt">Toda a disputa do sprint, em um aquecimento para a grande corrida no Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/11/12112737_E1903E3FB5F18664.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429141500 +0000" stop="20230429151500 +0000" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+    <desc lang="pt">Programa especializado no mundo motor, sempre com convidados renomados do meio, trazendo informação, serviço e as principais notícias do automobilismo da semana, além de dicas práticas e lançamentos.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12977567_69291FFC82187BF6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230429151500 +0000" stop="20230429160000 +0000" channel="Band Sports">
+    <title lang="pt">Oléé S.A.</title>
+    <desc lang="pt">Acompanhe uma discussão sobre o que acontece fora das disputas esportivas. Veja tudo sobre as modalidades por meio da ótica dos negócios e do nicho econômico.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11835238_8FC1B602FF9ED80F.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230429160000 +0000" stop="20230429163000 +0000" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises sobre o futebol internacional.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11856607_7C92B18F7B927F91.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230429163000 +0000" stop="20230429180000 +0000" channel="Band Sports">
+    <title lang="pt">Mitsubishi Cup</title>
+    <desc lang="pt">Acompanhe as emoções do mais tradicional rali monomarca cross country da América Latina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/85/15854780_E7B637AFBADE783C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429180000 +0000" stop="20230429203000 +0000" channel="Band Sports">
+    <title lang="pt">NASCAR Xfinity Series - Etapa de Dover : Etapa de Dover</title>
+    <sub-title lang="pt">Etapa de Dover</sub-title>
+    <desc lang="pt">Toda a disputa do segundo maior torneio da NASCAR, com sua etapa no Dover Motor Speedway, EUA.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11828977_A83FD63D8A3DE49E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429203000 +0000" stop="20230429210000 +0000" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+    <desc lang="pt">Acompanhe reportagens exclusivas e novidades sobre o mundo do golfe.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/96/12965369_BEBB11144B9BE9EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429210000 +0000" stop="20230429230000 +0000" channel="Band Sports">
+    <title lang="pt">Liga Feminina de Futsal</title>
+    <desc lang="pt">A LFF é um dos maiores torneios de futsal feminino do Brasil.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/99/11992210_6AADF12A60405ADE.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429230000 +0000" stop="20230429234500 +0000" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt">Acompanhe todo um descontraído bate-papo a respeito do mundo dos esportes.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13133793_9963C97185B81DCF.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230429234500 +0000" stop="20230430004500 +0000" channel="Band Sports">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/95/12950091_00A501E1AA658683.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430004500 +0000" stop="20230430014500 +0000" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Acompanhe entrevistas com personalidades do mundo esportivo.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978085_DDFE8EBB504A51A3.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230430014500 +0000" stop="20230430030000 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão - Sprint : GP do Azerbaijão - Sprint</title>
+    <sub-title lang="pt">GP do Azerbaijão - Sprint</sub-title>
+    <desc lang="pt">Toda a disputa do sprint, em um aquecimento para a grande corrida no Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/11/12112737_E1903E3FB5F18664.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430030000 +0000" stop="20230430050000 +0000" channel="Band Sports">
+    <title lang="pt">SFT: Standout Fighting Tournament</title>
+    <desc lang="pt">Acompanhe as emocionantes lutas de MMA.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11826868_30D2CD19CD7CBFF4.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430050000 +0000" stop="20230430060000 +0000" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Acompanhe entrevistas com personalidades do mundo esportivo.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978085_DDFE8EBB504A51A3.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230430060000 +0000" stop="20230430064500 +0000" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt">Acompanhe todo um descontraído bate-papo a respeito do mundo dos esportes.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13133793_9963C97185B81DCF.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430064500 +0000" stop="20230430073000 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 2 - Etapa da Austrália: Sprint Race : Etapa da Austrália: Sprint Race</title>
+    <sub-title lang="pt">Etapa da Austrália: Sprint Race</sub-title>
+    <desc lang="pt">Corrida sprint da terceira etapa de 2023. Do Circuito de Albert Park, em Melbourne, Austrália.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11822653_4A63C25033F46799.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430073000 +0000" stop="20230430084500 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 2 - GP do Azerbaijão : GP do Azerbaijão</title>
+    <sub-title lang="pt">GP do Azerbaijão</sub-title>
+    <desc lang="pt">Toda a disputa do maior torneio de automobilismo do mundo, agora com o Grande Prêmio do Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11822653_4A63C25033F46799.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430084500 +0000" stop="20230430090000 +0000" channel="Band Sports">
+    <title lang="pt">Drop Bandsports</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo em rápido e dinâmico programa.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/61/13617759_2EC6A9945686B9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430090000 +0000" stop="20230430101500 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão - Sprint : GP do Azerbaijão - Sprint</title>
+    <sub-title lang="pt">GP do Azerbaijão - Sprint</sub-title>
+    <desc lang="pt">Toda a disputa do sprint, em um aquecimento para a grande corrida no Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/11/12112737_E1903E3FB5F18664.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430101500 +0000" stop="20230430113000 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 2 - GP do Azerbaijão : GP do Azerbaijão</title>
+    <sub-title lang="pt">GP do Azerbaijão</sub-title>
+    <desc lang="pt">Toda a disputa do maior torneio de automobilismo do mundo, agora com o Grande Prêmio do Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11822653_4A63C25033F46799.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430113000 +0000" stop="20230430123000 +0000" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Acompanhe entrevistas com personalidades do mundo esportivo.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978085_DDFE8EBB504A51A3.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230430123000 +0000" stop="20230430130000 +0000" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Conheça as novidades do mercado automobilístico, além de supermáquinas e grandes clássicos.(n)</desc>
+    <date>2015</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11819176_5D4DE045AE5F3964.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430130000 +0000" stop="20230430140000 +0000" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross - Portugal MGXP - Corrida 1 : Portugal MGXP - Corrida 1</title>
+    <sub-title lang="pt">Portugal MGXP - Corrida 1</sub-title>
+    <desc lang="pt">Acompanhe a primeira corrida da etapa de Portugal.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11845702_A3F0D35A5DEBD84F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430140000 +0000" stop="20230430143000 +0000" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+    <desc lang="pt">Programa especializado no mundo motor, sempre com convidados renomados do meio, trazendo informação, serviço e as principais notícias do automobilismo da semana, além de dicas práticas e lançamentos.(n)</desc>
+    <date>2007</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12977567_69291FFC82187BF6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230430143000 +0000" stop="20230430153000 +0000" channel="Band Sports">
+    <title lang="pt">Nascar Brasil Sprint Race - Etapa 1: Goiânia - Corrida 2 : Etapa 1: Goiânia - Corrida 2</title>
+    <sub-title lang="pt">Etapa 1: Goiânia - Corrida 2</sub-title>
+    <desc lang="pt">Acompanhe a primeira etapa da temporada. Do Autódromo Internacional Ayrton Senna, em Goiânia, GO.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11860945_7B869C23874B09ED.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430153000 +0000" stop="20230430160000 +0000" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+    <desc lang="pt">Acompanhe reportagens exclusivas e novidades sobre o mundo do golfe.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/96/12965369_BEBB11144B9BE9EC.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430160000 +0000" stop="20230430170000 +0000" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross - Portugal MXGP - Corrida 2 : Portugal MXGP - Corrida 2</title>
+    <sub-title lang="pt">Portugal MXGP - Corrida 2</sub-title>
+    <desc lang="pt">Toda a disputa do maior torneio de motocross do mundo, agora com sua etapa em Portugal.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11845702_A3F0D35A5DEBD84F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430170000 +0000" stop="20230430180000 +0000" channel="Band Sports">
+    <title lang="pt">Mitsubishi Cup : Compacto</title>
+    <sub-title lang="pt">Compacto</sub-title>
+    <desc lang="pt">Tudo o que aconteceu no maior torneio para Mitsubishis no Brasil.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/85/15854548_41CFCDC38AF217F7.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430180000 +0000" stop="20230430213000 +0000" channel="Band Sports">
+    <title lang="pt">NASCAR Cup Series</title>
+    <desc lang="pt">Acompanhe as emoções das etapas da NASCAR Cup Series.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/49/15493146_97CBE356D4929CD3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430213000 +0000" stop="20230430223000 +0000" channel="Band Sports">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/95/12950091_00A501E1AA658683.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230430223000 +0000" stop="20230501003000 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão : GP do Azerbaijão</title>
+    <sub-title lang="pt">GP do Azerbaijão</sub-title>
+    <desc lang="pt">Toda a disputa do maior torneio de automobilismo do mundo, agora com sua etapa no Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/11/12112737_E1903E3FB5F18664.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501003000 +0000" stop="20230501014500 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 2 - GP do Azerbaijão : GP do Azerbaijão</title>
+    <sub-title lang="pt">GP do Azerbaijão</sub-title>
+    <desc lang="pt">Toda a disputa do maior torneio de automobilismo do mundo, agora com o Grande Prêmio do Azerbaijão.(n)</desc>
+    <date>2023</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11822653_4A63C25033F46799.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501014500 +0000" stop="20230501031500 +0000" channel="Band Sports">
+    <title lang="pt">Copa Truck</title>
+    <desc lang="pt">Acompanhe as emoções da competição de velocidade que envolve caminhões preparados para corrida.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/79/11799638_DAC1B57197DE8022.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501031500 +0000" stop="20230501051500 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão : GP do Azerbaijão</title>
+    <sub-title lang="pt">GP do Azerbaijão</sub-title>
+    <desc lang="pt">Acompanhe a sexta etapa do mundial. Do Circuito da Cidade de Baku, no Azerbaijão.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/83/15834113_BE18DF305920334F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501051500 +0000" stop="20230501060000 +0000" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt">Acompanhe todo um descontraído bate-papo a respeito do mundo dos esportes.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13133793_9963C97185B81DCF.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501060000 +0000" stop="20230501070000 +0000" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Acompanhe entrevistas com personalidades do mundo esportivo.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978085_DDFE8EBB504A51A3.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230501070000 +0000" stop="20230501071500 +0000" channel="Band Sports">
+    <title lang="pt">SFT: Standout Fighting Tournament</title>
+    <desc lang="pt">Acompanhe as emocionantes lutas de MMA.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11826868_30D2CD19CD7CBFF4.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501071500 +0000" stop="20230501080000 +0000" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt">Acompanhe todo um descontraído bate-papo a respeito do mundo dos esportes.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13133793_9963C97185B81DCF.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501080000 +0000" stop="20230501084500 +0000" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Acompanhe entrevistas com personalidades do mundo esportivo.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978085_DDFE8EBB504A51A3.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230501084500 +0000" stop="20230501090000 +0000" channel="Band Sports">
+    <title lang="pt">Drop Bandsports</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo em rápido e dinâmico programa.(n)</desc>
+    <date>2022</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/61/13617759_2EC6A9945686B9B1.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501090000 +0000" stop="20230501100000 +0000" channel="Band Sports">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/95/12950091_00A501E1AA658683.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501100000 +0000" stop="20230501110000 +0000" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Acompanhe entrevistas com personalidades do mundo esportivo.(n)</desc>
+    <date>2018</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978085_DDFE8EBB504A51A3.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230501110000 +0000" stop="20230501140000 +0000" channel="Band Sports">
+    <title lang="pt">NASCAR Cup Series</title>
+    <desc lang="pt">Acompanhe as emoções das etapas da NASCAR Cup Series.(n)</desc>
+    <date>2020</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/49/15493146_97CBE356D4929CD3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501140000 +0000" stop="20230501150000 +0000" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+    <desc lang="pt">Comece o dia com notícias do mundo esportivo. Convidados famosos são recebidos para uma conversa descontraída. Além das informações atualizadas do esporte, o programa reserva um espaço para o noticiário geral, com a conexão Bandnews.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/77/11775739_49771830DF9B5029.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230501150000 +0000" stop="20230501170000 +0000" channel="Band Sports">
+    <title lang="pt">G4</title>
+    <desc lang="pt">Os principais assuntos do futebol são debatidos por especialistas no assunto.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11842059_26D0D2C70016BD36.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501170000 +0000" stop="20230501180000 +0000" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+    <desc lang="pt">Acompanhe a todas as atualizações do mundo esportivo, com muita opinião.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11842055_99FFB8635EEACB28.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501180000 +0000" stop="20230501200000 +0000" channel="Band Sports">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão : GP do Azerbaijão</title>
+    <sub-title lang="pt">GP do Azerbaijão</sub-title>
+    <desc lang="pt">Acompanhe a sexta etapa do mundial. Do Circuito da Cidade de Baku, no Azerbaijão.(n)</desc>
+    <date>2021</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/83/15834113_BE18DF305920334F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501200000 +0000" stop="20230501210000 +0000" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Acompanhe o programa de debate sobre o mundo do futebol mais bem-humorado da televisão.(n)</desc>
+    <date>2012</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910320_3832B94C59968F6C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501210000 +0000" stop="20230501224500 +0000" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">Acompanhe as notícias do futebol no Brasil e no mundo, com muita análise e debate.(n)</desc>
+    <date>2009</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/30/14304633_77F7238F47CD67B7.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230501224500 +0000" stop="20230501230000 +0000" channel="Band Sports">
+    <title lang="pt">BandSports News</title>
+    <desc lang="pt">Acompanhe as notícias esportivas mais relevantes no Brasil e no mundo.(n)</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/95/12950091_00A501E1AA658683.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20230501230000 +0000" stop="20230502010000 +0000" channel="Band Sports">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">Programa feito por quem conhece o que realmente acontece dentro das quatro linhas. Grandes craques do futebol dizem as verdades que muitos não conhecem e outros não tem coragem de falar. Tudo com muita provocação e bom humor.(n)</desc>
+    <date>2013</date>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11816926_B6DB9557B60DCAE1.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
